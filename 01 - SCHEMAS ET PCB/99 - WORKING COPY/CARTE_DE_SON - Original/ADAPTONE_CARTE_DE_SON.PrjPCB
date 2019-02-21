@@ -107,23 +107,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RQBYFYYE
 
 [Document5]
-DocumentPath=16SoundsUSB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SJGVPRPW
-
-[Document6]
 DocumentPath=ADC.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MUERVBWR
 
-[Document7]
+[Document6]
 DocumentPath=InputAmplifier.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQSGNHIW
 
-[Document8]
+[Document7]
 DocumentPath=AudioInputs_8.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRXDAPPU
 
-[Document9]
+[Document8]
 DocumentPath=Other.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -191,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=REVVSOMA
 
-[Document10]
+[Document9]
 DocumentPath=OutputSettings.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=XMOS_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKTVHQXY
 
-[Document12]
+[Document11]
 DocumentPath=DAC.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEQHKUKD
 
-[Document13]
+[Document12]
 DocumentPath=OutputConnectors.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -259,8 +242,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYPRMDYR
 
-[Document14]
-DocumentPath=16SoundsUSB.Annotation
+[Document13]
+DocumentPath=ADAPTONE_CARTE_DE_SON.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -275,10 +258,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=PCB3 2016-09-17 20-33-01.WAS
-DItemRevisionGUID=
 
 [Parameter1]
 Name=DrawnByGlobal
