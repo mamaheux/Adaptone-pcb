@@ -123,6 +123,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MUERVBWR
 
 [Document6]
+DocumentPath=AudioInputs_16.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GRXDAPPU
+
+[Document7]
 DocumentPath=InputAmplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,23 +155,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQSGNHIW
-
-[Document7]
-DocumentPath=AudioInputs_8.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GRXDAPPU
 
 [Document8]
 DocumentPath=Other.SchDoc
