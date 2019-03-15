@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FQSGNHIW
 
 [Document7]
-DocumentPath=Other.SchDoc
+DocumentPath=LEDs_I2C_PORT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -430,40 +430,40 @@ GenerateClassCluster=0
 DocumentUniqueId=BLTCAVNU
 
 [Parameter1]
-Name=PGlobal_Project
-Value=
+Name=Project_Revision
+Value=1.00
 
 [Parameter2]
-Name=Project_Date
-Value=2019-01-01
+Name=Project_Name
+Value=Carte de son
 
 [Parameter3]
-Name=Project_Designer1
-Value=Pascal Lemieux
+Name=Project_Group
+Value=Adaptone
 
 [Parameter4]
-Name=Project_Designer2
-Value=Vincent-Phillipe Réhaume
+Name=Project_Designer4
+Value=Marc-Antoine Maheux
 
 [Parameter5]
 Name=Project_Designer3
 Value=Émile Laplante
 
 [Parameter6]
-Name=Project_Designer4
-Value=Marc-Antoine Maheux
+Name=Project_Designer2
+Value=Vincent-Phillipe Réhaume
 
 [Parameter7]
-Name=Project_Group
-Value=Adaptone
+Name=Project_Designer1
+Value=Pascal Lemieux
 
 [Parameter8]
-Name=Project_Name
-Value=Carte de son
+Name=Project_Date
+Value=2019-01-01
 
 [Parameter9]
-Name=Project_Revision
-Value=1.00
+Name=PGlobal_Project
+Value=
 
 [Configuration1]
 Name=Default Configuration
@@ -1237,7 +1237,7 @@ Type65=2
 Type66=3
 Type67=2
 Type68=2
-Type69=1
+Type69=2
 Type70=2
 Type71=2
 Type72=2
