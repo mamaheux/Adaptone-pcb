@@ -429,40 +429,40 @@ GenerateClassCluster=0
 DocumentUniqueId=REVVSOMA
 
 [Parameter1]
-Name=Project_Revision
-Value=1.00
+Name=PGlobal_Project
+Value=
 
 [Parameter2]
-Name=Project_Name
-Value=Carte de son
+Name=Project_Date
+Value=2019-01-01
 
 [Parameter3]
-Name=Project_Group
-Value=Adaptone
+Name=Project_Designer1
+Value=Pascal Lemieux
 
 [Parameter4]
-Name=Project_Designer4
-Value=Marc-Antoine Maheux
+Name=Project_Designer2
+Value=Vincent-Phillipe Réhaume
 
 [Parameter5]
 Name=Project_Designer3
 Value=Émile Laplante
 
 [Parameter6]
-Name=Project_Designer2
-Value=Vincent-Phillipe Réhaume
+Name=Project_Designer4
+Value=Marc-Antoine Maheux
 
 [Parameter7]
-Name=Project_Designer1
-Value=Pascal Lemieux
+Name=Project_Group
+Value=Adaptone
 
 [Parameter8]
-Name=Project_Date
-Value=2019-01-01
+Name=Project_Name
+Value=Carte de son
 
 [Parameter9]
-Name=PGlobal_Project
-Value=
+Name=Project_Revision
+Value=1.00
 
 [Configuration1]
 Name=Default Configuration
