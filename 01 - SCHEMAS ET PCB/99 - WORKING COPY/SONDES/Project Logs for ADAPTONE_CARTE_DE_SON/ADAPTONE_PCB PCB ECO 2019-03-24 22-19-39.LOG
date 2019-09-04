@@ -1,0 +1,224 @@
+Removed Pin From Net: NetName=GND Pin=C64.1-1
+Removed Pin From Net: NetName=+5VA Pin=C64.1-2
+Removed Pin From Net: NetName=GND Pin=C64.2-1
+Removed Pin From Net: NetName=+5VA Pin=C64.2-2
+Removed Pin From Net: NetName=GND Pin=C64.3-1
+Removed Pin From Net: NetName=+5VA Pin=C64.3-2
+Removed Pin From Net: NetName=GND Pin=C64.4-1
+Removed Pin From Net: NetName=+5VA Pin=C64.4-2
+Removed Pin From Net: NetName=GND Pin=C64.5-1
+Removed Pin From Net: NetName=+5VA Pin=C64.5-2
+Removed Pin From Net: NetName=GND Pin=C64.6-1
+Removed Pin From Net: NetName=+5VA Pin=C64.6-2
+Removed Pin From Net: NetName=GND Pin=C64.7-1
+Removed Pin From Net: NetName=+5VA Pin=C64.7-2
+Removed Pin From Net: NetName=GND Pin=C64.8-1
+Removed Pin From Net: NetName=+5VA Pin=C64.8-2
+Removed Pin From Net: NetName=GND Pin=C64.9-1
+Removed Pin From Net: NetName=+5VA Pin=C64.9-2
+Removed Pin From Net: NetName=GND Pin=C64.10-1
+Removed Pin From Net: NetName=+5VA Pin=C64.10-2
+Removed Pin From Net: NetName=GND Pin=C64.11-1
+Removed Pin From Net: NetName=+5VA Pin=C64.11-2
+Removed Pin From Net: NetName=GND Pin=C64.12-1
+Removed Pin From Net: NetName=+5VA Pin=C64.12-2
+Removed Pin From Net: NetName=GND Pin=C64.13-1
+Removed Pin From Net: NetName=+5VA Pin=C64.13-2
+Removed Pin From Net: NetName=GND Pin=C64.14-1
+Removed Pin From Net: NetName=+5VA Pin=C64.14-2
+Removed Pin From Net: NetName=GND Pin=C64.15-1
+Removed Pin From Net: NetName=+5VA Pin=C64.15-2
+Removed Pin From Net: NetName=GND Pin=C64.16-1
+Removed Pin From Net: NetName=+5VA Pin=C64.16-2
+Removed Pin From Net: NetName=GND Pin=C72.1-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.1-2
+Removed Pin From Net: NetName=GND Pin=C72.2-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.2-2
+Removed Pin From Net: NetName=GND Pin=C72.3-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.3-2
+Removed Pin From Net: NetName=GND Pin=C72.4-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.4-2
+Removed Pin From Net: NetName=GND Pin=C72.5-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.5-2
+Removed Pin From Net: NetName=GND Pin=C72.6-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.6-2
+Removed Pin From Net: NetName=GND Pin=C72.7-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.7-2
+Removed Pin From Net: NetName=GND Pin=C72.8-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.8-2
+Removed Pin From Net: NetName=GND Pin=C72.9-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.9-2
+Removed Pin From Net: NetName=GND Pin=C72.10-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.10-2
+Removed Pin From Net: NetName=GND Pin=C72.11-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.11-2
+Removed Pin From Net: NetName=GND Pin=C72.12-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.12-2
+Removed Pin From Net: NetName=GND Pin=C72.13-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.13-2
+Removed Pin From Net: NetName=GND Pin=C72.14-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.14-2
+Removed Pin From Net: NetName=GND Pin=C72.15-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.15-2
+Removed Pin From Net: NetName=GND Pin=C72.16-1
+Removed Pin From Net: NetName=+2V5 Pin=C72.16-2
+Change Component Footprint: Designator=C63.1 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.2 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.3 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.4 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.5 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.6 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.7 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.8 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.9 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.10 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.11 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.12 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.13 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.14 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.15 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C63.16 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.1 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.2 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.3 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.4 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.5 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.6 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.7 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.8 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.9 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.10 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.11 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.12 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.13 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.14 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.15 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C64.16 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.1 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.2 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.3 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.4 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.5 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.6 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.7 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.8 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.9 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.10 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.11 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.12 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.13 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.14 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.15 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C71.16 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.1 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.2 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.3 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.4 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.5 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.6 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.7 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.8 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.9 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.10 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.11 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.12 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.13 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.14 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.15 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C72.16 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C62.1 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.2 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.3 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.4 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.5 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.6 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.7 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.8 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.9 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.10 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.11 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.12 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.13 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.14 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.15 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C62.16 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.1 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.2 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.3 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.4 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.5 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.6 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.7 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.8 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.9 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.10 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.11 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.12 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.13 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.14 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.15 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=C70.16 Old Footprint=0805 New Footprint=0402
+Added Pin To Net: NetName=+5VA Pin=C64.1-1
+Added Pin To Net: NetName=GND Pin=C64.1-2
+Added Pin To Net: NetName=+5VA Pin=C64.2-1
+Added Pin To Net: NetName=GND Pin=C64.2-2
+Added Pin To Net: NetName=+5VA Pin=C64.3-1
+Added Pin To Net: NetName=GND Pin=C64.3-2
+Added Pin To Net: NetName=+5VA Pin=C64.4-1
+Added Pin To Net: NetName=GND Pin=C64.4-2
+Added Pin To Net: NetName=+5VA Pin=C64.5-1
+Added Pin To Net: NetName=GND Pin=C64.5-2
+Added Pin To Net: NetName=+5VA Pin=C64.6-1
+Added Pin To Net: NetName=GND Pin=C64.6-2
+Added Pin To Net: NetName=+5VA Pin=C64.7-1
+Added Pin To Net: NetName=GND Pin=C64.7-2
+Added Pin To Net: NetName=+5VA Pin=C64.8-1
+Added Pin To Net: NetName=GND Pin=C64.8-2
+Added Pin To Net: NetName=+5VA Pin=C64.9-1
+Added Pin To Net: NetName=GND Pin=C64.9-2
+Added Pin To Net: NetName=+5VA Pin=C64.10-1
+Added Pin To Net: NetName=GND Pin=C64.10-2
+Added Pin To Net: NetName=+5VA Pin=C64.11-1
+Added Pin To Net: NetName=GND Pin=C64.11-2
+Added Pin To Net: NetName=+5VA Pin=C64.12-1
+Added Pin To Net: NetName=GND Pin=C64.12-2
+Added Pin To Net: NetName=+5VA Pin=C64.13-1
+Added Pin To Net: NetName=GND Pin=C64.13-2
+Added Pin To Net: NetName=+5VA Pin=C64.14-1
+Added Pin To Net: NetName=GND Pin=C64.14-2
+Added Pin To Net: NetName=+5VA Pin=C64.15-1
+Added Pin To Net: NetName=GND Pin=C64.15-2
+Added Pin To Net: NetName=+5VA Pin=C64.16-1
+Added Pin To Net: NetName=GND Pin=C64.16-2
+Added Pin To Net: NetName=+2V5 Pin=C72.1-1
+Added Pin To Net: NetName=GND Pin=C72.1-2
+Added Pin To Net: NetName=+2V5 Pin=C72.2-1
+Added Pin To Net: NetName=GND Pin=C72.2-2
+Added Pin To Net: NetName=+2V5 Pin=C72.3-1
+Added Pin To Net: NetName=GND Pin=C72.3-2
+Added Pin To Net: NetName=+2V5 Pin=C72.4-1
+Added Pin To Net: NetName=GND Pin=C72.4-2
+Added Pin To Net: NetName=+2V5 Pin=C72.5-1
+Added Pin To Net: NetName=GND Pin=C72.5-2
+Added Pin To Net: NetName=+2V5 Pin=C72.6-1
+Added Pin To Net: NetName=GND Pin=C72.6-2
+Added Pin To Net: NetName=+2V5 Pin=C72.7-1
+Added Pin To Net: NetName=GND Pin=C72.7-2
+Added Pin To Net: NetName=+2V5 Pin=C72.8-1
+Added Pin To Net: NetName=GND Pin=C72.8-2
+Added Pin To Net: NetName=+2V5 Pin=C72.9-1
+Added Pin To Net: NetName=GND Pin=C72.9-2
+Added Pin To Net: NetName=+2V5 Pin=C72.10-1
+Added Pin To Net: NetName=GND Pin=C72.10-2
+Added Pin To Net: NetName=+2V5 Pin=C72.11-1
+Added Pin To Net: NetName=GND Pin=C72.11-2
+Added Pin To Net: NetName=+2V5 Pin=C72.12-1
+Added Pin To Net: NetName=GND Pin=C72.12-2
+Added Pin To Net: NetName=+2V5 Pin=C72.13-1
+Added Pin To Net: NetName=GND Pin=C72.13-2
+Added Pin To Net: NetName=+2V5 Pin=C72.14-1
+Added Pin To Net: NetName=GND Pin=C72.14-2
+Added Pin To Net: NetName=+2V5 Pin=C72.15-1
+Added Pin To Net: NetName=GND Pin=C72.15-2
+Added Pin To Net: NetName=+2V5 Pin=C72.16-1
+Added Pin To Net: NetName=GND Pin=C72.16-2

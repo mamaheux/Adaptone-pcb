@@ -1,0 +1,157 @@
+Added Component: Designator=C58_U_InputAmplifier1(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier2(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier3(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier4(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier5(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier6(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier7(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier8(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier9(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier10(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier11(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier12(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier13(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier14(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier15(CAP_1210)
+Added Component: Designator=C58_U_InputAmplifier16(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier1(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier2(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier3(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier4(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier5(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier6(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier7(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier8(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier9(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier10(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier11(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier12(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier13(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier14(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier15(CAP_1210)
+Added Component: Designator=C66_U_InputAmplifier16(CAP_1210)
+Added Pin To Net: NetName=NetC58_U_InputAmplifier1_1 Pin=C58_U_InputAmplifier1-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier1_2 Pin=C58_U_InputAmplifier1-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier2_1 Pin=C58_U_InputAmplifier2-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier2_2 Pin=C58_U_InputAmplifier2-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier3_1 Pin=C58_U_InputAmplifier3-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier3_2 Pin=C58_U_InputAmplifier3-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier4_1 Pin=C58_U_InputAmplifier4-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier4_2 Pin=C58_U_InputAmplifier4-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier5_1 Pin=C58_U_InputAmplifier5-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier5_2 Pin=C58_U_InputAmplifier5-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier6_1 Pin=C58_U_InputAmplifier6-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier6_2 Pin=C58_U_InputAmplifier6-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier7_1 Pin=C58_U_InputAmplifier7-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier7_2 Pin=C58_U_InputAmplifier7-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier8_1 Pin=C58_U_InputAmplifier8-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier8_2 Pin=C58_U_InputAmplifier8-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier9_1 Pin=C58_U_InputAmplifier9-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier9_2 Pin=C58_U_InputAmplifier9-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier10_1 Pin=C58_U_InputAmplifier10-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier10_2 Pin=C58_U_InputAmplifier10-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier11_1 Pin=C58_U_InputAmplifier11-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier11_2 Pin=C58_U_InputAmplifier11-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier12_1 Pin=C58_U_InputAmplifier12-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier12_2 Pin=C58_U_InputAmplifier12-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier13_1 Pin=C58_U_InputAmplifier13-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier13_2 Pin=C58_U_InputAmplifier13-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier14_1 Pin=C58_U_InputAmplifier14-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier14_2 Pin=C58_U_InputAmplifier14-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier15_1 Pin=C58_U_InputAmplifier15-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier15_2 Pin=C58_U_InputAmplifier15-2
+Added Pin To Net: NetName=NetC58_U_InputAmplifier16_1 Pin=C58_U_InputAmplifier16-1
+Added Pin To Net: NetName=NetC58_U_InputAmplifier16_2 Pin=C58_U_InputAmplifier16-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier1_1 Pin=C66_U_InputAmplifier1-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier1_2 Pin=C66_U_InputAmplifier1-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier2_1 Pin=C66_U_InputAmplifier2-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier2_2 Pin=C66_U_InputAmplifier2-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier3_1 Pin=C66_U_InputAmplifier3-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier3_2 Pin=C66_U_InputAmplifier3-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier4_1 Pin=C66_U_InputAmplifier4-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier4_2 Pin=C66_U_InputAmplifier4-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier5_1 Pin=C66_U_InputAmplifier5-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier5_2 Pin=C66_U_InputAmplifier5-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier6_1 Pin=C66_U_InputAmplifier6-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier6_2 Pin=C66_U_InputAmplifier6-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier7_1 Pin=C66_U_InputAmplifier7-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier7_2 Pin=C66_U_InputAmplifier7-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier8_1 Pin=C66_U_InputAmplifier8-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier8_2 Pin=C66_U_InputAmplifier8-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier9_1 Pin=C66_U_InputAmplifier9-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier9_2 Pin=C66_U_InputAmplifier9-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier10_1 Pin=C66_U_InputAmplifier10-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier10_2 Pin=C66_U_InputAmplifier10-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier11_1 Pin=C66_U_InputAmplifier11-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier11_2 Pin=C66_U_InputAmplifier11-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier12_1 Pin=C66_U_InputAmplifier12-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier12_2 Pin=C66_U_InputAmplifier12-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier13_1 Pin=C66_U_InputAmplifier13-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier13_2 Pin=C66_U_InputAmplifier13-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier14_1 Pin=C66_U_InputAmplifier14-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier14_2 Pin=C66_U_InputAmplifier14-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier15_1 Pin=C66_U_InputAmplifier15-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier15_2 Pin=C66_U_InputAmplifier15-2
+Added Pin To Net: NetName=NetC66_U_InputAmplifier16_1 Pin=C66_U_InputAmplifier16-1
+Added Pin To Net: NetName=NetC61_U_InputAmplifier16_2 Pin=C66_U_InputAmplifier16-2
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C58_U_InputAmplifier1 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C58_U_InputAmplifier2 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C58_U_InputAmplifier3 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C58_U_InputAmplifier4 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C58_U_InputAmplifier5 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C58_U_InputAmplifier6 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C58_U_InputAmplifier7 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C58_U_InputAmplifier8 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C58_U_InputAmplifier9 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C58_U_InputAmplifier10 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C58_U_InputAmplifier11 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C58_U_InputAmplifier12 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C58_U_InputAmplifier13 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C58_U_InputAmplifier14 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C58_U_InputAmplifier15 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C58_U_InputAmplifier16 (C58) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C66_U_InputAmplifier1 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C66_U_InputAmplifier2 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C66_U_InputAmplifier3 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C66_U_InputAmplifier4 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C66_U_InputAmplifier5 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C66_U_InputAmplifier6 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C66_U_InputAmplifier7 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C66_U_InputAmplifier8 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C66_U_InputAmplifier9 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C66_U_InputAmplifier10 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C66_U_InputAmplifier11 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C66_U_InputAmplifier12 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C66_U_InputAmplifier13 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C66_U_InputAmplifier14 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C66_U_InputAmplifier15 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C66_U_InputAmplifier16 (C66) Capacitor
+Added Member To Class: ClassName=XMOS_power Member=Component C114 Capacitor
+Added Member To Class: ClassName=DAC1 Member=Component C125_DAC1 (C125) Capacitor
+Added Member To Class: ClassName=DAC2 Member=Component C125_DAC2 (C125) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors1 Member=Component C131_U_OutputConnectors1 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C131_U_OutputConnectors2 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors3 Member=Component C131_U_OutputConnectors3 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors4 Member=Component C131_U_OutputConnectors4 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors5 Member=Component C131_U_OutputConnectors5 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors6 Member=Component C131_U_OutputConnectors6 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors7 Member=Component C131_U_OutputConnectors7 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors8 Member=Component C131_U_OutputConnectors8 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors1 Member=Component C138_U_OutputConnectors1 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C138_U_OutputConnectors2 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors3 Member=Component C138_U_OutputConnectors3 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors4 Member=Component C138_U_OutputConnectors4 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors5 Member=Component C138_U_OutputConnectors5 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors6 Member=Component C138_U_OutputConnectors6 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors7 Member=Component C138_U_OutputConnectors7 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors8 Member=Component C138_U_OutputConnectors8 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors1 Member=Component C142_U_OutputConnectors1 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C142_U_OutputConnectors2 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors3 Member=Component C142_U_OutputConnectors3 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors4 Member=Component C142_U_OutputConnectors4 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors5 Member=Component C142_U_OutputConnectors5 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors6 Member=Component C142_U_OutputConnectors6 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors7 Member=Component C142_U_OutputConnectors7 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors8 Member=Component C142_U_OutputConnectors8 (C142) Capacitor
+Added Member To Class: ClassName=PHY_ETHERNET Member=Component C143 Capacitor
+Added Member To Class: ClassName=U_StereoHeadphoneDriver Member=Component C179 Capacitor_Polarized

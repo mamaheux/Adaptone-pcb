@@ -1,0 +1,8 @@
+Added Component: Designator=J6.8(CONN_7_HEADER)
+Added Pin To Net: NetName=NetJ6.8_1 Pin=J6.8-1
+Added Pin To Net: NetName=NetJ6.8_2 Pin=J6.8-2
+Added Pin To Net: NetName=NetC74.16_1 Pin=J6.8-3
+Added Pin To Net: NetName=GND Pin=J6.8-4
+Added Pin To Net: NetName=NetJ6.8_5 Pin=J6.8-5
+Added Pin To Net: NetName=NetJ6.8_6 Pin=J6.8-6
+Added Pin To Net: NetName=NetC74.15_1 Pin=J6.8-7

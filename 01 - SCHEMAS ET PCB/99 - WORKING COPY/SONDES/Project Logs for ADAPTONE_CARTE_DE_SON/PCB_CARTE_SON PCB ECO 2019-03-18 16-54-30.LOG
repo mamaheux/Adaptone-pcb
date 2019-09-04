@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RESET_N Pin=C143-1
+Removed Pin From Net: NetName=GND Pin=C143-2
+Change Component Footprint: Designator=C143 Old Footprint=0603 New Footprint=CAP_RAD_SMD_DIA157
+Added Pin To Net: NetName=RESET_N Pin=C143-+
+Added Pin To Net: NetName=GND Pin=C143--

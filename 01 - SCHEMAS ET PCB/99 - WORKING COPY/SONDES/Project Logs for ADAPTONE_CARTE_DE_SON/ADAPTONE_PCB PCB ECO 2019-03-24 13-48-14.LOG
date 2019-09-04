@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+12V0 Pin=D1-2
+Removed Member From Class: ClassName=Power1 Member=D1
+Change Component Footprint: Designator=C16 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R4 Old Footprint=0805 New Footprint=1206_PTC
+Change Component Comment : Designator=C32.1 Old Comment=Capacitor_Polarized_1 New Comment=Capacitor_Polarized
+Change Component Comment : Designator=C32.2 Old Comment=Capacitor_Polarized_1 New Comment=Capacitor_Polarized
+Change Component Comment : Designator=C119.1 Old Comment=Capacitor_Polarized_1 New Comment=Capacitor_Polarized
+Change Component Comment : Designator=C119.2 Old Comment=Capacitor_Polarized_1 New Comment=Capacitor_Polarized
+Change Component Description : Designator=D6 Old Description=Vf = 390mV, Vr = 20V New Description=
+Added Component: Designator=C65(0603)
+Added Component: Designator=D?(SOD-123F)
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=+2V5 Pin=C65-2
+Added Pin To Net: NetName=+12V0 Pin=D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R4-2
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=Power1 Member=Component C65 Capacitor
+Added Member To Class: ClassName=Power1 Member=Component D? Schottky

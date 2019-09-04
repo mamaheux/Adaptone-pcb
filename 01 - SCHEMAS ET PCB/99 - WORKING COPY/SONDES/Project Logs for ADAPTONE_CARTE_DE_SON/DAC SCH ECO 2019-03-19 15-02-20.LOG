@@ -1,0 +1,59 @@
+Change Value of Parameter Mfg_PN in Part C114 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C114 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C114 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C115 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C115 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C115 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C116 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C116 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C116 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C117 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C117 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C117 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C118 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C118 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C118 Old=100nF New=470pF
+Change Component Parameter Comment in C119 Old= New=Capacitor_Polarized
+Change Value of Parameter Mfg_PN in Part C120 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C120 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C120 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C121 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C121 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C121 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C122 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C122 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C122 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C123 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C123 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C123 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C124 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C124 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C124 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part R77 Old=RC0402FR-07220RL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R77 Old=311-220LRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R77 Old=220R New=33R
+Change Value of Parameter Supplier1_PN in Part R78 Old=311-470LRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R78 Old=470R New=33R
+Change Value of Parameter Supplier1_PN in Part R79 Old=311-470LRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R79 Old=470R New=33R
+Change Value of Parameter Supplier1_PN in Part R80 Old=311-470LRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R80 Old=470R New=33R
+Change Value of Parameter Mfg_PN in Part U21 Old=MCP1700T-2502E/TT New=MCP1700T-5002E/TT
+Change Value of Parameter Supplier1_PN in Part U21 Old=MCP1700T-2502E/TTCT-ND New=MCP1700T5002ETTCT-ND
+Replace Symbol from C114 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C115 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C116 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C117 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C118 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C119 Capacitor_Polarized_1 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor_Polarized_1 from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C120 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C121 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C122 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C123 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C124 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R77 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R78 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R79 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R80 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from U21 MCP1700 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with MCP1700 from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from U22 CS4384 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\DAC.SchDoc with CS4384 from ADAPTONE_CARTE_DE_SON.IntLib

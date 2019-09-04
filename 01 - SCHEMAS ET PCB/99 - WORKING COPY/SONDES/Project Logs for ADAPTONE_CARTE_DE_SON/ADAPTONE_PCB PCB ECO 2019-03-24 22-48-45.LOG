@@ -1,0 +1,1173 @@
+Removed Pin From Net: NetName=NetC59.1_1 Pin=C56.1-1
+Removed Pin From Net: NetName=NetC59.1_2 Pin=C56.1-2
+Removed Pin From Net: NetName=NetC59.2_1 Pin=C56.2-1
+Removed Pin From Net: NetName=NetC59.2_2 Pin=C56.2-2
+Removed Pin From Net: NetName=NetC59.3_1 Pin=C56.3-1
+Removed Pin From Net: NetName=NetC59.3_2 Pin=C56.3-2
+Removed Pin From Net: NetName=NetC59.4_1 Pin=C56.4-1
+Removed Pin From Net: NetName=NetC59.4_2 Pin=C56.4-2
+Removed Pin From Net: NetName=NetC59.5_1 Pin=C56.5-1
+Removed Pin From Net: NetName=NetC59.5_2 Pin=C56.5-2
+Removed Pin From Net: NetName=NetC59.6_1 Pin=C56.6-1
+Removed Pin From Net: NetName=NetC59.6_2 Pin=C56.6-2
+Removed Pin From Net: NetName=NetC59.7_1 Pin=C56.7-1
+Removed Pin From Net: NetName=NetC59.7_2 Pin=C56.7-2
+Removed Pin From Net: NetName=NetC59.8_1 Pin=C56.8-1
+Removed Pin From Net: NetName=NetC59.8_2 Pin=C56.8-2
+Removed Pin From Net: NetName=NetC59.9_1 Pin=C56.9-1
+Removed Pin From Net: NetName=NetC59.9_2 Pin=C56.9-2
+Removed Pin From Net: NetName=NetC59.10_1 Pin=C56.10-1
+Removed Pin From Net: NetName=NetC59.10_2 Pin=C56.10-2
+Removed Pin From Net: NetName=NetC59.11_1 Pin=C56.11-1
+Removed Pin From Net: NetName=NetC59.11_2 Pin=C56.11-2
+Removed Pin From Net: NetName=NetC59.12_1 Pin=C56.12-1
+Removed Pin From Net: NetName=NetC59.12_2 Pin=C56.12-2
+Removed Pin From Net: NetName=NetC59.13_1 Pin=C56.13-1
+Removed Pin From Net: NetName=NetC59.13_2 Pin=C56.13-2
+Removed Pin From Net: NetName=NetC59.14_1 Pin=C56.14-1
+Removed Pin From Net: NetName=NetC59.14_2 Pin=C56.14-2
+Removed Pin From Net: NetName=NetC59.15_1 Pin=C56.15-1
+Removed Pin From Net: NetName=NetC59.15_2 Pin=C56.15-2
+Removed Pin From Net: NetName=NetC59.16_1 Pin=C56.16-1
+Removed Pin From Net: NetName=NetC59.16_2 Pin=C56.16-2
+Removed Pin From Net: NetName=NetC59.1_1 Pin=C57.1-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.1-2
+Removed Pin From Net: NetName=NetC59.2_1 Pin=C57.2-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.2-2
+Removed Pin From Net: NetName=NetC59.3_1 Pin=C57.3-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.3-2
+Removed Pin From Net: NetName=NetC59.4_1 Pin=C57.4-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.4-2
+Removed Pin From Net: NetName=NetC59.5_1 Pin=C57.5-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.5-2
+Removed Pin From Net: NetName=NetC59.6_1 Pin=C57.6-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.6-2
+Removed Pin From Net: NetName=NetC59.7_1 Pin=C57.7-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.7-2
+Removed Pin From Net: NetName=NetC59.8_1 Pin=C57.8-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.8-2
+Removed Pin From Net: NetName=NetC59.9_1 Pin=C57.9-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.9-2
+Removed Pin From Net: NetName=NetC59.10_1 Pin=C57.10-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.10-2
+Removed Pin From Net: NetName=NetC59.11_1 Pin=C57.11-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.11-2
+Removed Pin From Net: NetName=NetC59.12_1 Pin=C57.12-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.12-2
+Removed Pin From Net: NetName=NetC59.13_1 Pin=C57.13-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.13-2
+Removed Pin From Net: NetName=NetC59.14_1 Pin=C57.14-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.14-2
+Removed Pin From Net: NetName=NetC59.15_1 Pin=C57.15-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.15-2
+Removed Pin From Net: NetName=NetC59.16_1 Pin=C57.16-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.16-2
+Removed Pin From Net: NetName=NetC61.1_1 Pin=C58.1-1
+Removed Pin From Net: NetName=NetC61.1_2 Pin=C58.1-2
+Removed Pin From Net: NetName=NetC61.2_1 Pin=C58.2-1
+Removed Pin From Net: NetName=NetC61.2_2 Pin=C58.2-2
+Removed Pin From Net: NetName=NetC61.3_1 Pin=C58.3-1
+Removed Pin From Net: NetName=NetC61.3_2 Pin=C58.3-2
+Removed Pin From Net: NetName=NetC61.4_1 Pin=C58.4-1
+Removed Pin From Net: NetName=NetC61.4_2 Pin=C58.4-2
+Removed Pin From Net: NetName=NetC61.5_1 Pin=C58.5-1
+Removed Pin From Net: NetName=NetC61.5_2 Pin=C58.5-2
+Removed Pin From Net: NetName=NetC61.6_1 Pin=C58.6-1
+Removed Pin From Net: NetName=NetC61.6_2 Pin=C58.6-2
+Removed Pin From Net: NetName=NetC61.7_1 Pin=C58.7-1
+Removed Pin From Net: NetName=NetC61.7_2 Pin=C58.7-2
+Removed Pin From Net: NetName=NetC61.8_1 Pin=C58.8-1
+Removed Pin From Net: NetName=NetC61.8_2 Pin=C58.8-2
+Removed Pin From Net: NetName=NetC61.9_1 Pin=C58.9-1
+Removed Pin From Net: NetName=NetC61.9_2 Pin=C58.9-2
+Removed Pin From Net: NetName=NetC61.10_1 Pin=C58.10-1
+Removed Pin From Net: NetName=NetC61.10_2 Pin=C58.10-2
+Removed Pin From Net: NetName=NetC61.11_1 Pin=C58.11-1
+Removed Pin From Net: NetName=NetC61.11_2 Pin=C58.11-2
+Removed Pin From Net: NetName=NetC61.12_1 Pin=C58.12-1
+Removed Pin From Net: NetName=NetC61.12_2 Pin=C58.12-2
+Removed Pin From Net: NetName=NetC61.13_1 Pin=C58.13-1
+Removed Pin From Net: NetName=NetC61.13_2 Pin=C58.13-2
+Removed Pin From Net: NetName=NetC61.14_1 Pin=C58.14-1
+Removed Pin From Net: NetName=NetC61.14_2 Pin=C58.14-2
+Removed Pin From Net: NetName=NetC61.15_1 Pin=C58.15-1
+Removed Pin From Net: NetName=NetC61.15_2 Pin=C58.15-2
+Removed Pin From Net: NetName=NetC61.16_1 Pin=C58.16-1
+Removed Pin From Net: NetName=NetC61.16_2 Pin=C58.16-2
+Removed Pin From Net: NetName=IN16_P Pin=C65.1-1
+Removed Pin From Net: NetName=IN16_N Pin=C65.1-2
+Removed Pin From Net: NetName=IN15_P Pin=C65.2-1
+Removed Pin From Net: NetName=IN15_N Pin=C65.2-2
+Removed Pin From Net: NetName=IN14_P Pin=C65.3-1
+Removed Pin From Net: NetName=IN14_N Pin=C65.3-2
+Removed Pin From Net: NetName=IN13_P Pin=C65.4-1
+Removed Pin From Net: NetName=IN13_N Pin=C65.4-2
+Removed Pin From Net: NetName=IN12_P Pin=C65.5-1
+Removed Pin From Net: NetName=IN12_N Pin=C65.5-2
+Removed Pin From Net: NetName=IN11_P Pin=C65.6-1
+Removed Pin From Net: NetName=IN11_N Pin=C65.6-2
+Removed Pin From Net: NetName=IN10_P Pin=C65.7-1
+Removed Pin From Net: NetName=IN10_N Pin=C65.7-2
+Removed Pin From Net: NetName=IN9_P Pin=C65.8-1
+Removed Pin From Net: NetName=IN9_N Pin=C65.8-2
+Removed Pin From Net: NetName=IN8_P Pin=C65.9-1
+Removed Pin From Net: NetName=IN8_N Pin=C65.9-2
+Removed Pin From Net: NetName=IN7_P Pin=C65.10-1
+Removed Pin From Net: NetName=IN7_N Pin=C65.10-2
+Removed Pin From Net: NetName=IN6_P Pin=C65.11-1
+Removed Pin From Net: NetName=IN6_N Pin=C65.11-2
+Removed Pin From Net: NetName=IN5_P Pin=C65.12-1
+Removed Pin From Net: NetName=IN5_N Pin=C65.12-2
+Removed Pin From Net: NetName=IN4_P Pin=C65.13-1
+Removed Pin From Net: NetName=IN4_N Pin=C65.13-2
+Removed Pin From Net: NetName=IN3_P Pin=C65.14-1
+Removed Pin From Net: NetName=IN3_N Pin=C65.14-2
+Removed Pin From Net: NetName=IN2_P Pin=C65.15-1
+Removed Pin From Net: NetName=IN2_N Pin=C65.15-2
+Removed Pin From Net: NetName=IN1_P Pin=C65.16-1
+Removed Pin From Net: NetName=IN1_N Pin=C65.16-2
+Removed Pin From Net: NetName=NetC69.1_1 Pin=C66.1-1
+Removed Pin From Net: NetName=NetC64.1_2 Pin=C66.1-2
+Removed Pin From Net: NetName=NetC69.2_1 Pin=C66.2-1
+Removed Pin From Net: NetName=NetC64.2_2 Pin=C66.2-2
+Removed Pin From Net: NetName=NetC69.3_1 Pin=C66.3-1
+Removed Pin From Net: NetName=NetC64.3_2 Pin=C66.3-2
+Removed Pin From Net: NetName=NetC69.4_1 Pin=C66.4-1
+Removed Pin From Net: NetName=NetC64.4_2 Pin=C66.4-2
+Removed Pin From Net: NetName=NetC69.5_1 Pin=C66.5-1
+Removed Pin From Net: NetName=NetC64.5_2 Pin=C66.5-2
+Removed Pin From Net: NetName=NetC69.6_1 Pin=C66.6-1
+Removed Pin From Net: NetName=NetC64.6_2 Pin=C66.6-2
+Removed Pin From Net: NetName=NetC69.7_1 Pin=C66.7-1
+Removed Pin From Net: NetName=NetC64.7_2 Pin=C66.7-2
+Removed Pin From Net: NetName=NetC69.8_1 Pin=C66.8-1
+Removed Pin From Net: NetName=NetC64.8_2 Pin=C66.8-2
+Removed Pin From Net: NetName=NetC69.9_1 Pin=C66.9-1
+Removed Pin From Net: NetName=NetC64.9_2 Pin=C66.9-2
+Removed Pin From Net: NetName=NetC69.10_1 Pin=C66.10-1
+Removed Pin From Net: NetName=NetC64.10_2 Pin=C66.10-2
+Removed Pin From Net: NetName=NetC69.11_1 Pin=C66.11-1
+Removed Pin From Net: NetName=NetC64.11_2 Pin=C66.11-2
+Removed Pin From Net: NetName=NetC69.12_1 Pin=C66.12-1
+Removed Pin From Net: NetName=NetC64.12_2 Pin=C66.12-2
+Removed Pin From Net: NetName=NetC69.13_1 Pin=C66.13-1
+Removed Pin From Net: NetName=NetC64.13_2 Pin=C66.13-2
+Removed Pin From Net: NetName=NetC69.14_1 Pin=C66.14-1
+Removed Pin From Net: NetName=NetC64.14_2 Pin=C66.14-2
+Removed Pin From Net: NetName=NetC69.15_1 Pin=C66.15-1
+Removed Pin From Net: NetName=NetC64.15_2 Pin=C66.15-2
+Removed Pin From Net: NetName=NetC69.16_1 Pin=C66.16-1
+Removed Pin From Net: NetName=NetC64.16_2 Pin=C66.16-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.1-1
+Removed Pin From Net: NetName=NetC70.1_2 Pin=C67.1-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.2-1
+Removed Pin From Net: NetName=NetC70.2_2 Pin=C67.2-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.3-1
+Removed Pin From Net: NetName=NetC70.3_2 Pin=C67.3-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.4-1
+Removed Pin From Net: NetName=NetC70.4_2 Pin=C67.4-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.5-1
+Removed Pin From Net: NetName=NetC70.5_2 Pin=C67.5-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.6-1
+Removed Pin From Net: NetName=NetC70.6_2 Pin=C67.6-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.7-1
+Removed Pin From Net: NetName=NetC70.7_2 Pin=C67.7-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.8-1
+Removed Pin From Net: NetName=NetC70.8_2 Pin=C67.8-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.9-1
+Removed Pin From Net: NetName=NetC70.9_2 Pin=C67.9-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.10-1
+Removed Pin From Net: NetName=NetC70.10_2 Pin=C67.10-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.11-1
+Removed Pin From Net: NetName=NetC70.11_2 Pin=C67.11-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.12-1
+Removed Pin From Net: NetName=NetC70.12_2 Pin=C67.12-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.13-1
+Removed Pin From Net: NetName=NetC70.13_2 Pin=C67.13-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.14-1
+Removed Pin From Net: NetName=NetC70.14_2 Pin=C67.14-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.15-1
+Removed Pin From Net: NetName=NetC70.15_2 Pin=C67.15-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.16-1
+Removed Pin From Net: NetName=NetC70.16_2 Pin=C67.16-2
+Removed Pin From Net: NetName=NetC76.1_1 Pin=C73.1-1
+Removed Pin From Net: NetName=-V1.1 Pin=C73.1-2
+Removed Pin From Net: NetName=NetC76.2_1 Pin=C73.2-1
+Removed Pin From Net: NetName=-V1.2 Pin=C73.2-2
+Removed Pin From Net: NetName=NetC76.3_1 Pin=C73.3-1
+Removed Pin From Net: NetName=-V1.3 Pin=C73.3-2
+Removed Pin From Net: NetName=NetC76.4_1 Pin=C73.4-1
+Removed Pin From Net: NetName=-V1.4 Pin=C73.4-2
+Removed Pin From Net: NetName=NetC76.5_1 Pin=C73.5-1
+Removed Pin From Net: NetName=-V1.5 Pin=C73.5-2
+Removed Pin From Net: NetName=NetC76.6_1 Pin=C73.6-1
+Removed Pin From Net: NetName=-V1.6 Pin=C73.6-2
+Removed Pin From Net: NetName=NetC76.7_1 Pin=C73.7-1
+Removed Pin From Net: NetName=-V1.7 Pin=C73.7-2
+Removed Pin From Net: NetName=NetC76.8_1 Pin=C73.8-1
+Removed Pin From Net: NetName=-V1.8 Pin=C73.8-2
+Removed Pin From Net: NetName=NetC76.9_1 Pin=C73.9-1
+Removed Pin From Net: NetName=-V1.9 Pin=C73.9-2
+Removed Pin From Net: NetName=NetC76.10_1 Pin=C73.10-1
+Removed Pin From Net: NetName=-V1.10 Pin=C73.10-2
+Removed Pin From Net: NetName=NetC76.11_1 Pin=C73.11-1
+Removed Pin From Net: NetName=-V1.11 Pin=C73.11-2
+Removed Pin From Net: NetName=NetC76.12_1 Pin=C73.12-1
+Removed Pin From Net: NetName=-V1.12 Pin=C73.12-2
+Removed Pin From Net: NetName=NetC76.13_1 Pin=C73.13-1
+Removed Pin From Net: NetName=-V1.13 Pin=C73.13-2
+Removed Pin From Net: NetName=NetC76.14_1 Pin=C73.14-1
+Removed Pin From Net: NetName=-V1.14 Pin=C73.14-2
+Removed Pin From Net: NetName=NetC76.15_1 Pin=C73.15-1
+Removed Pin From Net: NetName=-V1.15 Pin=C73.15-2
+Removed Pin From Net: NetName=NetC76.16_1 Pin=C73.16-1
+Removed Pin From Net: NetName=-V1.16 Pin=C73.16-2
+Removed Pin From Net: NetName=NetC77.1_1 Pin=C74.1-1
+Removed Pin From Net: NetName=V1.1 Pin=C74.1-2
+Removed Pin From Net: NetName=NetC77.2_1 Pin=C74.2-1
+Removed Pin From Net: NetName=V1.2 Pin=C74.2-2
+Removed Pin From Net: NetName=NetC77.3_1 Pin=C74.3-1
+Removed Pin From Net: NetName=V1.3 Pin=C74.3-2
+Removed Pin From Net: NetName=NetC77.4_1 Pin=C74.4-1
+Removed Pin From Net: NetName=V1.4 Pin=C74.4-2
+Removed Pin From Net: NetName=NetC77.5_1 Pin=C74.5-1
+Removed Pin From Net: NetName=V1.5 Pin=C74.5-2
+Removed Pin From Net: NetName=NetC77.6_1 Pin=C74.6-1
+Removed Pin From Net: NetName=V1.6 Pin=C74.6-2
+Removed Pin From Net: NetName=NetC77.7_1 Pin=C74.7-1
+Removed Pin From Net: NetName=V1.7 Pin=C74.7-2
+Removed Pin From Net: NetName=NetC77.8_1 Pin=C74.8-1
+Removed Pin From Net: NetName=V1.8 Pin=C74.8-2
+Removed Pin From Net: NetName=NetC77.9_1 Pin=C74.9-1
+Removed Pin From Net: NetName=V1.9 Pin=C74.9-2
+Removed Pin From Net: NetName=NetC77.10_1 Pin=C74.10-1
+Removed Pin From Net: NetName=V1.10 Pin=C74.10-2
+Removed Pin From Net: NetName=NetC77.11_1 Pin=C74.11-1
+Removed Pin From Net: NetName=V1.11 Pin=C74.11-2
+Removed Pin From Net: NetName=NetC77.12_1 Pin=C74.12-1
+Removed Pin From Net: NetName=V1.12 Pin=C74.12-2
+Removed Pin From Net: NetName=NetC77.13_1 Pin=C74.13-1
+Removed Pin From Net: NetName=V1.13 Pin=C74.13-2
+Removed Pin From Net: NetName=NetC77.14_1 Pin=C74.14-1
+Removed Pin From Net: NetName=V1.14 Pin=C74.14-2
+Removed Pin From Net: NetName=NetC77.15_1 Pin=C74.15-1
+Removed Pin From Net: NetName=V1.15 Pin=C74.15-2
+Removed Pin From Net: NetName=NetC77.16_1 Pin=C74.16-1
+Removed Pin From Net: NetName=V1.16 Pin=C74.16-2
+Removed Pin From Net: NetName=NetC78.1_2 Pin=C75.1-2
+Removed Pin From Net: NetName=NetC78.2_2 Pin=C75.2-2
+Removed Pin From Net: NetName=NetC78.3_2 Pin=C75.3-2
+Removed Pin From Net: NetName=NetC78.4_2 Pin=C75.4-2
+Removed Pin From Net: NetName=NetC78.5_2 Pin=C75.5-2
+Removed Pin From Net: NetName=NetC78.6_2 Pin=C75.6-2
+Removed Pin From Net: NetName=NetC78.7_2 Pin=C75.7-2
+Removed Pin From Net: NetName=NetC78.8_2 Pin=C75.8-2
+Removed Pin From Net: NetName=NetC78.9_2 Pin=C75.9-2
+Removed Pin From Net: NetName=NetC78.10_2 Pin=C75.10-2
+Removed Pin From Net: NetName=NetC78.11_2 Pin=C75.11-2
+Removed Pin From Net: NetName=NetC78.12_2 Pin=C75.12-2
+Removed Pin From Net: NetName=NetC78.13_2 Pin=C75.13-2
+Removed Pin From Net: NetName=NetC78.14_2 Pin=C75.14-2
+Removed Pin From Net: NetName=NetC78.15_2 Pin=C75.15-2
+Removed Pin From Net: NetName=NetC78.16_2 Pin=C75.16-2
+Removed Member From Class: ClassName=DAC1 Member=C129.1
+Removed Member From Class: ClassName=DAC2 Member=C130.2
+Removed Member From Class: ClassName=DAC1 Member=C132.1
+Removed Member From Class: ClassName=DAC2 Member=C132.2
+Removed Member From Class: ClassName=DAC1 Member=C133.1
+Removed Member From Class: ClassName=DAC2 Member=C134.2
+Removed Member From Class: ClassName=DAC2 Member=C136.2
+Removed Member From Class: ClassName=DAC1 Member=C137.1
+Removed Member From Class: ClassName=PHY_ETHERNET Member=C173
+Removed Member From Class: ClassName=PHY_ETHERNET Member=C174
+Removed Member From Class: ClassName=PHY_ETHERNET Member=C175
+Added Component: Designator=C59.1(0402)
+Added Component: Designator=C59.2(0402)
+Added Component: Designator=C59.3(0402)
+Added Component: Designator=C59.4(0402)
+Added Component: Designator=C59.5(0402)
+Added Component: Designator=C59.6(0402)
+Added Component: Designator=C59.7(0402)
+Added Component: Designator=C59.8(0402)
+Added Component: Designator=C59.9(0402)
+Added Component: Designator=C59.10(0402)
+Added Component: Designator=C59.11(0402)
+Added Component: Designator=C59.12(0402)
+Added Component: Designator=C59.13(0402)
+Added Component: Designator=C59.14(0402)
+Added Component: Designator=C59.15(0402)
+Added Component: Designator=C59.16(0402)
+Added Component: Designator=C60.1(0402)
+Added Component: Designator=C60.2(0402)
+Added Component: Designator=C60.3(0402)
+Added Component: Designator=C60.4(0402)
+Added Component: Designator=C60.5(0402)
+Added Component: Designator=C60.6(0402)
+Added Component: Designator=C60.7(0402)
+Added Component: Designator=C60.8(0402)
+Added Component: Designator=C60.9(0402)
+Added Component: Designator=C60.10(0402)
+Added Component: Designator=C60.11(0402)
+Added Component: Designator=C60.12(0402)
+Added Component: Designator=C60.13(0402)
+Added Component: Designator=C60.14(0402)
+Added Component: Designator=C60.15(0402)
+Added Component: Designator=C60.16(0402)
+Added Component: Designator=C61.1(CAP_1210)
+Added Component: Designator=C61.2(CAP_1210)
+Added Component: Designator=C61.3(CAP_1210)
+Added Component: Designator=C61.4(CAP_1210)
+Added Component: Designator=C61.5(CAP_1210)
+Added Component: Designator=C61.6(CAP_1210)
+Added Component: Designator=C61.7(CAP_1210)
+Added Component: Designator=C61.8(CAP_1210)
+Added Component: Designator=C61.9(CAP_1210)
+Added Component: Designator=C61.10(CAP_1210)
+Added Component: Designator=C61.11(CAP_1210)
+Added Component: Designator=C61.12(CAP_1210)
+Added Component: Designator=C61.13(CAP_1210)
+Added Component: Designator=C61.14(CAP_1210)
+Added Component: Designator=C61.15(CAP_1210)
+Added Component: Designator=C61.16(CAP_1210)
+Added Component: Designator=C68.1(0603)
+Added Component: Designator=C68.2(0603)
+Added Component: Designator=C68.3(0603)
+Added Component: Designator=C68.4(0603)
+Added Component: Designator=C68.5(0603)
+Added Component: Designator=C68.6(0603)
+Added Component: Designator=C68.7(0603)
+Added Component: Designator=C68.8(0603)
+Added Component: Designator=C68.9(0603)
+Added Component: Designator=C68.10(0603)
+Added Component: Designator=C68.11(0603)
+Added Component: Designator=C68.12(0603)
+Added Component: Designator=C68.13(0603)
+Added Component: Designator=C68.14(0603)
+Added Component: Designator=C68.15(0603)
+Added Component: Designator=C68.16(0603)
+Added Component: Designator=C69.1(CAP_1210)
+Added Component: Designator=C69.2(CAP_1210)
+Added Component: Designator=C69.3(CAP_1210)
+Added Component: Designator=C69.4(CAP_1210)
+Added Component: Designator=C69.5(CAP_1210)
+Added Component: Designator=C69.6(CAP_1210)
+Added Component: Designator=C69.7(CAP_1210)
+Added Component: Designator=C69.8(CAP_1210)
+Added Component: Designator=C69.9(CAP_1210)
+Added Component: Designator=C69.10(CAP_1210)
+Added Component: Designator=C69.11(CAP_1210)
+Added Component: Designator=C69.12(CAP_1210)
+Added Component: Designator=C69.13(CAP_1210)
+Added Component: Designator=C69.14(CAP_1210)
+Added Component: Designator=C69.15(CAP_1210)
+Added Component: Designator=C69.16(CAP_1210)
+Added Component: Designator=C70.1(0402)
+Added Component: Designator=C70.2(0402)
+Added Component: Designator=C70.3(0402)
+Added Component: Designator=C70.4(0402)
+Added Component: Designator=C70.5(0402)
+Added Component: Designator=C70.6(0402)
+Added Component: Designator=C70.7(0402)
+Added Component: Designator=C70.8(0402)
+Added Component: Designator=C70.9(0402)
+Added Component: Designator=C70.10(0402)
+Added Component: Designator=C70.11(0402)
+Added Component: Designator=C70.12(0402)
+Added Component: Designator=C70.13(0402)
+Added Component: Designator=C70.14(0402)
+Added Component: Designator=C70.15(0402)
+Added Component: Designator=C70.16(0402)
+Added Component: Designator=C76.1(0402)
+Added Component: Designator=C76.2(0402)
+Added Component: Designator=C76.3(0402)
+Added Component: Designator=C76.4(0402)
+Added Component: Designator=C76.5(0402)
+Added Component: Designator=C76.6(0402)
+Added Component: Designator=C76.7(0402)
+Added Component: Designator=C76.8(0402)
+Added Component: Designator=C76.9(0402)
+Added Component: Designator=C76.10(0402)
+Added Component: Designator=C76.11(0402)
+Added Component: Designator=C76.12(0402)
+Added Component: Designator=C76.13(0402)
+Added Component: Designator=C76.14(0402)
+Added Component: Designator=C76.15(0402)
+Added Component: Designator=C76.16(0402)
+Added Component: Designator=C77.1(0402)
+Added Component: Designator=C77.2(0402)
+Added Component: Designator=C77.3(0402)
+Added Component: Designator=C77.4(0402)
+Added Component: Designator=C77.5(0402)
+Added Component: Designator=C77.6(0402)
+Added Component: Designator=C77.7(0402)
+Added Component: Designator=C77.8(0402)
+Added Component: Designator=C77.9(0402)
+Added Component: Designator=C77.10(0402)
+Added Component: Designator=C77.11(0402)
+Added Component: Designator=C77.12(0402)
+Added Component: Designator=C77.13(0402)
+Added Component: Designator=C77.14(0402)
+Added Component: Designator=C77.15(0402)
+Added Component: Designator=C77.16(0402)
+Added Component: Designator=C78.1(0402)
+Added Component: Designator=C78.2(0402)
+Added Component: Designator=C78.3(0402)
+Added Component: Designator=C78.4(0402)
+Added Component: Designator=C78.5(0402)
+Added Component: Designator=C78.6(0402)
+Added Component: Designator=C78.7(0402)
+Added Component: Designator=C78.8(0402)
+Added Component: Designator=C78.9(0402)
+Added Component: Designator=C78.10(0402)
+Added Component: Designator=C78.11(0402)
+Added Component: Designator=C78.12(0402)
+Added Component: Designator=C78.13(0402)
+Added Component: Designator=C78.14(0402)
+Added Component: Designator=C78.15(0402)
+Added Component: Designator=C78.16(0402)
+Added Pin To Net: NetName=+5VA Pin=C56.1-1
+Added Pin To Net: NetName=GND Pin=C56.1-2
+Added Pin To Net: NetName=+5VA Pin=C56.2-1
+Added Pin To Net: NetName=GND Pin=C56.2-2
+Added Pin To Net: NetName=+5VA Pin=C56.3-1
+Added Pin To Net: NetName=GND Pin=C56.3-2
+Added Pin To Net: NetName=+5VA Pin=C56.4-1
+Added Pin To Net: NetName=GND Pin=C56.4-2
+Added Pin To Net: NetName=+5VA Pin=C56.5-1
+Added Pin To Net: NetName=GND Pin=C56.5-2
+Added Pin To Net: NetName=+5VA Pin=C56.6-1
+Added Pin To Net: NetName=GND Pin=C56.6-2
+Added Pin To Net: NetName=+5VA Pin=C56.7-1
+Added Pin To Net: NetName=GND Pin=C56.7-2
+Added Pin To Net: NetName=+5VA Pin=C56.8-1
+Added Pin To Net: NetName=GND Pin=C56.8-2
+Added Pin To Net: NetName=+5VA Pin=C56.9-1
+Added Pin To Net: NetName=GND Pin=C56.9-2
+Added Pin To Net: NetName=+5VA Pin=C56.10-1
+Added Pin To Net: NetName=GND Pin=C56.10-2
+Added Pin To Net: NetName=+5VA Pin=C56.11-1
+Added Pin To Net: NetName=GND Pin=C56.11-2
+Added Pin To Net: NetName=+5VA Pin=C56.12-1
+Added Pin To Net: NetName=GND Pin=C56.12-2
+Added Pin To Net: NetName=+5VA Pin=C56.13-1
+Added Pin To Net: NetName=GND Pin=C56.13-2
+Added Pin To Net: NetName=+5VA Pin=C56.14-1
+Added Pin To Net: NetName=GND Pin=C56.14-2
+Added Pin To Net: NetName=+5VA Pin=C56.15-1
+Added Pin To Net: NetName=GND Pin=C56.15-2
+Added Pin To Net: NetName=+5VA Pin=C56.16-1
+Added Pin To Net: NetName=GND Pin=C56.16-2
+Added Pin To Net: NetName=+5VA Pin=C57.1-1
+Added Pin To Net: NetName=GND Pin=C57.1-2
+Added Pin To Net: NetName=+5VA Pin=C57.2-1
+Added Pin To Net: NetName=GND Pin=C57.2-2
+Added Pin To Net: NetName=+5VA Pin=C57.3-1
+Added Pin To Net: NetName=GND Pin=C57.3-2
+Added Pin To Net: NetName=+5VA Pin=C57.4-1
+Added Pin To Net: NetName=GND Pin=C57.4-2
+Added Pin To Net: NetName=+5VA Pin=C57.5-1
+Added Pin To Net: NetName=GND Pin=C57.5-2
+Added Pin To Net: NetName=+5VA Pin=C57.6-1
+Added Pin To Net: NetName=GND Pin=C57.6-2
+Added Pin To Net: NetName=+5VA Pin=C57.7-1
+Added Pin To Net: NetName=GND Pin=C57.7-2
+Added Pin To Net: NetName=+5VA Pin=C57.8-1
+Added Pin To Net: NetName=GND Pin=C57.8-2
+Added Pin To Net: NetName=+5VA Pin=C57.9-1
+Added Pin To Net: NetName=GND Pin=C57.9-2
+Added Pin To Net: NetName=+5VA Pin=C57.10-1
+Added Pin To Net: NetName=GND Pin=C57.10-2
+Added Pin To Net: NetName=+5VA Pin=C57.11-1
+Added Pin To Net: NetName=GND Pin=C57.11-2
+Added Pin To Net: NetName=+5VA Pin=C57.12-1
+Added Pin To Net: NetName=GND Pin=C57.12-2
+Added Pin To Net: NetName=+5VA Pin=C57.13-1
+Added Pin To Net: NetName=GND Pin=C57.13-2
+Added Pin To Net: NetName=+5VA Pin=C57.14-1
+Added Pin To Net: NetName=GND Pin=C57.14-2
+Added Pin To Net: NetName=+5VA Pin=C57.15-1
+Added Pin To Net: NetName=GND Pin=C57.15-2
+Added Pin To Net: NetName=+5VA Pin=C57.16-1
+Added Pin To Net: NetName=GND Pin=C57.16-2
+Added Pin To Net: NetName=+5VA Pin=C58.1-1
+Added Pin To Net: NetName=GND Pin=C58.1-2
+Added Pin To Net: NetName=+5VA Pin=C58.2-1
+Added Pin To Net: NetName=GND Pin=C58.2-2
+Added Pin To Net: NetName=+5VA Pin=C58.3-1
+Added Pin To Net: NetName=GND Pin=C58.3-2
+Added Pin To Net: NetName=+5VA Pin=C58.4-1
+Added Pin To Net: NetName=GND Pin=C58.4-2
+Added Pin To Net: NetName=+5VA Pin=C58.5-1
+Added Pin To Net: NetName=GND Pin=C58.5-2
+Added Pin To Net: NetName=+5VA Pin=C58.6-1
+Added Pin To Net: NetName=GND Pin=C58.6-2
+Added Pin To Net: NetName=+5VA Pin=C58.7-1
+Added Pin To Net: NetName=GND Pin=C58.7-2
+Added Pin To Net: NetName=+5VA Pin=C58.8-1
+Added Pin To Net: NetName=GND Pin=C58.8-2
+Added Pin To Net: NetName=+5VA Pin=C58.9-1
+Added Pin To Net: NetName=GND Pin=C58.9-2
+Added Pin To Net: NetName=+5VA Pin=C58.10-1
+Added Pin To Net: NetName=GND Pin=C58.10-2
+Added Pin To Net: NetName=+5VA Pin=C58.11-1
+Added Pin To Net: NetName=GND Pin=C58.11-2
+Added Pin To Net: NetName=+5VA Pin=C58.12-1
+Added Pin To Net: NetName=GND Pin=C58.12-2
+Added Pin To Net: NetName=+5VA Pin=C58.13-1
+Added Pin To Net: NetName=GND Pin=C58.13-2
+Added Pin To Net: NetName=+5VA Pin=C58.14-1
+Added Pin To Net: NetName=GND Pin=C58.14-2
+Added Pin To Net: NetName=+5VA Pin=C58.15-1
+Added Pin To Net: NetName=GND Pin=C58.15-2
+Added Pin To Net: NetName=+5VA Pin=C58.16-1
+Added Pin To Net: NetName=GND Pin=C58.16-2
+Added Pin To Net: NetName=NetC59.1_1 Pin=C56.1-1
+Added Pin To Net: NetName=NetC59.1_2 Pin=C56.1-2
+Added Pin To Net: NetName=NetC59.2_1 Pin=C56.2-1
+Added Pin To Net: NetName=NetC59.2_2 Pin=C56.2-2
+Added Pin To Net: NetName=NetC59.3_1 Pin=C56.3-1
+Added Pin To Net: NetName=NetC59.3_2 Pin=C56.3-2
+Added Pin To Net: NetName=NetC59.4_1 Pin=C56.4-1
+Added Pin To Net: NetName=NetC59.4_2 Pin=C56.4-2
+Added Pin To Net: NetName=NetC59.5_1 Pin=C56.5-1
+Added Pin To Net: NetName=NetC59.5_2 Pin=C56.5-2
+Added Pin To Net: NetName=NetC59.6_1 Pin=C56.6-1
+Added Pin To Net: NetName=NetC59.6_2 Pin=C56.6-2
+Added Pin To Net: NetName=NetC59.7_1 Pin=C56.7-1
+Added Pin To Net: NetName=NetC59.7_2 Pin=C56.7-2
+Added Pin To Net: NetName=NetC59.8_1 Pin=C56.8-1
+Added Pin To Net: NetName=NetC59.8_2 Pin=C56.8-2
+Added Pin To Net: NetName=NetC59.9_1 Pin=C56.9-1
+Added Pin To Net: NetName=NetC59.9_2 Pin=C56.9-2
+Added Pin To Net: NetName=NetC59.10_1 Pin=C56.10-1
+Added Pin To Net: NetName=NetC59.10_2 Pin=C56.10-2
+Added Pin To Net: NetName=NetC59.11_1 Pin=C56.11-1
+Added Pin To Net: NetName=NetC59.11_2 Pin=C56.11-2
+Added Pin To Net: NetName=NetC59.12_1 Pin=C56.12-1
+Added Pin To Net: NetName=NetC59.12_2 Pin=C56.12-2
+Added Pin To Net: NetName=NetC59.13_1 Pin=C56.13-1
+Added Pin To Net: NetName=NetC59.13_2 Pin=C56.13-2
+Added Pin To Net: NetName=NetC59.14_1 Pin=C56.14-1
+Added Pin To Net: NetName=NetC59.14_2 Pin=C56.14-2
+Added Pin To Net: NetName=NetC59.15_1 Pin=C56.15-1
+Added Pin To Net: NetName=NetC59.15_2 Pin=C56.15-2
+Added Pin To Net: NetName=NetC59.16_1 Pin=C56.16-1
+Added Pin To Net: NetName=NetC59.16_2 Pin=C56.16-2
+Added Pin To Net: NetName=NetC59.1_1 Pin=C57.1-1
+Added Pin To Net: NetName=+2V5 Pin=C57.1-2
+Added Pin To Net: NetName=NetC59.2_1 Pin=C57.2-1
+Added Pin To Net: NetName=+2V5 Pin=C57.2-2
+Added Pin To Net: NetName=NetC59.3_1 Pin=C57.3-1
+Added Pin To Net: NetName=+2V5 Pin=C57.3-2
+Added Pin To Net: NetName=NetC59.4_1 Pin=C57.4-1
+Added Pin To Net: NetName=+2V5 Pin=C57.4-2
+Added Pin To Net: NetName=NetC59.5_1 Pin=C57.5-1
+Added Pin To Net: NetName=+2V5 Pin=C57.5-2
+Added Pin To Net: NetName=NetC59.6_1 Pin=C57.6-1
+Added Pin To Net: NetName=+2V5 Pin=C57.6-2
+Added Pin To Net: NetName=NetC59.7_1 Pin=C57.7-1
+Added Pin To Net: NetName=+2V5 Pin=C57.7-2
+Added Pin To Net: NetName=NetC59.8_1 Pin=C57.8-1
+Added Pin To Net: NetName=+2V5 Pin=C57.8-2
+Added Pin To Net: NetName=NetC59.9_1 Pin=C57.9-1
+Added Pin To Net: NetName=+2V5 Pin=C57.9-2
+Added Pin To Net: NetName=NetC59.10_1 Pin=C57.10-1
+Added Pin To Net: NetName=+2V5 Pin=C57.10-2
+Added Pin To Net: NetName=NetC59.11_1 Pin=C57.11-1
+Added Pin To Net: NetName=+2V5 Pin=C57.11-2
+Added Pin To Net: NetName=NetC59.12_1 Pin=C57.12-1
+Added Pin To Net: NetName=+2V5 Pin=C57.12-2
+Added Pin To Net: NetName=NetC59.13_1 Pin=C57.13-1
+Added Pin To Net: NetName=+2V5 Pin=C57.13-2
+Added Pin To Net: NetName=NetC59.14_1 Pin=C57.14-1
+Added Pin To Net: NetName=+2V5 Pin=C57.14-2
+Added Pin To Net: NetName=NetC59.15_1 Pin=C57.15-1
+Added Pin To Net: NetName=+2V5 Pin=C57.15-2
+Added Pin To Net: NetName=NetC59.16_1 Pin=C57.16-1
+Added Pin To Net: NetName=+2V5 Pin=C57.16-2
+Added Pin To Net: NetName=NetC61.1_1 Pin=C58.1-1
+Added Pin To Net: NetName=NetC61.1_2 Pin=C58.1-2
+Added Pin To Net: NetName=NetC61.2_1 Pin=C58.2-1
+Added Pin To Net: NetName=NetC61.2_2 Pin=C58.2-2
+Added Pin To Net: NetName=NetC61.3_1 Pin=C58.3-1
+Added Pin To Net: NetName=NetC61.3_2 Pin=C58.3-2
+Added Pin To Net: NetName=NetC61.4_1 Pin=C58.4-1
+Added Pin To Net: NetName=NetC61.4_2 Pin=C58.4-2
+Added Pin To Net: NetName=NetC61.5_1 Pin=C58.5-1
+Added Pin To Net: NetName=NetC61.5_2 Pin=C58.5-2
+Added Pin To Net: NetName=NetC61.6_1 Pin=C58.6-1
+Added Pin To Net: NetName=NetC61.6_2 Pin=C58.6-2
+Added Pin To Net: NetName=NetC61.7_1 Pin=C58.7-1
+Added Pin To Net: NetName=NetC61.7_2 Pin=C58.7-2
+Added Pin To Net: NetName=NetC61.8_1 Pin=C58.8-1
+Added Pin To Net: NetName=NetC61.8_2 Pin=C58.8-2
+Added Pin To Net: NetName=NetC61.9_1 Pin=C58.9-1
+Added Pin To Net: NetName=NetC61.9_2 Pin=C58.9-2
+Added Pin To Net: NetName=NetC61.10_1 Pin=C58.10-1
+Added Pin To Net: NetName=NetC61.10_2 Pin=C58.10-2
+Added Pin To Net: NetName=NetC61.11_1 Pin=C58.11-1
+Added Pin To Net: NetName=NetC61.11_2 Pin=C58.11-2
+Added Pin To Net: NetName=NetC61.12_1 Pin=C58.12-1
+Added Pin To Net: NetName=NetC61.12_2 Pin=C58.12-2
+Added Pin To Net: NetName=NetC61.13_1 Pin=C58.13-1
+Added Pin To Net: NetName=NetC61.13_2 Pin=C58.13-2
+Added Pin To Net: NetName=NetC61.14_1 Pin=C58.14-1
+Added Pin To Net: NetName=NetC61.14_2 Pin=C58.14-2
+Added Pin To Net: NetName=NetC61.15_1 Pin=C58.15-1
+Added Pin To Net: NetName=NetC61.15_2 Pin=C58.15-2
+Added Pin To Net: NetName=NetC61.16_1 Pin=C58.16-1
+Added Pin To Net: NetName=NetC61.16_2 Pin=C58.16-2
+Added Pin To Net: NetName=+5VA Pin=C65.1-1
+Added Pin To Net: NetName=GND Pin=C65.1-2
+Added Pin To Net: NetName=+5VA Pin=C65.2-1
+Added Pin To Net: NetName=GND Pin=C65.2-2
+Added Pin To Net: NetName=+5VA Pin=C65.3-1
+Added Pin To Net: NetName=GND Pin=C65.3-2
+Added Pin To Net: NetName=+5VA Pin=C65.4-1
+Added Pin To Net: NetName=GND Pin=C65.4-2
+Added Pin To Net: NetName=+5VA Pin=C65.5-1
+Added Pin To Net: NetName=GND Pin=C65.5-2
+Added Pin To Net: NetName=+5VA Pin=C65.6-1
+Added Pin To Net: NetName=GND Pin=C65.6-2
+Added Pin To Net: NetName=+5VA Pin=C65.7-1
+Added Pin To Net: NetName=GND Pin=C65.7-2
+Added Pin To Net: NetName=+5VA Pin=C65.8-1
+Added Pin To Net: NetName=GND Pin=C65.8-2
+Added Pin To Net: NetName=+5VA Pin=C65.9-1
+Added Pin To Net: NetName=GND Pin=C65.9-2
+Added Pin To Net: NetName=+5VA Pin=C65.10-1
+Added Pin To Net: NetName=GND Pin=C65.10-2
+Added Pin To Net: NetName=+5VA Pin=C65.11-1
+Added Pin To Net: NetName=GND Pin=C65.11-2
+Added Pin To Net: NetName=+5VA Pin=C65.12-1
+Added Pin To Net: NetName=GND Pin=C65.12-2
+Added Pin To Net: NetName=+5VA Pin=C65.13-1
+Added Pin To Net: NetName=GND Pin=C65.13-2
+Added Pin To Net: NetName=+5VA Pin=C65.14-1
+Added Pin To Net: NetName=GND Pin=C65.14-2
+Added Pin To Net: NetName=+5VA Pin=C65.15-1
+Added Pin To Net: NetName=GND Pin=C65.15-2
+Added Pin To Net: NetName=+5VA Pin=C65.16-1
+Added Pin To Net: NetName=GND Pin=C65.16-2
+Added Pin To Net: NetName=+5VA Pin=C66.1-1
+Added Pin To Net: NetName=GND Pin=C66.1-2
+Added Pin To Net: NetName=+5VA Pin=C66.2-1
+Added Pin To Net: NetName=GND Pin=C66.2-2
+Added Pin To Net: NetName=+5VA Pin=C66.3-1
+Added Pin To Net: NetName=GND Pin=C66.3-2
+Added Pin To Net: NetName=+5VA Pin=C66.4-1
+Added Pin To Net: NetName=GND Pin=C66.4-2
+Added Pin To Net: NetName=+5VA Pin=C66.5-1
+Added Pin To Net: NetName=GND Pin=C66.5-2
+Added Pin To Net: NetName=+5VA Pin=C66.6-1
+Added Pin To Net: NetName=GND Pin=C66.6-2
+Added Pin To Net: NetName=+5VA Pin=C66.7-1
+Added Pin To Net: NetName=GND Pin=C66.7-2
+Added Pin To Net: NetName=+5VA Pin=C66.8-1
+Added Pin To Net: NetName=GND Pin=C66.8-2
+Added Pin To Net: NetName=+5VA Pin=C66.9-1
+Added Pin To Net: NetName=GND Pin=C66.9-2
+Added Pin To Net: NetName=+5VA Pin=C66.10-1
+Added Pin To Net: NetName=GND Pin=C66.10-2
+Added Pin To Net: NetName=+5VA Pin=C66.11-1
+Added Pin To Net: NetName=GND Pin=C66.11-2
+Added Pin To Net: NetName=+5VA Pin=C66.12-1
+Added Pin To Net: NetName=GND Pin=C66.12-2
+Added Pin To Net: NetName=+5VA Pin=C66.13-1
+Added Pin To Net: NetName=GND Pin=C66.13-2
+Added Pin To Net: NetName=+5VA Pin=C66.14-1
+Added Pin To Net: NetName=GND Pin=C66.14-2
+Added Pin To Net: NetName=+5VA Pin=C66.15-1
+Added Pin To Net: NetName=GND Pin=C66.15-2
+Added Pin To Net: NetName=+5VA Pin=C66.16-1
+Added Pin To Net: NetName=GND Pin=C66.16-2
+Added Pin To Net: NetName=+5VA Pin=C67.1-1
+Added Pin To Net: NetName=GND Pin=C67.1-2
+Added Pin To Net: NetName=+5VA Pin=C67.2-1
+Added Pin To Net: NetName=GND Pin=C67.2-2
+Added Pin To Net: NetName=+5VA Pin=C67.3-1
+Added Pin To Net: NetName=GND Pin=C67.3-2
+Added Pin To Net: NetName=+5VA Pin=C67.4-1
+Added Pin To Net: NetName=GND Pin=C67.4-2
+Added Pin To Net: NetName=+5VA Pin=C67.5-1
+Added Pin To Net: NetName=GND Pin=C67.5-2
+Added Pin To Net: NetName=+5VA Pin=C67.6-1
+Added Pin To Net: NetName=GND Pin=C67.6-2
+Added Pin To Net: NetName=+5VA Pin=C67.7-1
+Added Pin To Net: NetName=GND Pin=C67.7-2
+Added Pin To Net: NetName=+5VA Pin=C67.8-1
+Added Pin To Net: NetName=GND Pin=C67.8-2
+Added Pin To Net: NetName=+5VA Pin=C67.9-1
+Added Pin To Net: NetName=GND Pin=C67.9-2
+Added Pin To Net: NetName=+5VA Pin=C67.10-1
+Added Pin To Net: NetName=GND Pin=C67.10-2
+Added Pin To Net: NetName=+5VA Pin=C67.11-1
+Added Pin To Net: NetName=GND Pin=C67.11-2
+Added Pin To Net: NetName=+5VA Pin=C67.12-1
+Added Pin To Net: NetName=GND Pin=C67.12-2
+Added Pin To Net: NetName=+5VA Pin=C67.13-1
+Added Pin To Net: NetName=GND Pin=C67.13-2
+Added Pin To Net: NetName=+5VA Pin=C67.14-1
+Added Pin To Net: NetName=GND Pin=C67.14-2
+Added Pin To Net: NetName=+5VA Pin=C67.15-1
+Added Pin To Net: NetName=GND Pin=C67.15-2
+Added Pin To Net: NetName=+5VA Pin=C67.16-1
+Added Pin To Net: NetName=GND Pin=C67.16-2
+Added Pin To Net: NetName=IN16_P Pin=C65.1-1
+Added Pin To Net: NetName=IN16_N Pin=C65.1-2
+Added Pin To Net: NetName=IN15_P Pin=C65.2-1
+Added Pin To Net: NetName=IN15_N Pin=C65.2-2
+Added Pin To Net: NetName=IN14_P Pin=C65.3-1
+Added Pin To Net: NetName=IN14_N Pin=C65.3-2
+Added Pin To Net: NetName=IN13_P Pin=C65.4-1
+Added Pin To Net: NetName=IN13_N Pin=C65.4-2
+Added Pin To Net: NetName=IN12_P Pin=C65.5-1
+Added Pin To Net: NetName=IN12_N Pin=C65.5-2
+Added Pin To Net: NetName=IN11_P Pin=C65.6-1
+Added Pin To Net: NetName=IN11_N Pin=C65.6-2
+Added Pin To Net: NetName=IN10_P Pin=C65.7-1
+Added Pin To Net: NetName=IN10_N Pin=C65.7-2
+Added Pin To Net: NetName=IN9_P Pin=C65.8-1
+Added Pin To Net: NetName=IN9_N Pin=C65.8-2
+Added Pin To Net: NetName=IN8_P Pin=C65.9-1
+Added Pin To Net: NetName=IN8_N Pin=C65.9-2
+Added Pin To Net: NetName=IN7_P Pin=C65.10-1
+Added Pin To Net: NetName=IN7_N Pin=C65.10-2
+Added Pin To Net: NetName=IN6_P Pin=C65.11-1
+Added Pin To Net: NetName=IN6_N Pin=C65.11-2
+Added Pin To Net: NetName=IN5_P Pin=C65.12-1
+Added Pin To Net: NetName=IN5_N Pin=C65.12-2
+Added Pin To Net: NetName=IN4_P Pin=C65.13-1
+Added Pin To Net: NetName=IN4_N Pin=C65.13-2
+Added Pin To Net: NetName=IN3_P Pin=C65.14-1
+Added Pin To Net: NetName=IN3_N Pin=C65.14-2
+Added Pin To Net: NetName=IN2_P Pin=C65.15-1
+Added Pin To Net: NetName=IN2_N Pin=C65.15-2
+Added Pin To Net: NetName=IN1_P Pin=C65.16-1
+Added Pin To Net: NetName=IN1_N Pin=C65.16-2
+Added Pin To Net: NetName=NetC69.1_1 Pin=C66.1-1
+Added Pin To Net: NetName=NetC64.1_2 Pin=C66.1-2
+Added Pin To Net: NetName=NetC69.2_1 Pin=C66.2-1
+Added Pin To Net: NetName=NetC64.2_2 Pin=C66.2-2
+Added Pin To Net: NetName=NetC69.3_1 Pin=C66.3-1
+Added Pin To Net: NetName=NetC64.3_2 Pin=C66.3-2
+Added Pin To Net: NetName=NetC69.4_1 Pin=C66.4-1
+Added Pin To Net: NetName=NetC64.4_2 Pin=C66.4-2
+Added Pin To Net: NetName=NetC69.5_1 Pin=C66.5-1
+Added Pin To Net: NetName=NetC64.5_2 Pin=C66.5-2
+Added Pin To Net: NetName=NetC69.6_1 Pin=C66.6-1
+Added Pin To Net: NetName=NetC64.6_2 Pin=C66.6-2
+Added Pin To Net: NetName=NetC69.7_1 Pin=C66.7-1
+Added Pin To Net: NetName=NetC64.7_2 Pin=C66.7-2
+Added Pin To Net: NetName=NetC69.8_1 Pin=C66.8-1
+Added Pin To Net: NetName=NetC64.8_2 Pin=C66.8-2
+Added Pin To Net: NetName=NetC69.9_1 Pin=C66.9-1
+Added Pin To Net: NetName=NetC64.9_2 Pin=C66.9-2
+Added Pin To Net: NetName=NetC69.10_1 Pin=C66.10-1
+Added Pin To Net: NetName=NetC64.10_2 Pin=C66.10-2
+Added Pin To Net: NetName=NetC69.11_1 Pin=C66.11-1
+Added Pin To Net: NetName=NetC64.11_2 Pin=C66.11-2
+Added Pin To Net: NetName=NetC69.12_1 Pin=C66.12-1
+Added Pin To Net: NetName=NetC64.12_2 Pin=C66.12-2
+Added Pin To Net: NetName=NetC69.13_1 Pin=C66.13-1
+Added Pin To Net: NetName=NetC64.13_2 Pin=C66.13-2
+Added Pin To Net: NetName=NetC69.14_1 Pin=C66.14-1
+Added Pin To Net: NetName=NetC64.14_2 Pin=C66.14-2
+Added Pin To Net: NetName=NetC69.15_1 Pin=C66.15-1
+Added Pin To Net: NetName=NetC64.15_2 Pin=C66.15-2
+Added Pin To Net: NetName=NetC69.16_1 Pin=C66.16-1
+Added Pin To Net: NetName=NetC64.16_2 Pin=C66.16-2
+Added Pin To Net: NetName=+2V5 Pin=C67.1-1
+Added Pin To Net: NetName=NetC70.1_2 Pin=C67.1-2
+Added Pin To Net: NetName=+2V5 Pin=C67.2-1
+Added Pin To Net: NetName=NetC70.2_2 Pin=C67.2-2
+Added Pin To Net: NetName=+2V5 Pin=C67.3-1
+Added Pin To Net: NetName=NetC70.3_2 Pin=C67.3-2
+Added Pin To Net: NetName=+2V5 Pin=C67.4-1
+Added Pin To Net: NetName=NetC70.4_2 Pin=C67.4-2
+Added Pin To Net: NetName=+2V5 Pin=C67.5-1
+Added Pin To Net: NetName=NetC70.5_2 Pin=C67.5-2
+Added Pin To Net: NetName=+2V5 Pin=C67.6-1
+Added Pin To Net: NetName=NetC70.6_2 Pin=C67.6-2
+Added Pin To Net: NetName=+2V5 Pin=C67.7-1
+Added Pin To Net: NetName=NetC70.7_2 Pin=C67.7-2
+Added Pin To Net: NetName=+2V5 Pin=C67.8-1
+Added Pin To Net: NetName=NetC70.8_2 Pin=C67.8-2
+Added Pin To Net: NetName=+2V5 Pin=C67.9-1
+Added Pin To Net: NetName=NetC70.9_2 Pin=C67.9-2
+Added Pin To Net: NetName=+2V5 Pin=C67.10-1
+Added Pin To Net: NetName=NetC70.10_2 Pin=C67.10-2
+Added Pin To Net: NetName=+2V5 Pin=C67.11-1
+Added Pin To Net: NetName=NetC70.11_2 Pin=C67.11-2
+Added Pin To Net: NetName=+2V5 Pin=C67.12-1
+Added Pin To Net: NetName=NetC70.12_2 Pin=C67.12-2
+Added Pin To Net: NetName=+2V5 Pin=C67.13-1
+Added Pin To Net: NetName=NetC70.13_2 Pin=C67.13-2
+Added Pin To Net: NetName=+2V5 Pin=C67.14-1
+Added Pin To Net: NetName=NetC70.14_2 Pin=C67.14-2
+Added Pin To Net: NetName=+2V5 Pin=C67.15-1
+Added Pin To Net: NetName=NetC70.15_2 Pin=C67.15-2
+Added Pin To Net: NetName=+2V5 Pin=C67.16-1
+Added Pin To Net: NetName=NetC70.16_2 Pin=C67.16-2
+Added Pin To Net: NetName=+2V5 Pin=C73.1-1
+Added Pin To Net: NetName=GND Pin=C73.1-2
+Added Pin To Net: NetName=+2V5 Pin=C73.2-1
+Added Pin To Net: NetName=GND Pin=C73.2-2
+Added Pin To Net: NetName=+2V5 Pin=C73.3-1
+Added Pin To Net: NetName=GND Pin=C73.3-2
+Added Pin To Net: NetName=+2V5 Pin=C73.4-1
+Added Pin To Net: NetName=GND Pin=C73.4-2
+Added Pin To Net: NetName=+2V5 Pin=C73.5-1
+Added Pin To Net: NetName=GND Pin=C73.5-2
+Added Pin To Net: NetName=+2V5 Pin=C73.6-1
+Added Pin To Net: NetName=GND Pin=C73.6-2
+Added Pin To Net: NetName=+2V5 Pin=C73.7-1
+Added Pin To Net: NetName=GND Pin=C73.7-2
+Added Pin To Net: NetName=+2V5 Pin=C73.8-1
+Added Pin To Net: NetName=GND Pin=C73.8-2
+Added Pin To Net: NetName=+2V5 Pin=C73.9-1
+Added Pin To Net: NetName=GND Pin=C73.9-2
+Added Pin To Net: NetName=+2V5 Pin=C73.10-1
+Added Pin To Net: NetName=GND Pin=C73.10-2
+Added Pin To Net: NetName=+2V5 Pin=C73.11-1
+Added Pin To Net: NetName=GND Pin=C73.11-2
+Added Pin To Net: NetName=+2V5 Pin=C73.12-1
+Added Pin To Net: NetName=GND Pin=C73.12-2
+Added Pin To Net: NetName=+2V5 Pin=C73.13-1
+Added Pin To Net: NetName=GND Pin=C73.13-2
+Added Pin To Net: NetName=+2V5 Pin=C73.14-1
+Added Pin To Net: NetName=GND Pin=C73.14-2
+Added Pin To Net: NetName=+2V5 Pin=C73.15-1
+Added Pin To Net: NetName=GND Pin=C73.15-2
+Added Pin To Net: NetName=+2V5 Pin=C73.16-1
+Added Pin To Net: NetName=GND Pin=C73.16-2
+Added Pin To Net: NetName=+2V5 Pin=C74.1-1
+Added Pin To Net: NetName=GND Pin=C74.1-2
+Added Pin To Net: NetName=+2V5 Pin=C74.2-1
+Added Pin To Net: NetName=GND Pin=C74.2-2
+Added Pin To Net: NetName=+2V5 Pin=C74.3-1
+Added Pin To Net: NetName=GND Pin=C74.3-2
+Added Pin To Net: NetName=+2V5 Pin=C74.4-1
+Added Pin To Net: NetName=GND Pin=C74.4-2
+Added Pin To Net: NetName=+2V5 Pin=C74.5-1
+Added Pin To Net: NetName=GND Pin=C74.5-2
+Added Pin To Net: NetName=+2V5 Pin=C74.6-1
+Added Pin To Net: NetName=GND Pin=C74.6-2
+Added Pin To Net: NetName=+2V5 Pin=C74.7-1
+Added Pin To Net: NetName=GND Pin=C74.7-2
+Added Pin To Net: NetName=+2V5 Pin=C74.8-1
+Added Pin To Net: NetName=GND Pin=C74.8-2
+Added Pin To Net: NetName=+2V5 Pin=C74.9-1
+Added Pin To Net: NetName=GND Pin=C74.9-2
+Added Pin To Net: NetName=+2V5 Pin=C74.10-1
+Added Pin To Net: NetName=GND Pin=C74.10-2
+Added Pin To Net: NetName=+2V5 Pin=C74.11-1
+Added Pin To Net: NetName=GND Pin=C74.11-2
+Added Pin To Net: NetName=+2V5 Pin=C74.12-1
+Added Pin To Net: NetName=GND Pin=C74.12-2
+Added Pin To Net: NetName=+2V5 Pin=C74.13-1
+Added Pin To Net: NetName=GND Pin=C74.13-2
+Added Pin To Net: NetName=+2V5 Pin=C74.14-1
+Added Pin To Net: NetName=GND Pin=C74.14-2
+Added Pin To Net: NetName=+2V5 Pin=C74.15-1
+Added Pin To Net: NetName=GND Pin=C74.15-2
+Added Pin To Net: NetName=+2V5 Pin=C74.16-1
+Added Pin To Net: NetName=GND Pin=C74.16-2
+Added Pin To Net: NetName=GND Pin=C75.1-2
+Added Pin To Net: NetName=GND Pin=C75.2-2
+Added Pin To Net: NetName=GND Pin=C75.3-2
+Added Pin To Net: NetName=GND Pin=C75.4-2
+Added Pin To Net: NetName=GND Pin=C75.5-2
+Added Pin To Net: NetName=GND Pin=C75.6-2
+Added Pin To Net: NetName=GND Pin=C75.7-2
+Added Pin To Net: NetName=GND Pin=C75.8-2
+Added Pin To Net: NetName=GND Pin=C75.9-2
+Added Pin To Net: NetName=GND Pin=C75.10-2
+Added Pin To Net: NetName=GND Pin=C75.11-2
+Added Pin To Net: NetName=GND Pin=C75.12-2
+Added Pin To Net: NetName=GND Pin=C75.13-2
+Added Pin To Net: NetName=GND Pin=C75.14-2
+Added Pin To Net: NetName=GND Pin=C75.15-2
+Added Pin To Net: NetName=GND Pin=C75.16-2
+Added Pin To Net: NetName=NetC76.1_1 Pin=C73.1-1
+Added Pin To Net: NetName=-V1.1 Pin=C73.1-2
+Added Pin To Net: NetName=NetC76.2_1 Pin=C73.2-1
+Added Pin To Net: NetName=-V1.2 Pin=C73.2-2
+Added Pin To Net: NetName=NetC76.3_1 Pin=C73.3-1
+Added Pin To Net: NetName=-V1.3 Pin=C73.3-2
+Added Pin To Net: NetName=NetC76.4_1 Pin=C73.4-1
+Added Pin To Net: NetName=-V1.4 Pin=C73.4-2
+Added Pin To Net: NetName=NetC76.5_1 Pin=C73.5-1
+Added Pin To Net: NetName=-V1.5 Pin=C73.5-2
+Added Pin To Net: NetName=NetC76.6_1 Pin=C73.6-1
+Added Pin To Net: NetName=-V1.6 Pin=C73.6-2
+Added Pin To Net: NetName=NetC76.7_1 Pin=C73.7-1
+Added Pin To Net: NetName=-V1.7 Pin=C73.7-2
+Added Pin To Net: NetName=NetC76.8_1 Pin=C73.8-1
+Added Pin To Net: NetName=-V1.8 Pin=C73.8-2
+Added Pin To Net: NetName=NetC76.9_1 Pin=C73.9-1
+Added Pin To Net: NetName=-V1.9 Pin=C73.9-2
+Added Pin To Net: NetName=NetC76.10_1 Pin=C73.10-1
+Added Pin To Net: NetName=-V1.10 Pin=C73.10-2
+Added Pin To Net: NetName=NetC76.11_1 Pin=C73.11-1
+Added Pin To Net: NetName=-V1.11 Pin=C73.11-2
+Added Pin To Net: NetName=NetC76.12_1 Pin=C73.12-1
+Added Pin To Net: NetName=-V1.12 Pin=C73.12-2
+Added Pin To Net: NetName=NetC76.13_1 Pin=C73.13-1
+Added Pin To Net: NetName=-V1.13 Pin=C73.13-2
+Added Pin To Net: NetName=NetC76.14_1 Pin=C73.14-1
+Added Pin To Net: NetName=-V1.14 Pin=C73.14-2
+Added Pin To Net: NetName=NetC76.15_1 Pin=C73.15-1
+Added Pin To Net: NetName=-V1.15 Pin=C73.15-2
+Added Pin To Net: NetName=NetC76.16_1 Pin=C73.16-1
+Added Pin To Net: NetName=-V1.16 Pin=C73.16-2
+Added Pin To Net: NetName=NetC77.1_1 Pin=C74.1-1
+Added Pin To Net: NetName=V1.1 Pin=C74.1-2
+Added Pin To Net: NetName=NetC77.2_1 Pin=C74.2-1
+Added Pin To Net: NetName=V1.2 Pin=C74.2-2
+Added Pin To Net: NetName=NetC77.3_1 Pin=C74.3-1
+Added Pin To Net: NetName=V1.3 Pin=C74.3-2
+Added Pin To Net: NetName=NetC77.4_1 Pin=C74.4-1
+Added Pin To Net: NetName=V1.4 Pin=C74.4-2
+Added Pin To Net: NetName=NetC77.5_1 Pin=C74.5-1
+Added Pin To Net: NetName=V1.5 Pin=C74.5-2
+Added Pin To Net: NetName=NetC77.6_1 Pin=C74.6-1
+Added Pin To Net: NetName=V1.6 Pin=C74.6-2
+Added Pin To Net: NetName=NetC77.7_1 Pin=C74.7-1
+Added Pin To Net: NetName=V1.7 Pin=C74.7-2
+Added Pin To Net: NetName=NetC77.8_1 Pin=C74.8-1
+Added Pin To Net: NetName=V1.8 Pin=C74.8-2
+Added Pin To Net: NetName=NetC77.9_1 Pin=C74.9-1
+Added Pin To Net: NetName=V1.9 Pin=C74.9-2
+Added Pin To Net: NetName=NetC77.10_1 Pin=C74.10-1
+Added Pin To Net: NetName=V1.10 Pin=C74.10-2
+Added Pin To Net: NetName=NetC77.11_1 Pin=C74.11-1
+Added Pin To Net: NetName=V1.11 Pin=C74.11-2
+Added Pin To Net: NetName=NetC77.12_1 Pin=C74.12-1
+Added Pin To Net: NetName=V1.12 Pin=C74.12-2
+Added Pin To Net: NetName=NetC77.13_1 Pin=C74.13-1
+Added Pin To Net: NetName=V1.13 Pin=C74.13-2
+Added Pin To Net: NetName=NetC77.14_1 Pin=C74.14-1
+Added Pin To Net: NetName=V1.14 Pin=C74.14-2
+Added Pin To Net: NetName=NetC77.15_1 Pin=C74.15-1
+Added Pin To Net: NetName=V1.15 Pin=C74.15-2
+Added Pin To Net: NetName=NetC77.16_1 Pin=C74.16-1
+Added Pin To Net: NetName=V1.16 Pin=C74.16-2
+Added Pin To Net: NetName=+2V5 Pin=C75.1-1
+Added Pin To Net: NetName=NetC78.1_2 Pin=C75.1-2
+Added Pin To Net: NetName=+2V5 Pin=C75.2-1
+Added Pin To Net: NetName=NetC78.2_2 Pin=C75.2-2
+Added Pin To Net: NetName=+2V5 Pin=C75.3-1
+Added Pin To Net: NetName=NetC78.3_2 Pin=C75.3-2
+Added Pin To Net: NetName=+2V5 Pin=C75.4-1
+Added Pin To Net: NetName=NetC78.4_2 Pin=C75.4-2
+Added Pin To Net: NetName=+2V5 Pin=C75.5-1
+Added Pin To Net: NetName=NetC78.5_2 Pin=C75.5-2
+Added Pin To Net: NetName=+2V5 Pin=C75.6-1
+Added Pin To Net: NetName=NetC78.6_2 Pin=C75.6-2
+Added Pin To Net: NetName=+2V5 Pin=C75.7-1
+Added Pin To Net: NetName=NetC78.7_2 Pin=C75.7-2
+Added Pin To Net: NetName=+2V5 Pin=C75.8-1
+Added Pin To Net: NetName=NetC78.8_2 Pin=C75.8-2
+Added Pin To Net: NetName=+2V5 Pin=C75.9-1
+Added Pin To Net: NetName=NetC78.9_2 Pin=C75.9-2
+Added Pin To Net: NetName=+2V5 Pin=C75.10-1
+Added Pin To Net: NetName=NetC78.10_2 Pin=C75.10-2
+Added Pin To Net: NetName=+2V5 Pin=C75.11-1
+Added Pin To Net: NetName=NetC78.11_2 Pin=C75.11-2
+Added Pin To Net: NetName=+2V5 Pin=C75.12-1
+Added Pin To Net: NetName=NetC78.12_2 Pin=C75.12-2
+Added Pin To Net: NetName=+2V5 Pin=C75.13-1
+Added Pin To Net: NetName=NetC78.13_2 Pin=C75.13-2
+Added Pin To Net: NetName=+2V5 Pin=C75.14-1
+Added Pin To Net: NetName=NetC78.14_2 Pin=C75.14-2
+Added Pin To Net: NetName=+2V5 Pin=C75.15-1
+Added Pin To Net: NetName=NetC78.15_2 Pin=C75.15-2
+Added Pin To Net: NetName=+2V5 Pin=C75.16-1
+Added Pin To Net: NetName=NetC78.16_2 Pin=C75.16-2
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C59.1 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C59.2 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C59.3 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C59.4 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C59.5 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C59.6 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C59.7 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C59.8 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C59.9 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C59.10 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C59.11 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C59.12 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C59.13 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C59.14 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C59.15 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C59.16 (C59) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C60.1 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C60.2 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C60.3 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C60.4 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C60.5 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C60.6 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C60.7 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C60.8 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C60.9 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C60.10 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C60.11 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C60.12 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C60.13 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C60.14 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C60.15 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C60.16 (C60) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C61.1 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C61.2 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C61.3 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C61.4 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C61.5 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C61.6 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C61.7 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C61.8 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C61.9 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C61.10 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C61.11 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C61.12 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C61.13 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C61.14 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C61.15 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C61.16 (C61) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C68.1 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C68.2 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C68.3 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C68.4 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C68.5 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C68.6 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C68.7 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C68.8 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C68.9 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C68.10 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C68.11 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C68.12 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C68.13 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C68.14 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C68.15 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C68.16 (C68) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C69.1 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C69.2 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C69.3 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C69.4 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C69.5 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C69.6 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C69.7 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C69.8 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C69.9 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C69.10 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C69.11 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C69.12 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C69.13 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C69.14 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C69.15 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C69.16 (C69) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C70.1 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C70.2 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C70.3 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C70.4 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C70.5 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C70.6 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C70.7 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C70.8 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C70.9 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C70.10 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C70.11 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C70.12 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C70.13 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C70.14 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C70.15 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C70.16 (C70) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C76.1 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C76.2 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C76.3 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C76.4 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C76.5 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C76.6 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C76.7 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C76.8 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C76.9 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C76.10 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C76.11 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C76.12 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C76.13 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C76.14 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C76.15 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C76.16 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C77.1 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C77.2 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C77.3 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C77.4 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C77.5 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C77.6 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C77.7 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C77.8 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C77.9 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C77.10 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C77.11 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C77.12 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C77.13 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C77.14 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C77.15 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C77.16 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C78.1 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C78.2 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C78.3 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C78.4 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C78.5 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C78.6 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C78.7 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C78.8 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C78.9 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C78.10 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C78.11 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C78.12 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C78.13 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C78.14 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C78.15 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C78.16 (C78) Capacitor
+Added Member To Class: ClassName=XMOS_power Member=Component C82 Capacitor
+Added Member To Class: ClassName=XMOS_power Member=Component C83 Capacitor
+Added Member To Class: ClassName=XMOS_power Member=Component C84 Capacitor
+Added Member To Class: ClassName=DAC1 Member=Component C118.1 (C118) Capacitor
+Added Member To Class: ClassName=DAC2 Member=Component C118.2 (C118) Capacitor
+Added Member To Class: ClassName=DAC1 Member=Component C119.1 (C119) Capacitor
+Added Member To Class: ClassName=DAC2 Member=Component C119.2 (C119) Capacitor
+Added Member To Class: ClassName=DAC1 Member=Component C120.1 (C120) Capacitor
+Added Member To Class: ClassName=DAC2 Member=Component C120.2 (C120) Capacitor
+Added Member To Class: ClassName=DAC1 Member=Component C126.1 (C126) Capacitor
+Added Member To Class: ClassName=DAC2 Member=Component C127.2 (C127) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors1 Member=Component C129.1 (C129) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C129.2 (C129) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors3 Member=Component C129.3 (C129) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors4 Member=Component C129.4 (C129) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors5 Member=Component C129.5 (C129) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors6 Member=Component C129.6 (C129) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors7 Member=Component C129.7 (C129) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors8 Member=Component C129.8 (C129) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors1 Member=Component C130.1 (C130) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C130.2 (C130) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors3 Member=Component C130.3 (C130) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors4 Member=Component C130.4 (C130) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors5 Member=Component C130.5 (C130) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors6 Member=Component C130.6 (C130) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors7 Member=Component C130.7 (C130) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors8 Member=Component C130.8 (C130) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors1 Member=Component C131.1 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C131.2 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors3 Member=Component C131.3 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors4 Member=Component C131.4 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors5 Member=Component C131.5 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors6 Member=Component C131.6 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors7 Member=Component C131.7 (C131) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors8 Member=Component C131.8 (C131) Capacitor
+Added Member To Class: ClassName=PHY_ETHERNET Member=Component C146 Capacitor
+Added Member To Class: ClassName=PHY_ETHERNET Member=Component C147 Capacitor
+Added Member To Class: ClassName=PHY_ETHERNET Member=Component C148 Capacitor_Polarized
+Added Member To Class: ClassName=U_StereoHeadphoneDriver Member=Component C173 Capacitor
+Added Member To Class: ClassName=U_StereoHeadphoneDriver Member=Component C174 Capacitor
+Added Member To Class: ClassName=U_StereoHeadphoneDriver Member=Component C175 Capacitor
+Added Room: Name=U_InputAmplifier1

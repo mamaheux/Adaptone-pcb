@@ -1,0 +1,223 @@
+Removed Parameter note:DNI from Part C14
+Change Value of Parameter Mfg_PN in Part C3 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter NI in Part C3 Old=NI New=
+Change Value of Parameter Supplier1_PN in Part C3 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C3 Old=100nF New=470pF
+Change Value of Parameter HelpURL in Part C4 Old=https://www.digikey.ca/product-detail/en/samsung-electro-mechanics/CL10B102KB8NNNC/1276-1018-1-ND/3889104 New=
+Change Value of Parameter Mfg_PN in Part C4 Old=CL10B102KB8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter NI in Part C4 Old=NI New=
+Change Value of Parameter Supplier1_PN in Part C4 Old=1276-1018-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C4 Old=10nF New=470pF
+Change Value of Parameter Mfg in Part C5 Old=Panasonic New=Nichicon
+Change Value of Parameter Mfg_PN in Part C5 Old=Part Number EEE-FT1V220AR New=UWX1C100MCL1GB
+Change Value of Parameter Supplier1_PN in Part C5 Old=PCE5012CT-ND New=493-2100-1-ND
+Change Value of Parameter Value in Part C5 Old=22uF New=10uF
+Change Value of Parameter Mfg in Part C6 Old=Panasonic New=Nichicon
+Change Value of Parameter Mfg_PN in Part C6 Old=Part Number EEE-FT1V220AR New=UWX1C100MCL1GB
+Change Value of Parameter Supplier1_PN in Part C6 Old=PCE5012CT-ND New=493-2100-1-ND
+Change Value of Parameter Value in Part C6 Old=22uF New=10uF
+Change Value of Parameter Mfg_PN in Part C7 Old=UUX1J101MNL1GS New=UWX1C100MCL1GB
+Change Value of Parameter Supplier1_PN in Part C7 Old=493-7453-1-ND New=493-2100-1-ND
+Change Value of Parameter Value in Part C7 Old=100uF New=10uF
+Change Value of Parameter Mfg_PN in Part C10 Old=CL10B332JB8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter NI in Part C10 Old=NI New=
+Change Value of Parameter Supplier1_PN in Part C10 Old=1276-2030-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C10 Old=3.3nF New=470pF
+Change Value of Parameter Mfg_PN in Part C11 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C11 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C11 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C12 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C12 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C12 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C13 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter NI in Part C13 Old=NI New=
+Change Value of Parameter Supplier1_PN in Part C13 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C13 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C14 Old=CL10B332JB8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter NI in Part C14 Old=NI New=
+Change Value of Parameter Supplier1_PN in Part C14 Old=1276-2030-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C14 Old=3.3nF New=470pF
+Change Value of Parameter Mfg_PN in Part C16 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C16 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C16 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C17 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C17 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C17 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C18 Old=UUX1J101MNL1GS New=UWX1C100MCL1GB
+Change Value of Parameter Supplier1_PN in Part C18 Old=493-7453-1-ND New=493-2100-1-ND
+Change Value of Parameter Value in Part C18 Old=100uF New=10uF
+Change Value of Parameter Mfg_PN in Part C19 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C19 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C19 Old=4u7F New=470pF
+Change Value of Parameter HelpURL in Part C20 Old=https://www.digikey.ca/product-detail/en/samsung-electro-mechanics/CL32B106KMVNNWE/1276-7053-1-ND/7320695 New=
+Change Value of Parameter Mfg_PN in Part C20 Old=CL32B106KMVNNWE New=CL10C471JB8NCNC
+Change Value of Parameter NI in Part C20 Old=NI New=
+Change Value of Parameter Supplier1_PN in Part C20 Old=1276-7053-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C20 Old=10uF New=470pF
+Change Value of Parameter Mfg in Part C21 Old=Walsin New=Samsung
+Change Value of Parameter Mfg_PN in Part C21 Old=0603B104K101CT New=CL10C471JB8NCNC
+Change Value of Parameter NI in Part C21 Old=NI New=
+Change Value of Parameter Supplier1_PN in Part C21 Old=1292-1392-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C21 Old=100nF New=470pF
+Change Value of Parameter HelpURL in Part C22 Old=https://www.digikey.ca/product-detail/en/samsung-electro-mechanics/CL10B102KB8NNNC/1276-1018-1-ND/3889104 New=
+Change Value of Parameter Mfg_PN in Part C22 Old=CL10B102KB8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter NI in Part C22 Old=NI New=
+Change Value of Parameter Supplier1_PN in Part C22 Old=1276-1018-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C22 Old=10nF New=470pF
+Change Value of Parameter Mfg_PN in Part C23 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C23 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C23 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C24 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter NI in Part C24 Old=NI New=
+Change Value of Parameter Supplier1_PN in Part C24 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C24 Old=100nF New=470pF
+Change Value of Parameter HelpURL in Part C25 Old=https://www.digikey.ca/product-detail/en/samsung-electro-mechanics/CL10B472KB8NNNC/1276-1098-1-ND/3889184 New=
+Change Value of Parameter Mfg_PN in Part C25 Old=CL10B472KB8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter NI in Part C25 Old=NI New=
+Change Value of Parameter Supplier1_PN in Part C25 Old=1276-1098-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C25 Old=4.7nF New=470pF
+Change Value of Parameter Current in Part D1 Old=5A New=
+Change Component Parameter Description in D1 Old=Vf = 390mV, Vr = 20V New=
+Change Value of Parameter HelpURL in Part D1 Old=https://www.digikey.ca/product-detail/en/smc-diode-solutions/DSS16UTR/1655-1929-1-ND/8341871 New=
+Change Value of Parameter Mfg in Part D1 Old=Rohm Semiconductor New=
+Change Value of Parameter Mfg Part Number in Part D1 Old=RSX501LAM20TR New=
+Change Value of Parameter Supplier in Part D1 Old=Digikey New=
+Change Value of Parameter Supplier Part Numer in Part D1 Old=RSX501LAM20CT-ND New=
+Change Value of Parameter Mfg in Part D3 Old= New=Osram
+Change Value of Parameter Mfg_PN in Part D3 Old= New=LY R976-PS-36
+Change Value of Parameter NI in Part D3 Old=NI New=
+Change Value of Parameter Supplier1 in Part D3 Old= New=Digikey
+Change Value of Parameter Supplier1_PN in Part D3 Old= New=475-2560-1-ND
+Change Value of Parameter Type in Part D3 Old=G New=Y
+Change Value of Parameter Mfg in Part D5 Old=SMC Diode Solutions New=Vishay
+Change Value of Parameter Mfg_PN in Part D5 Old=S1GTR New=SS14-E3/61T
+Change Value of Parameter Supplier1_PN in Part D5 Old=1655-1504-1-ND New=SS14-E3/61TGICT-ND
+Change Value of Parameter Current in Part D6 Old=1A New=
+Change Value of Parameter HelpURL in Part D6 Old=https://www.digikey.ca/product-detail/en/smc-diode-solutions/DSS16UTR/1655-1929-1-ND/8341871 New=
+Change Value of Parameter Mfg in Part D6 Old=SMC Diode Solutions New=
+Change Value of Parameter Mfg Part Number in Part D6 Old=DSS16UTR New=
+Change Value of Parameter Supplier in Part D6 Old=Digikey New=
+Change Value of Parameter Supplier Part Numer in Part D6 Old=1655-1929-1-ND New=
+Change Value of Parameter Mfg in Part D7 Old=SMC Diode Solutions New=Vishay
+Change Value of Parameter Mfg_PN in Part D7 Old=S1GTR New=SS14-E3/61T
+Change Value of Parameter Supplier1_PN in Part D7 Old=1655-1504-1-ND New=SS14-E3/61TGICT-ND
+Change Value of Parameter Mfg in Part L1 Old=Bourns Inc. New=Murata
+Change Value of Parameter Mfg_PN in Part L1 Old=SRN5040-4R7M New=DFE252012F-100M=P2
+Change Value of Parameter Supplier1_PN in Part L1 Old=SRN5040-4R7MCT-ND New=490-13050-1-ND
+Change Value of Parameter Value in Part L1 Old=4.7uH New=10uH
+Change Value of Parameter HelpURL in Part L2 Old=https://www.digikey.ca/product-detail/en/tdk-corporation/VLS5045EX-330M/445-174851-1-ND/6560408 New=
+Change Value of Parameter Mfg in Part L2 Old=TDK Corporation New=Murata
+Change Value of Parameter Mfg_PN in Part L2 Old=VLS5045EX-330M New=DFE252012F-100M=P2
+Change Value of Parameter Supplier1_PN in Part L2 Old=445-174851-1-ND New=490-13050-1-ND
+Change Value of Parameter Value in Part L2 Old=33uH New=10uH
+Change Value of Parameter Mfg in Part R4 Old=Littelfuse Inc. New=Bel fuse
+Change Value of Parameter Mfg_PN in Part R4 Old=1206L150SLYR New=0ZCK0100FF2E
+Change Value of Parameter Supplier1_PN in Part R4 Old=F3367CT-ND New=507-1815-1-ND
+Change Value of Parameter Value in Part R4 Old=Ih=2A, It=4A New=Ih=1A, It=2A
+Change Value of Parameter HelpURL in Part R5 Old=https://www.digikey.ca/product-detail/en/stackpole-electronics-inc/RMCF0603FT100K/RMCF0603FT100KCT-ND/1943118 New=
+Change Value of Parameter Mfg in Part R5 Old=Stackpole Electronics Inc New=Yageo
+Change Value of Parameter Mfg_PN in Part R5 Old=RMCF0603FT100K New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R5 Old=RMCF0603FT100KCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R5 Old=100k New=33R
+Change Value of Parameter Mfg_PN in Part R6 Old=RC0603JR-071KL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R6 Old=311-1.0KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R6 Old=1k New=33R
+Change Value of Parameter Mfg_PN in Part R7 Old=RC0603FR-0749K9L New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R7 Old=311-49.9KHRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Tolerance in Part R7 Old=1% New=
+Change Value of Parameter Value in Part R7 Old=49.9k New=33R
+Change Value of Parameter Mfg_PN in Part R8 Old=RC0603JR-0710KL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R8 Old=311-10KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R8 Old=10k New=33R
+Change Value of Parameter Mfg in Part R9 Old=Stackpole Electronics Inc New=Yageo
+Change Value of Parameter Mfg_PN in Part R9 Old=RNCP0603FTD10K0 New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R9 Old=RNCP0603FTD10K0CT-ND New=311-33GRCT-ND
+Change Value of Parameter Tolerance in Part R9 Old=1% New=
+Change Value of Parameter Value in Part R9 Old=10k New=33R
+Change Value of Parameter Mfg in Part R10 Old=Stackpole Electronics Inc New=Yageo
+Change Value of Parameter Mfg_PN in Part R10 Old=RMCF0603FT80R6 New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R10 Old=RMCF0603FT80R6CT-ND New=311-33GRCT-ND
+Change Value of Parameter Tolerance in Part R10 Old=1% New=
+Change Value of Parameter Value in Part R10 Old=80.6R New=33R
+Change Value of Parameter HelpURL in Part R11 Old=https://www.digikey.ca/product-detail/en/stackpole-electronics-inc/RMCF0603FT100K/RMCF0603FT100KCT-ND/1943118 New=
+Change Value of Parameter Mfg in Part R11 Old=Stackpole Electronics Inc New=Yageo
+Change Value of Parameter Mfg_PN in Part R11 Old=RMCF0603FT100K New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R11 Old=RMCF0603FT100KCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R11 Old=100k New=33R
+Change Value of Parameter Mfg_PN in Part R12 Old=RC0603FR-07432KL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R12 Old=311-432KHRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Tolerance in Part R12 Old=1% New=
+Change Value of Parameter Value in Part R12 Old=432k New=33R
+Change Value of Parameter Mfg in Part R13 Old=Panasonic Electronic Components New=Yageo
+Change Value of Parameter Mfg_PN in Part R13 Old=ERJ-3EKF3011V New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R13 Old=P3.01KHCT-ND New=311-33GRCT-ND
+Change Value of Parameter Tolerance in Part R13 Old=1% New=
+Change Value of Parameter Value in Part R13 Old=3.01k New=33R
+Change Value of Parameter Mfg_PN in Part R14 Old=RC0603FR-0749K9L New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R14 Old=311-49.9KHRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R14 Old=49.9k New=33R
+Change Value of Parameter HelpURL in Part R15 Old=https://www.digikey.ca/product-detail/en/stackpole-electronics-inc/RMCF0603FT59K0/RMCF0603FT59K0CT-ND/4425114 New=
+Change Value of Parameter Mfg in Part R15 Old=Stackpole Electronics Inc New=Yageo
+Change Value of Parameter Mfg_PN in Part R15 Old=RMCF0603FT59K0 New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R15 Old=RMCF0603FT59K0CT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R15 Old=59k New=33R
+Change Value of Parameter Mfg in Part R16 Old=Stackpole Electronics Inc New=Yageo
+Change Value of Parameter Mfg_PN in Part R16 Old=RNCP0603FTD10K0 New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R16 Old=RNCP0603FTD10K0CT-ND New=311-33GRCT-ND
+Change Value of Parameter Tolerance in Part R16 Old=1% New=
+Change Value of Parameter Value in Part R16 Old=10k New=33R
+Change Value of Parameter HelpURL in Part R17 Old=https://www.digikey.ca/product-detail/en/yageo/RC0603FR-0768KL/311-68.0KHRCT-ND/730299 New=
+Change Value of Parameter Mfg_PN in Part R17 Old=RC0603FR-0768KL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R17 Old=311-68.0KHRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R17 Old=68k New=33R
+Replace Symbol from C3 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C4 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C5 Capacitor_Polarized in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor_Polarized from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C6 Capacitor_Polarized in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor_Polarized from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C7 Capacitor_Polarized in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor_Polarized from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C8 Capacitor_Polarized in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor_Polarized from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C9 Capacitor_Polarized in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor_Polarized from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C10 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C11 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C12 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C13 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C14 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C15 Capacitor_Polarized in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor_Polarized from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C16 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C17 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C18 Capacitor_Polarized in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor_Polarized from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C19 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C20 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from C21 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C22 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C23 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C24 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C25 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from D1 Schottky in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Schottky from LIB_ADAPTONE_EMILE_LAPLANTE.SchLib
+Replace Symbol from D2 Diode_LED in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Diode_LED from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from D3 Diode_LED in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Diode_LED from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from D4 Diode_zener in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Diode_zener from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from D5 Diode in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Diode from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from D6 Schottky in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Schottky from LIB_ADAPTONE_EMILE_LAPLANTE.SchLib
+Replace Symbol from D7 Diode in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Diode from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from L1 Inductor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Inductor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from L2 Inductor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Inductor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R4 Resistor_PTC in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor_PTC from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R5 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R6 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R7 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R8 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R9 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R10 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R11 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R12 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R13 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R14 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R15 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R16 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R17 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from U3 REG_SW_AP3513EMPTR-G1 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with REG_SW_AP3513EMPTR-G1 from LIB_ADAPTONE_EMILE_LAPLANTE.SchLib
+Replace Symbol from U4 MCP1700 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with MCP1700 from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from U5 REG_LDO_LT1118 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with REG_LDO_LT1118 from LIB_ADAPTONE_EMILE_LAPLANTE.SchLib
+Replace Symbol from U6 TL783 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with TL783 from LIB_ADAPTONE_EMILE_LAPLANTE.SchLib
+Replace Symbol from U7 REG_SW_MP3425DL-LF-Z in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\Power.SchDoc with REG_SW_MP3425DL-LF-Z from LIB_ADAPTONE_EMILE_LAPLANTE.SchLib

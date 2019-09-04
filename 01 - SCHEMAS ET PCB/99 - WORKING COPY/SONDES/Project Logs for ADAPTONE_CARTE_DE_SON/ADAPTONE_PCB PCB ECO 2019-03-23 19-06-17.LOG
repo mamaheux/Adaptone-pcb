@@ -1,0 +1,2 @@
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Capacitor_Polarized New DesignItemId=Capacitor_Polarized_1
+Change Component Footprint: Designator=C7 Old Footprint=CAP_RAD_SMD_DIA157 New Footprint=CAP_RAD_SMD_DIA315

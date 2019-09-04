@@ -1,0 +1,73 @@
+Removed Parameter note:DNI from Part C175
+Removed Parameter note:DNI from Part C177
+Change Value of Parameter Mfg_PN in Part C169 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C169 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C169 Old=4u7F New=470pF
+Change Value of Parameter Mfg in Part C170 Old=Murata New=Samsung
+Change Value of Parameter Mfg_PN in Part C170 Old=CL05B103KO5NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C170 Old=1276-1051-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C170 Old=10nF New=470pF
+Change Value of Parameter Mfg_PN in Part C171 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C171 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C171 Old=4u7F New=470pF
+Change Value of Parameter Mfg in Part C172 Old=Murata New=Samsung
+Change Value of Parameter Mfg_PN in Part C172 Old=CL05B103KO5NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C172 Old=1276-1051-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C172 Old=10nF New=470pF
+Change Value of Parameter Type in Part C173 Old=C0G New=
+Change Value of Parameter Type in Part C174 Old=C0G New=
+Change Value of Parameter Mfg in Part C175 Old=Murata New=Samsung
+Change Value of Parameter Mfg_PN in Part C175 Old=GRM1885C1H222JA01D New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C175 Old=490-1459-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C175 Old=47p New=470pF
+Change Value of Parameter Mfg in Part C176 Old=United Chemi-Con New=Nichicon
+Change Value of Parameter Mfg_PN in Part C176 Old=EMZR6R3ARA222MJA0G New=UWX1C100MCL1GB
+Change Value of Parameter Supplier1_PN in Part C176 Old=565-5130-1-ND New=493-2100-1-ND
+Change Value of Parameter Value in Part C176 Old=2200uF New=10uF
+Change Value of Parameter Mfg in Part C177 Old=Murata New=Samsung
+Change Value of Parameter Mfg_PN in Part C177 Old=GRM1885C1H222JA01D New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C177 Old=490-1459-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C177 Old=47p New=470pF
+Change Value of Parameter Mfg in Part C178 Old=United Chemi-Con New=Nichicon
+Change Value of Parameter Mfg_PN in Part C178 Old=EMZR6R3ARA222MJA0G New=UWX1C100MCL1GB
+Change Value of Parameter Supplier1_PN in Part C178 Old=565-5130-1-ND New=493-2100-1-ND
+Change Value of Parameter Value in Part C178 Old=2200uF New=10uF
+Change Value of Parameter Mfg_PN in Part R129 Old=311-10GRCT-ND New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R129 Old=311-100KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R129 Old=10K New=33R
+Change Value of Parameter Mfg_PN in Part R130 Old=311-10GRCT-ND New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R130 Old=311-100KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R130 Old=10K New=33R
+Change Value of Parameter Mfg_PN in Part R131 Old=311-10GRCT-ND New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R131 Old=311-100KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R131 Old=1K New=33R
+Change Value of Parameter Mfg_PN in Part R132 Old=311-10GRCT-ND New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R132 Old=311-100KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R132 Old=10K New=33R
+Change Value of Parameter Mfg_PN in Part R133 Old=311-10GRCT-ND New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R133 Old=311-100KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R133 Old=10K New=33R
+Change Value of Parameter Mfg_PN in Part R134 Old=311-10GRCT-ND New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R134 Old=311-100KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R134 Old=1K New=33R
+Replace Symbol from C169 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C170 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C171 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C172 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C173 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C174 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C175 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Capacitor from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from C176 Capacitor_Polarized in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Capacitor_Polarized from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C177 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Capacitor from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from C178 Capacitor_Polarized in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Capacitor_Polarized from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from J8 CON_XH_JST_6pins in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with CON_XH_JST_6pins from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from J9 CON_XH_JST_6pins in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with CON_XH_JST_6pins from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from L10 Ferrite in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Ferrite from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R129 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Resistor from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from R130 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Resistor from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from R131 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Resistor from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from R132 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Resistor from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from R133 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Resistor from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from R134 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with Resistor from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from U27 OPA1622 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with OPA1622 from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib
+Replace Symbol from U27 OPA1622 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\StereoHeadphoneDriver.SchDoc with OPA1622 from LIB_ADAPTONE_PASCAL_LEMIEUX.SchLib

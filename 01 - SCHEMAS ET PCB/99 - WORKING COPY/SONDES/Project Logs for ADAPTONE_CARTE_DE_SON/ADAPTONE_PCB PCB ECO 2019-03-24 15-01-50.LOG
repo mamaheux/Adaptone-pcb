@@ -1,0 +1,26 @@
+Change Component DesignItemId : Designator=C177 Old DesignItemId=Capacitor_Polarized New DesignItemId=Capacitor_Polarized_1
+Change Component Footprint: Designator=C177 Old Footprint=0402 New Footprint=CAP_RAD_SMD_DIA315
+Added Component: Designator=C179(CAP_RAD_SMD_DIA315)
+Added Pin To Net: NetName=B1 Pin=C177-+
+Added Pin To Net: NetName=NetC177_- Pin=C177--
+Added Pin To Net: NetName=B2 Pin=C179-+
+Added Pin To Net: NetName=NetC179_- Pin=C179--
+Added Member To Class: ClassName=XMOS_power Member=Component C114 Capacitor
+Added Member To Class: ClassName=U_OutputConnectors1 Member=Component C138_U_OutputConnectors1 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C138_U_OutputConnectors2 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors3 Member=Component C138_U_OutputConnectors3 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors4 Member=Component C138_U_OutputConnectors4 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors5 Member=Component C138_U_OutputConnectors5 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors6 Member=Component C138_U_OutputConnectors6 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors7 Member=Component C138_U_OutputConnectors7 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors8 Member=Component C138_U_OutputConnectors8 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors1 Member=Component C142_U_OutputConnectors1 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C142_U_OutputConnectors2 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors3 Member=Component C142_U_OutputConnectors3 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors4 Member=Component C142_U_OutputConnectors4 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors5 Member=Component C142_U_OutputConnectors5 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors6 Member=Component C142_U_OutputConnectors6 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors7 Member=Component C142_U_OutputConnectors7 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors8 Member=Component C142_U_OutputConnectors8 (C142) Capacitor
+Added Member To Class: ClassName=PHY_ETHERNET Member=Component C143 Capacitor
+Added Member To Class: ClassName=U_StereoHeadphoneDriver Member=Component C179 Capacitor_Polarized

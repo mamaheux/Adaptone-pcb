@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=+5VA Pin=C42-+
+Removed Pin From Net: NetName=GND Pin=C42--
+Removed Pin From Net: NetName=+3V3 Pin=C43-+
+Removed Pin From Net: NetName=GND Pin=C43--
+Removed Pin From Net: NetName=+5VA Pin=C44-1
+Removed Pin From Net: NetName=+3V3 Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C47-2
+Removed Pin From Net: NetName=+5VA Pin=C50-+
+Removed Pin From Net: NetName=GND Pin=C50--
+Removed Pin From Net: NetName=+3V3 Pin=C51-+
+Removed Pin From Net: NetName=GND Pin=C51--
+Removed Pin From Net: NetName=+5VA Pin=C52-+
+Removed Pin From Net: NetName=GND Pin=C52--
+Removed Pin From Net: NetName=+3V3 Pin=C53-+
+Removed Pin From Net: NetName=GND Pin=C53--
+Removed Pin From Net: NetName=+3V3 Pin=C55-1
+Removed Pin From Net: NetName=+5VA Pin=C56-1
+Change Component DesignItemId : Designator=C42 Old DesignItemId=Capacitor_Polarized New DesignItemId=Capacitor
+Change Component DesignItemId : Designator=C43 Old DesignItemId=Capacitor_Polarized New DesignItemId=Capacitor
+Change Component DesignItemId : Designator=C50 Old DesignItemId=Capacitor_Polarized New DesignItemId=Capacitor
+Change Component DesignItemId : Designator=C51 Old DesignItemId=Capacitor_Polarized New DesignItemId=Capacitor
+Change Component DesignItemId : Designator=C52 Old DesignItemId=Capacitor_Polarized New DesignItemId=Capacitor
+Change Component DesignItemId : Designator=C53 Old DesignItemId=Capacitor_Polarized New DesignItemId=Capacitor
+Change Component Footprint: Designator=C44 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C45 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C46 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C54 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C55 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C56 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C57 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C42 Old Footprint=CAP_RAD_SMD_DIA157 New Footprint=0402
+Change Component Footprint: Designator=C43 Old Footprint=CAP_RAD_SMD_DIA157 New Footprint=0402
+Change Component Footprint: Designator=C50 Old Footprint=CAP_RAD_SMD_DIA157 New Footprint=0402
+Change Component Footprint: Designator=C51 Old Footprint=CAP_RAD_SMD_DIA157 New Footprint=0402
+Change Component Footprint: Designator=C52 Old Footprint=CAP_RAD_SMD_DIA157 New Footprint=0402
+Change Component Footprint: Designator=C53 Old Footprint=CAP_RAD_SMD_DIA157 New Footprint=0402
+Change Component Comment : Designator=C42 Old Comment=Capacitor_Polarized New Comment=Capacitor
+Change Component Comment : Designator=C43 Old Comment=Capacitor_Polarized New Comment=Capacitor
+Change Component Comment : Designator=C50 Old Comment=Capacitor_Polarized New Comment=Capacitor
+Change Component Comment : Designator=C51 Old Comment=Capacitor_Polarized New Comment=Capacitor
+Change Component Comment : Designator=C52 Old Comment=Capacitor_Polarized New Comment=Capacitor
+Change Component Comment : Designator=C53 Old Comment=Capacitor_Polarized New Comment=Capacitor
+Change Component Designator: OldDesignator=C48 NewDesignator=C47
+Added Component: Designator=C48(0402)
+Added Pin To Net: NetName=+5VA Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=+5VA Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=+3V3 Pin=C44-1
+Added Pin To Net: NetName=+3V3 Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=+5VA Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=+5VA Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=+3V3 Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=+3V3 Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=+5VA Pin=C55-1
+Added Pin To Net: NetName=+3V3 Pin=C56-1

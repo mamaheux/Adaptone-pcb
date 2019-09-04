@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=XLRA1.1 Pin=J5.1-2
+Removed Pin From Net: NetName=XLRA1.2 Pin=J5.2-2
+Removed Pin From Net: NetName=XLRA1.3 Pin=J5.3-2
+Removed Pin From Net: NetName=XLRA1.4 Pin=J5.4-2
+Removed Pin From Net: NetName=XLRA1.5 Pin=J5.5-2
+Removed Pin From Net: NetName=XLRA1.6 Pin=J5.6-2
+Removed Pin From Net: NetName=XLRA1.7 Pin=J5.7-2
+Removed Pin From Net: NetName=XLRA1.8 Pin=J5.8-2
+Added Pin To Net: NetName=XLRA2.1 Pin=J5.1-2
+Added Pin To Net: NetName=XLRA2.2 Pin=J5.2-2
+Added Pin To Net: NetName=XLRA2.3 Pin=J5.3-2
+Added Pin To Net: NetName=XLRA2.4 Pin=J5.4-2
+Added Pin To Net: NetName=XLRA2.5 Pin=J5.5-2
+Added Pin To Net: NetName=XLRA2.6 Pin=J5.6-2
+Added Pin To Net: NetName=XLRA2.7 Pin=J5.7-2
+Added Pin To Net: NetName=XLRA2.8 Pin=J5.8-2
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C63.4 (C63) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C66.4 (C66) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C76.4 (C76) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C77.4 (C77) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C78.4 (C78) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C80.4 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C82.4 (C82) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C83.4 (C83) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C84.4 (C84) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C84.15 (C84) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors1 Member=Component C142.1 (C142) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component R34.4 (R34) Resistor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component R41.4 (R41) Resistor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component R42.4 (R42) Resistor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component R55.4 (R55) Resistor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component R57.4 (R57) Resistor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component R58.4 (R58) Resistor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component R59.4 (R59) Resistor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component R64.4 (R64) Resistor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component R65.4 (R65) Resistor
+Added Room: Name=U_OutputConnectors1

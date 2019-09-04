@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=C133_U_OutputConnectors1 NewDesignator=C132_U_OutputConnectors1
+Change Component Designator: OldDesignator=C133_U_OutputConnectors2 NewDesignator=C132_U_OutputConnectors2
+Change Component Designator: OldDesignator=C133_U_OutputConnectors3 NewDesignator=C132_U_OutputConnectors3
+Change Component Designator: OldDesignator=C133_U_OutputConnectors4 NewDesignator=C132_U_OutputConnectors4
+Change Component Designator: OldDesignator=C133_U_OutputConnectors5 NewDesignator=C132_U_OutputConnectors5
+Change Component Designator: OldDesignator=C133_U_OutputConnectors6 NewDesignator=C132_U_OutputConnectors6
+Change Component Designator: OldDesignator=C133_U_OutputConnectors7 NewDesignator=C132_U_OutputConnectors7
+Change Component Designator: OldDesignator=C133_U_OutputConnectors8 NewDesignator=C132_U_OutputConnectors8
+Change Component Designator: OldDesignator=C140_U_OutputConnectors1 NewDesignator=C139_U_OutputConnectors1
+Change Component Designator: OldDesignator=C140_U_OutputConnectors2 NewDesignator=C139_U_OutputConnectors2
+Change Component Designator: OldDesignator=C140_U_OutputConnectors3 NewDesignator=C139_U_OutputConnectors3
+Change Component Designator: OldDesignator=C140_U_OutputConnectors4 NewDesignator=C139_U_OutputConnectors4
+Change Component Designator: OldDesignator=C140_U_OutputConnectors5 NewDesignator=C139_U_OutputConnectors5
+Change Component Designator: OldDesignator=C140_U_OutputConnectors6 NewDesignator=C139_U_OutputConnectors6
+Change Component Designator: OldDesignator=C140_U_OutputConnectors7 NewDesignator=C139_U_OutputConnectors7
+Change Component Designator: OldDesignator=C140_U_OutputConnectors8 NewDesignator=C139_U_OutputConnectors8
+Change Net Name : Old Net Name=NetC133_U_OutputConnectors1_1 New Net Name=NetC132_U_OutputConnectors1_1
+Change Net Name : Old Net Name=NetC133_U_OutputConnectors2_1 New Net Name=NetC132_U_OutputConnectors2_1
+Change Net Name : Old Net Name=NetC133_U_OutputConnectors3_1 New Net Name=NetC132_U_OutputConnectors3_1
+Change Net Name : Old Net Name=NetC133_U_OutputConnectors4_1 New Net Name=NetC132_U_OutputConnectors4_1
+Change Net Name : Old Net Name=NetC133_U_OutputConnectors5_1 New Net Name=NetC132_U_OutputConnectors5_1
+Change Net Name : Old Net Name=NetC133_U_OutputConnectors6_1 New Net Name=NetC132_U_OutputConnectors6_1
+Change Net Name : Old Net Name=NetC133_U_OutputConnectors7_1 New Net Name=NetC132_U_OutputConnectors7_1
+Change Net Name : Old Net Name=NetC133_U_OutputConnectors8_1 New Net Name=NetC132_U_OutputConnectors8_1
+Change Net Name : Old Net Name=NetC140_U_OutputConnectors1_1 New Net Name=NetC139_U_OutputConnectors1_1
+Change Net Name : Old Net Name=NetC140_U_OutputConnectors2_1 New Net Name=NetC139_U_OutputConnectors2_1
+Change Net Name : Old Net Name=NetC140_U_OutputConnectors3_1 New Net Name=NetC139_U_OutputConnectors3_1
+Change Net Name : Old Net Name=NetC140_U_OutputConnectors4_1 New Net Name=NetC139_U_OutputConnectors4_1
+Change Net Name : Old Net Name=NetC140_U_OutputConnectors5_1 New Net Name=NetC139_U_OutputConnectors5_1
+Change Net Name : Old Net Name=NetC140_U_OutputConnectors6_1 New Net Name=NetC139_U_OutputConnectors6_1
+Change Net Name : Old Net Name=NetC140_U_OutputConnectors7_1 New Net Name=NetC139_U_OutputConnectors7_1
+Change Net Name : Old Net Name=NetC140_U_OutputConnectors8_1 New Net Name=NetC139_U_OutputConnectors8_1

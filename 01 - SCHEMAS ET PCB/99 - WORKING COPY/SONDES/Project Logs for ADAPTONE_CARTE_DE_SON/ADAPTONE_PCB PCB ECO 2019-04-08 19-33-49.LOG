@@ -1,0 +1,183 @@
+Added Component: Designator=C48(0402)
+Added Component: Designator=C49(0402)
+Added Pin To Net: NetName=+5VA Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=+3V3 Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=NetC132.2_1 Pin=C132.2-1
+Added Pin To Net: NetName=NetC132.2_2 Pin=C132.2-2
+Added Pin To Net: NetName=NetC132.2_2 Pin=C133.2-1
+Added Pin To Net: NetName=NetC133.2_2 Pin=C133.2-2
+Added Pin To Net: NetName=+5VA Pin=C134.2-1
+Added Pin To Net: NetName=GND Pin=C134.2-2
+Added Pin To Net: NetName=+5VA Pin=C135.2-1
+Added Pin To Net: NetName=GND Pin=C135.2-2
+Added Pin To Net: NetName=GND Pin=C136.2-1
+Added Pin To Net: NetName=+5VA Pin=C136.2-2
+Added Pin To Net: NetName=NetC132.2_2 Pin=C137.2-1
+Added Pin To Net: NetName=NetC137.2_2 Pin=C137.2-2
+Added Pin To Net: NetName=AOUT13 Pin=C138.2-1
+Added Pin To Net: NetName=NetC138.2_2 Pin=C138.2-2
+Added Pin To Net: NetName=NetC139.2_1 Pin=C139.2-1
+Added Pin To Net: NetName=NetC139.2_2 Pin=C139.2-2
+Added Pin To Net: NetName=NetC140.2_1 Pin=C140.2-1
+Added Pin To Net: NetName=+2V5 Pin=C140.2-2
+Added Pin To Net: NetName=NetC139.2_2 Pin=C141.2-1
+Added Pin To Net: NetName=NetC141.2_2 Pin=C141.2-2
+Added Pin To Net: NetName=NetC142.2_1 Pin=C142.2-1
+Added Pin To Net: NetName=NetC142.2_2 Pin=C142.2-2
+Added Pin To Net: NetName=NetC142.2_2 Pin=C143.2-1
+Added Pin To Net: NetName=NetC143.2_2 Pin=C143.2-2
+Added Pin To Net: NetName=NetC142.2_2 Pin=C144.2-1
+Added Pin To Net: NetName=NetC144.2_2 Pin=C144.2-2
+Added Pin To Net: NetName=AOUT14 Pin=C145.2-1
+Added Pin To Net: NetName=NetC145.2_2 Pin=C145.2-2
+Added Pin To Net: NetName=NetC146.2_1 Pin=C146.2-1
+Added Pin To Net: NetName=NetC146.2_2 Pin=C146.2-2
+Added Pin To Net: NetName=NetC147.2_1 Pin=C147.2-1
+Added Pin To Net: NetName=+2V5 Pin=C147.2-2
+Added Pin To Net: NetName=NetC146.2_2 Pin=C148.2-1
+Added Pin To Net: NetName=NetC148.2_2 Pin=C148.2-2
+Added Pin To Net: NetName=GND Pin=D13.2-1
+Added Pin To Net: NetName=+5VA Pin=D13.2-2
+Added Pin To Net: NetName=NetC132.2_2 Pin=D13.2-3
+Added Pin To Net: NetName=GND Pin=D14.2-1
+Added Pin To Net: NetName=+5VA Pin=D14.2-2
+Added Pin To Net: NetName=NetC139.2_2 Pin=D14.2-3
+Added Pin To Net: NetName=GND Pin=D15.2-1
+Added Pin To Net: NetName=+5VA Pin=D15.2-2
+Added Pin To Net: NetName=NetC142.2_2 Pin=D15.2-3
+Added Pin To Net: NetName=GND Pin=D16.2-1
+Added Pin To Net: NetName=+5VA Pin=D16.2-2
+Added Pin To Net: NetName=NetC146.2_2 Pin=D16.2-3
+Added Pin To Net: NetName=XLRA1.2 Pin=J5.2-1
+Added Pin To Net: NetName=XLRA2.2 Pin=J5.2-2
+Added Pin To Net: NetName=JACKA.2 Pin=J5.2-3
+Added Pin To Net: NetName=GND Pin=J5.2-4
+Added Pin To Net: NetName=XLRB2.2 Pin=J5.2-5
+Added Pin To Net: NetName=XLRB1.2 Pin=J5.2-6
+Added Pin To Net: NetName=JACKB.2 Pin=J5.2-7
+Added Pin To Net: NetName=JACKA.2 Pin=R81.2-1
+Added Pin To Net: NetName=NetC133.2_2 Pin=R81.2-2
+Added Pin To Net: NetName=NetC132.2_2 Pin=R82.2-1
+Added Pin To Net: NetName=NetC132.2_1 Pin=R82.2-2
+Added Pin To Net: NetName=GND Pin=R83.2-1
+Added Pin To Net: NetName=NetC133.2_2 Pin=R83.2-2
+Added Pin To Net: NetName=NetC132.2_1 Pin=R84.2-1
+Added Pin To Net: NetName=+2V5 Pin=R84.2-2
+Added Pin To Net: NetName=XLRA1.2 Pin=R85.2-1
+Added Pin To Net: NetName=NetC137.2_2 Pin=R85.2-2
+Added Pin To Net: NetName=NetC138.2_2 Pin=R86.2-1
+Added Pin To Net: NetName=NetC140.2_1 Pin=R86.2-2
+Added Pin To Net: NetName=GND Pin=R87.2-1
+Added Pin To Net: NetName=NetC137.2_2 Pin=R87.2-2
+Added Pin To Net: NetName=+2V5 Pin=R88.2-1
+Added Pin To Net: NetName=NetC138.2_2 Pin=R88.2-2
+Added Pin To Net: NetName=+2V5 Pin=R89.2-1
+Added Pin To Net: NetName=NetC140.2_1 Pin=R89.2-2
+Added Pin To Net: NetName=NetC139.2_2 Pin=R90.2-1
+Added Pin To Net: NetName=NetC139.2_1 Pin=R90.2-2
+Added Pin To Net: NetName=NetC139.2_1 Pin=R91.2-1
+Added Pin To Net: NetName=NetC132.2_2 Pin=R91.2-2
+Added Pin To Net: NetName=XLRA2.2 Pin=R92.2-1
+Added Pin To Net: NetName=NetC141.2_2 Pin=R92.2-2
+Added Pin To Net: NetName=GND Pin=R93.2-1
+Added Pin To Net: NetName=NetC141.2_2 Pin=R93.2-2
+Added Pin To Net: NetName=NetR94.2_1 Pin=R94.2-1
+Added Pin To Net: NetName=+2V5 Pin=R94.2-2
+Added Pin To Net: NetName=JACKB.2 Pin=R95.2-1
+Added Pin To Net: NetName=NetC143.2_2 Pin=R95.2-2
+Added Pin To Net: NetName=NetC142.2_2 Pin=R96.2-1
+Added Pin To Net: NetName=NetC142.2_1 Pin=R96.2-2
+Added Pin To Net: NetName=GND Pin=R97.2-1
+Added Pin To Net: NetName=NetC143.2_2 Pin=R97.2-2
+Added Pin To Net: NetName=NetC142.2_1 Pin=R98.2-1
+Added Pin To Net: NetName=+2V5 Pin=R98.2-2
+Added Pin To Net: NetName=XLRB1.2 Pin=R99.2-1
+Added Pin To Net: NetName=NetC144.2_2 Pin=R99.2-2
+Added Pin To Net: NetName=NetC145.2_2 Pin=R100.2-1
+Added Pin To Net: NetName=NetC147.2_1 Pin=R100.2-2
+Added Pin To Net: NetName=GND Pin=R101.2-1
+Added Pin To Net: NetName=NetC144.2_2 Pin=R101.2-2
+Added Pin To Net: NetName=+2V5 Pin=R102.2-1
+Added Pin To Net: NetName=NetC145.2_2 Pin=R102.2-2
+Added Pin To Net: NetName=+2V5 Pin=R103.2-1
+Added Pin To Net: NetName=NetC147.2_1 Pin=R103.2-2
+Added Pin To Net: NetName=NetC146.2_2 Pin=R104.2-1
+Added Pin To Net: NetName=NetC146.2_1 Pin=R104.2-2
+Added Pin To Net: NetName=NetC146.2_1 Pin=R105.2-1
+Added Pin To Net: NetName=NetC142.2_2 Pin=R105.2-2
+Added Pin To Net: NetName=XLRB2.2 Pin=R106.2-1
+Added Pin To Net: NetName=NetC148.2_2 Pin=R106.2-2
+Added Pin To Net: NetName=GND Pin=R107.2-1
+Added Pin To Net: NetName=NetC148.2_2 Pin=R107.2-2
+Added Pin To Net: NetName=NetR108.2_1 Pin=R108.2-1
+Added Pin To Net: NetName=+2V5 Pin=R108.2-2
+Added Pin To Net: NetName=NetC132.2_2 Pin=U24.2-1
+Added Pin To Net: NetName=NetC132.2_1 Pin=U24.2-2
+Added Pin To Net: NetName=NetC140.2_1 Pin=U24.2-3
+Added Pin To Net: NetName=+5VA Pin=U24.2-4
+Added Pin To Net: NetName=NetR94.2_1 Pin=U24.2-5
+Added Pin To Net: NetName=NetC139.2_1 Pin=U24.2-6
+Added Pin To Net: NetName=NetC139.2_2 Pin=U24.2-7
+Added Pin To Net: NetName=NetC146.2_2 Pin=U24.2-8
+Added Pin To Net: NetName=NetC146.2_1 Pin=U24.2-9
+Added Pin To Net: NetName=NetR108.2_1 Pin=U24.2-10
+Added Pin To Net: NetName=GND Pin=U24.2-11
+Added Pin To Net: NetName=NetC147.2_1 Pin=U24.2-12
+Added Pin To Net: NetName=NetC142.2_1 Pin=U24.2-13
+Added Pin To Net: NetName=NetC142.2_2 Pin=U24.2-14
+Added Member To Class: ClassName=AUDIO INPUTS Member=Component C48 Capacitor
+Added Member To Class: ClassName=AUDIO INPUTS Member=Component C49 Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C132.2 (C132) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C133.2 (C133) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C134.2 (C134) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C135.2 (C135) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C136.2 (C136) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C137.2 (C137) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C138.2 (C138) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C139.2 (C139) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C140.2 (C140) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C141.2 (C141) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C142.2 (C142) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C143.2 (C143) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C144.2 (C144) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C145.2 (C145) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C146.2 (C146) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C147.2 (C147) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component C148.2 (C148) Capacitor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component D13.2 (D13) Diode_dual
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component D14.2 (D14) Diode_dual
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component D15.2 (D15) Diode_dual
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component D16.2 (D16) Diode_dual
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component J5.2 (J5) B7B-XH-A(LF)(SN)
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R81.2 (R81) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R82.2 (R82) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R83.2 (R83) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R84.2 (R84) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R85.2 (R85) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R86.2 (R86) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R87.2 (R87) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R88.2 (R88) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R89.2 (R89) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R90.2 (R90) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R91.2 (R91) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R92.2 (R92) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R93.2 (R93) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R94.2 (R94) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R95.2 (R95) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R96.2 (R96) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R97.2 (R97) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R98.2 (R98) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R99.2 (R99) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R100.2 (R100) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R101.2 (R101) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R102.2 (R102) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R103.2 (R103) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R104.2 (R104) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R105.2 (R105) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R106.2 (R106) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R107.2 (R107) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component R108.2 (R108) Resistor
+Added Member To Class: ClassName=U_OutputConnectors2 Member=Component U24.2 (U24A) OPA1664
+Added Room: Name=U_OutputConnectors2

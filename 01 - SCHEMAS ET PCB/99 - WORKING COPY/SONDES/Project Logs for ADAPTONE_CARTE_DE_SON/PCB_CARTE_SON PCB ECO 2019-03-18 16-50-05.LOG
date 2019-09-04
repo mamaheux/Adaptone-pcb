@@ -1,0 +1,78 @@
+Added Component: Designator=J7_U_InputsConnectors1(CONN_6_HEADER)
+Added Component: Designator=J7_U_InputsConnectors2(CONN_6_HEADER)
+Added Component: Designator=J7_U_InputsConnectors3(CONN_6_HEADER)
+Added Component: Designator=J7_U_InputsConnectors4(CONN_6_HEADER)
+Added Component: Designator=J7_U_InputsConnectors5(CONN_6_HEADER)
+Added Component: Designator=J7_U_InputsConnectors6(CONN_6_HEADER)
+Added Component: Designator=J7_U_InputsConnectors7(CONN_6_HEADER)
+Added Component: Designator=J7_U_InputsConnectors8(CONN_6_HEADER)
+Added Component: Designator=J8(CONN_6_HEADER)
+Added Component: Designator=J9(CONN_6_HEADER)
+Added Pin To Net: NetName=PHANTOM1_U_InputsConnectors1 Pin=J7_U_InputsConnectors1-1
+Added Pin To Net: NetName=PHANTOM2_U_InputsConnectors1 Pin=J7_U_InputsConnectors1-2
+Added Pin To Net: NetName=+48V0 Pin=J7_U_InputsConnectors1-3
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors1-4
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors1-5
+Added Pin To Net: NetName=GND Pin=J7_U_InputsConnectors1-6
+Added Pin To Net: NetName=PHANTOM1_U_InputsConnectors2 Pin=J7_U_InputsConnectors2-1
+Added Pin To Net: NetName=PHANTOM2_U_InputsConnectors2 Pin=J7_U_InputsConnectors2-2
+Added Pin To Net: NetName=+48V0 Pin=J7_U_InputsConnectors2-3
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors2-4
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors2-5
+Added Pin To Net: NetName=GND Pin=J7_U_InputsConnectors2-6
+Added Pin To Net: NetName=PHANTOM1_U_InputsConnectors3 Pin=J7_U_InputsConnectors3-1
+Added Pin To Net: NetName=PHANTOM2_U_InputsConnectors3 Pin=J7_U_InputsConnectors3-2
+Added Pin To Net: NetName=+48V0 Pin=J7_U_InputsConnectors3-3
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors3-4
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors3-5
+Added Pin To Net: NetName=GND Pin=J7_U_InputsConnectors3-6
+Added Pin To Net: NetName=PHANTOM1_U_InputsConnectors4 Pin=J7_U_InputsConnectors4-1
+Added Pin To Net: NetName=PHANTOM2_U_InputsConnectors4 Pin=J7_U_InputsConnectors4-2
+Added Pin To Net: NetName=+48V0 Pin=J7_U_InputsConnectors4-3
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors4-4
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors4-5
+Added Pin To Net: NetName=GND Pin=J7_U_InputsConnectors4-6
+Added Pin To Net: NetName=PHANTOM1_U_InputsConnectors5 Pin=J7_U_InputsConnectors5-1
+Added Pin To Net: NetName=PHANTOM2_U_InputsConnectors5 Pin=J7_U_InputsConnectors5-2
+Added Pin To Net: NetName=+48V0 Pin=J7_U_InputsConnectors5-3
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors5-4
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors5-5
+Added Pin To Net: NetName=GND Pin=J7_U_InputsConnectors5-6
+Added Pin To Net: NetName=PHANTOM1_U_InputsConnectors6 Pin=J7_U_InputsConnectors6-1
+Added Pin To Net: NetName=PHANTOM2_U_InputsConnectors6 Pin=J7_U_InputsConnectors6-2
+Added Pin To Net: NetName=+48V0 Pin=J7_U_InputsConnectors6-3
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors6-4
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors6-5
+Added Pin To Net: NetName=GND Pin=J7_U_InputsConnectors6-6
+Added Pin To Net: NetName=PHANTOM1_U_InputsConnectors7 Pin=J7_U_InputsConnectors7-1
+Added Pin To Net: NetName=PHANTOM2_U_InputsConnectors7 Pin=J7_U_InputsConnectors7-2
+Added Pin To Net: NetName=+48V0 Pin=J7_U_InputsConnectors7-3
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors7-4
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors7-5
+Added Pin To Net: NetName=GND Pin=J7_U_InputsConnectors7-6
+Added Pin To Net: NetName=PHANTOM1_U_InputsConnectors8 Pin=J7_U_InputsConnectors8-1
+Added Pin To Net: NetName=PHANTOM2_U_InputsConnectors8 Pin=J7_U_InputsConnectors8-2
+Added Pin To Net: NetName=+48V0 Pin=J7_U_InputsConnectors8-3
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors8-4
+Added Pin To Net: NetName=+12V0 Pin=J7_U_InputsConnectors8-5
+Added Pin To Net: NetName=GND Pin=J7_U_InputsConnectors8-6
+Added Pin To Net: NetName=NetC175_2 Pin=J8-1
+Added Pin To Net: NetName=NetC177_2 Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=+12VLED Pin=J8-6
+Added Pin To Net: NetName=A1 Pin=J9-1
+Added Pin To Net: NetName=W1 Pin=J9-2
+Added Pin To Net: NetName=B1 Pin=J9-3
+Added Pin To Net: NetName=A2 Pin=J9-4
+Added Pin To Net: NetName=W2 Pin=J9-5
+Added Pin To Net: NetName=B2 Pin=J9-6
+Added Member To Class: ClassName=U_InputsConnectors1 Member=Component J7_U_InputsConnectors1 (J7) CON_XH_JST_6pins
+Added Member To Class: ClassName=U_InputsConnectors2 Member=Component J7_U_InputsConnectors2 (J7) CON_XH_JST_6pins
+Added Member To Class: ClassName=U_InputsConnectors3 Member=Component J7_U_InputsConnectors3 (J7) CON_XH_JST_6pins
+Added Member To Class: ClassName=U_InputsConnectors4 Member=Component J7_U_InputsConnectors4 (J7) CON_XH_JST_6pins
+Added Member To Class: ClassName=U_InputsConnectors5 Member=Component J7_U_InputsConnectors5 (J7) CON_XH_JST_6pins
+Added Member To Class: ClassName=U_InputsConnectors6 Member=Component J7_U_InputsConnectors6 (J7) CON_XH_JST_6pins
+Added Member To Class: ClassName=U_InputsConnectors7 Member=Component J7_U_InputsConnectors7 (J7) CON_XH_JST_6pins
+Added Member To Class: ClassName=U_InputsConnectors8 Member=Component J7_U_InputsConnectors8 (J7) CON_XH_JST_6pins

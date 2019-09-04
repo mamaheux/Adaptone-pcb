@@ -1,0 +1,16 @@
+Added Component: Designator=J8(CONN_6_HEADER)
+Added Component: Designator=J9(CONN_6_HEADER)
+Added Pin To Net: NetName=NetC177_- Pin=J8-1
+Added Pin To Net: NetName=NetC179_- Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=+12VLED Pin=J8-6
+Added Pin To Net: NetName=A1 Pin=J9-1
+Added Pin To Net: NetName=W1 Pin=J9-2
+Added Pin To Net: NetName=B1 Pin=J9-3
+Added Pin To Net: NetName=A2 Pin=J9-4
+Added Pin To Net: NetName=W2 Pin=J9-5
+Added Pin To Net: NetName=B2 Pin=J9-6
+Added Member To Class: ClassName=U_StereoHeadphoneDriver Member=Component J8 CON_XH_JST_6pins
+Added Member To Class: ClassName=U_StereoHeadphoneDriver Member=Component J9 CON_XH_JST_6pins

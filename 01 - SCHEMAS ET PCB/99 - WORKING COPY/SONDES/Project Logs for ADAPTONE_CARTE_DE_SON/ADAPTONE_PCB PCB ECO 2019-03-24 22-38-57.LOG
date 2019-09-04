@@ -1,0 +1,2129 @@
+Removed Pin From Net: NetName=NetC56.1_1 Pin=C56.1-1
+Removed Pin From Net: NetName=NetC56.2_1 Pin=C56.2-1
+Removed Pin From Net: NetName=NetC56.3_1 Pin=C56.3-1
+Removed Pin From Net: NetName=NetC56.4_1 Pin=C56.4-1
+Removed Pin From Net: NetName=NetC56.5_1 Pin=C56.5-1
+Removed Pin From Net: NetName=NetC56.6_1 Pin=C56.6-1
+Removed Pin From Net: NetName=NetC56.7_1 Pin=C56.7-1
+Removed Pin From Net: NetName=NetC56.8_1 Pin=C56.8-1
+Removed Pin From Net: NetName=NetC56.9_1 Pin=C56.9-1
+Removed Pin From Net: NetName=NetC56.10_1 Pin=C56.10-1
+Removed Pin From Net: NetName=NetC56.11_1 Pin=C56.11-1
+Removed Pin From Net: NetName=NetC56.12_1 Pin=C56.12-1
+Removed Pin From Net: NetName=NetC56.13_1 Pin=C56.13-1
+Removed Pin From Net: NetName=NetC56.14_1 Pin=C56.14-1
+Removed Pin From Net: NetName=NetC56.15_1 Pin=C56.15-1
+Removed Pin From Net: NetName=NetC56.16_1 Pin=C56.16-1
+Removed Pin From Net: NetName=NetC56.1_1 Pin=C57.1-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.1-2
+Removed Pin From Net: NetName=NetC56.2_1 Pin=C57.2-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.2-2
+Removed Pin From Net: NetName=NetC56.3_1 Pin=C57.3-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.3-2
+Removed Pin From Net: NetName=NetC56.4_1 Pin=C57.4-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.4-2
+Removed Pin From Net: NetName=NetC56.5_1 Pin=C57.5-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.5-2
+Removed Pin From Net: NetName=NetC56.6_1 Pin=C57.6-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.6-2
+Removed Pin From Net: NetName=NetC56.7_1 Pin=C57.7-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.7-2
+Removed Pin From Net: NetName=NetC56.8_1 Pin=C57.8-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.8-2
+Removed Pin From Net: NetName=NetC56.9_1 Pin=C57.9-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.9-2
+Removed Pin From Net: NetName=NetC56.10_1 Pin=C57.10-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.10-2
+Removed Pin From Net: NetName=NetC56.11_1 Pin=C57.11-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.11-2
+Removed Pin From Net: NetName=NetC56.12_1 Pin=C57.12-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.12-2
+Removed Pin From Net: NetName=NetC56.13_1 Pin=C57.13-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.13-2
+Removed Pin From Net: NetName=NetC56.14_1 Pin=C57.14-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.14-2
+Removed Pin From Net: NetName=NetC56.15_1 Pin=C57.15-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.15-2
+Removed Pin From Net: NetName=NetC56.16_1 Pin=C57.16-1
+Removed Pin From Net: NetName=+2V5 Pin=C57.16-2
+Removed Pin From Net: NetName=NetC58.1_2 Pin=C58.1-2
+Removed Pin From Net: NetName=NetC58.2_2 Pin=C58.2-2
+Removed Pin From Net: NetName=NetC58.3_2 Pin=C58.3-2
+Removed Pin From Net: NetName=NetC58.4_2 Pin=C58.4-2
+Removed Pin From Net: NetName=NetC58.5_2 Pin=C58.5-2
+Removed Pin From Net: NetName=NetC58.6_2 Pin=C58.6-2
+Removed Pin From Net: NetName=NetC58.7_2 Pin=C58.7-2
+Removed Pin From Net: NetName=NetC58.8_2 Pin=C58.8-2
+Removed Pin From Net: NetName=NetC58.9_2 Pin=C58.9-2
+Removed Pin From Net: NetName=NetC58.10_2 Pin=C58.10-2
+Removed Pin From Net: NetName=NetC58.11_2 Pin=C58.11-2
+Removed Pin From Net: NetName=NetC58.12_2 Pin=C58.12-2
+Removed Pin From Net: NetName=NetC58.13_2 Pin=C58.13-2
+Removed Pin From Net: NetName=NetC58.14_2 Pin=C58.14-2
+Removed Pin From Net: NetName=NetC58.15_2 Pin=C58.15-2
+Removed Pin From Net: NetName=NetC58.16_2 Pin=C58.16-2
+Removed Pin From Net: NetName=+5VA Pin=C62.1-1
+Removed Pin From Net: NetName=GND Pin=C62.1-2
+Removed Pin From Net: NetName=+5VA Pin=C62.2-1
+Removed Pin From Net: NetName=GND Pin=C62.2-2
+Removed Pin From Net: NetName=+5VA Pin=C62.3-1
+Removed Pin From Net: NetName=GND Pin=C62.3-2
+Removed Pin From Net: NetName=+5VA Pin=C62.4-1
+Removed Pin From Net: NetName=GND Pin=C62.4-2
+Removed Pin From Net: NetName=+5VA Pin=C62.5-1
+Removed Pin From Net: NetName=GND Pin=C62.5-2
+Removed Pin From Net: NetName=+5VA Pin=C62.6-1
+Removed Pin From Net: NetName=GND Pin=C62.6-2
+Removed Pin From Net: NetName=+5VA Pin=C62.7-1
+Removed Pin From Net: NetName=GND Pin=C62.7-2
+Removed Pin From Net: NetName=+5VA Pin=C62.8-1
+Removed Pin From Net: NetName=GND Pin=C62.8-2
+Removed Pin From Net: NetName=+5VA Pin=C62.9-1
+Removed Pin From Net: NetName=GND Pin=C62.9-2
+Removed Pin From Net: NetName=+5VA Pin=C62.10-1
+Removed Pin From Net: NetName=GND Pin=C62.10-2
+Removed Pin From Net: NetName=+5VA Pin=C62.11-1
+Removed Pin From Net: NetName=GND Pin=C62.11-2
+Removed Pin From Net: NetName=+5VA Pin=C62.12-1
+Removed Pin From Net: NetName=GND Pin=C62.12-2
+Removed Pin From Net: NetName=+5VA Pin=C62.13-1
+Removed Pin From Net: NetName=GND Pin=C62.13-2
+Removed Pin From Net: NetName=+5VA Pin=C62.14-1
+Removed Pin From Net: NetName=GND Pin=C62.14-2
+Removed Pin From Net: NetName=+5VA Pin=C62.15-1
+Removed Pin From Net: NetName=GND Pin=C62.15-2
+Removed Pin From Net: NetName=+5VA Pin=C62.16-1
+Removed Pin From Net: NetName=GND Pin=C62.16-2
+Removed Pin From Net: NetName=+5VA Pin=C63.1-1
+Removed Pin From Net: NetName=GND Pin=C63.1-2
+Removed Pin From Net: NetName=+5VA Pin=C63.2-1
+Removed Pin From Net: NetName=GND Pin=C63.2-2
+Removed Pin From Net: NetName=+5VA Pin=C63.3-1
+Removed Pin From Net: NetName=GND Pin=C63.3-2
+Removed Pin From Net: NetName=+5VA Pin=C63.4-1
+Removed Pin From Net: NetName=GND Pin=C63.4-2
+Removed Pin From Net: NetName=+5VA Pin=C63.5-1
+Removed Pin From Net: NetName=GND Pin=C63.5-2
+Removed Pin From Net: NetName=+5VA Pin=C63.6-1
+Removed Pin From Net: NetName=GND Pin=C63.6-2
+Removed Pin From Net: NetName=+5VA Pin=C63.7-1
+Removed Pin From Net: NetName=GND Pin=C63.7-2
+Removed Pin From Net: NetName=+5VA Pin=C63.8-1
+Removed Pin From Net: NetName=GND Pin=C63.8-2
+Removed Pin From Net: NetName=+5VA Pin=C63.9-1
+Removed Pin From Net: NetName=GND Pin=C63.9-2
+Removed Pin From Net: NetName=+5VA Pin=C63.10-1
+Removed Pin From Net: NetName=GND Pin=C63.10-2
+Removed Pin From Net: NetName=+5VA Pin=C63.11-1
+Removed Pin From Net: NetName=GND Pin=C63.11-2
+Removed Pin From Net: NetName=+5VA Pin=C63.12-1
+Removed Pin From Net: NetName=GND Pin=C63.12-2
+Removed Pin From Net: NetName=+5VA Pin=C63.13-1
+Removed Pin From Net: NetName=GND Pin=C63.13-2
+Removed Pin From Net: NetName=+5VA Pin=C63.14-1
+Removed Pin From Net: NetName=GND Pin=C63.14-2
+Removed Pin From Net: NetName=+5VA Pin=C63.15-1
+Removed Pin From Net: NetName=GND Pin=C63.15-2
+Removed Pin From Net: NetName=+5VA Pin=C63.16-1
+Removed Pin From Net: NetName=GND Pin=C63.16-2
+Removed Pin From Net: NetName=+5VA Pin=C64.1-1
+Removed Pin From Net: NetName=GND Pin=C64.1-2
+Removed Pin From Net: NetName=+5VA Pin=C64.2-1
+Removed Pin From Net: NetName=GND Pin=C64.2-2
+Removed Pin From Net: NetName=+5VA Pin=C64.3-1
+Removed Pin From Net: NetName=GND Pin=C64.3-2
+Removed Pin From Net: NetName=+5VA Pin=C64.4-1
+Removed Pin From Net: NetName=GND Pin=C64.4-2
+Removed Pin From Net: NetName=+5VA Pin=C64.5-1
+Removed Pin From Net: NetName=GND Pin=C64.5-2
+Removed Pin From Net: NetName=+5VA Pin=C64.6-1
+Removed Pin From Net: NetName=GND Pin=C64.6-2
+Removed Pin From Net: NetName=+5VA Pin=C64.7-1
+Removed Pin From Net: NetName=GND Pin=C64.7-2
+Removed Pin From Net: NetName=+5VA Pin=C64.8-1
+Removed Pin From Net: NetName=GND Pin=C64.8-2
+Removed Pin From Net: NetName=+5VA Pin=C64.9-1
+Removed Pin From Net: NetName=GND Pin=C64.9-2
+Removed Pin From Net: NetName=+5VA Pin=C64.10-1
+Removed Pin From Net: NetName=GND Pin=C64.10-2
+Removed Pin From Net: NetName=+5VA Pin=C64.11-1
+Removed Pin From Net: NetName=GND Pin=C64.11-2
+Removed Pin From Net: NetName=+5VA Pin=C64.12-1
+Removed Pin From Net: NetName=GND Pin=C64.12-2
+Removed Pin From Net: NetName=+5VA Pin=C64.13-1
+Removed Pin From Net: NetName=GND Pin=C64.13-2
+Removed Pin From Net: NetName=+5VA Pin=C64.14-1
+Removed Pin From Net: NetName=GND Pin=C64.14-2
+Removed Pin From Net: NetName=+5VA Pin=C64.15-1
+Removed Pin From Net: NetName=GND Pin=C64.15-2
+Removed Pin From Net: NetName=+5VA Pin=C64.16-1
+Removed Pin From Net: NetName=GND Pin=C64.16-2
+Removed Pin From Net: NetName=IN16_P Pin=C65.1-1
+Removed Pin From Net: NetName=IN16_N Pin=C65.1-2
+Removed Pin From Net: NetName=IN15_P Pin=C65.2-1
+Removed Pin From Net: NetName=IN15_N Pin=C65.2-2
+Removed Pin From Net: NetName=IN14_P Pin=C65.3-1
+Removed Pin From Net: NetName=IN14_N Pin=C65.3-2
+Removed Pin From Net: NetName=IN13_P Pin=C65.4-1
+Removed Pin From Net: NetName=IN13_N Pin=C65.4-2
+Removed Pin From Net: NetName=IN12_P Pin=C65.5-1
+Removed Pin From Net: NetName=IN12_N Pin=C65.5-2
+Removed Pin From Net: NetName=IN11_P Pin=C65.6-1
+Removed Pin From Net: NetName=IN11_N Pin=C65.6-2
+Removed Pin From Net: NetName=IN10_P Pin=C65.7-1
+Removed Pin From Net: NetName=IN10_N Pin=C65.7-2
+Removed Pin From Net: NetName=IN9_P Pin=C65.8-1
+Removed Pin From Net: NetName=IN9_N Pin=C65.8-2
+Removed Pin From Net: NetName=IN8_P Pin=C65.9-1
+Removed Pin From Net: NetName=IN8_N Pin=C65.9-2
+Removed Pin From Net: NetName=IN7_P Pin=C65.10-1
+Removed Pin From Net: NetName=IN7_N Pin=C65.10-2
+Removed Pin From Net: NetName=IN6_P Pin=C65.11-1
+Removed Pin From Net: NetName=IN6_N Pin=C65.11-2
+Removed Pin From Net: NetName=IN5_P Pin=C65.12-1
+Removed Pin From Net: NetName=IN5_N Pin=C65.12-2
+Removed Pin From Net: NetName=IN4_P Pin=C65.13-1
+Removed Pin From Net: NetName=IN4_N Pin=C65.13-2
+Removed Pin From Net: NetName=IN3_P Pin=C65.14-1
+Removed Pin From Net: NetName=IN3_N Pin=C65.14-2
+Removed Pin From Net: NetName=IN2_P Pin=C65.15-1
+Removed Pin From Net: NetName=IN2_N Pin=C65.15-2
+Removed Pin From Net: NetName=IN1_P Pin=C65.16-1
+Removed Pin From Net: NetName=IN1_N Pin=C65.16-2
+Removed Pin From Net: NetName=NetC61.1_2 Pin=C66.1-2
+Removed Pin From Net: NetName=NetC61.2_2 Pin=C66.2-2
+Removed Pin From Net: NetName=NetC61.3_2 Pin=C66.3-2
+Removed Pin From Net: NetName=NetC61.4_2 Pin=C66.4-2
+Removed Pin From Net: NetName=NetC61.5_2 Pin=C66.5-2
+Removed Pin From Net: NetName=NetC61.6_2 Pin=C66.6-2
+Removed Pin From Net: NetName=NetC61.7_2 Pin=C66.7-2
+Removed Pin From Net: NetName=NetC61.8_2 Pin=C66.8-2
+Removed Pin From Net: NetName=NetC61.9_2 Pin=C66.9-2
+Removed Pin From Net: NetName=NetC61.10_2 Pin=C66.10-2
+Removed Pin From Net: NetName=NetC61.11_2 Pin=C66.11-2
+Removed Pin From Net: NetName=NetC61.12_2 Pin=C66.12-2
+Removed Pin From Net: NetName=NetC61.13_2 Pin=C66.13-2
+Removed Pin From Net: NetName=NetC61.14_2 Pin=C66.14-2
+Removed Pin From Net: NetName=NetC61.15_2 Pin=C66.15-2
+Removed Pin From Net: NetName=NetC61.16_2 Pin=C66.16-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.1-1
+Removed Pin From Net: NetName=NetC67.1_2 Pin=C67.1-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.2-1
+Removed Pin From Net: NetName=NetC67.2_2 Pin=C67.2-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.3-1
+Removed Pin From Net: NetName=NetC67.3_2 Pin=C67.3-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.4-1
+Removed Pin From Net: NetName=NetC67.4_2 Pin=C67.4-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.5-1
+Removed Pin From Net: NetName=NetC67.5_2 Pin=C67.5-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.6-1
+Removed Pin From Net: NetName=NetC67.6_2 Pin=C67.6-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.7-1
+Removed Pin From Net: NetName=NetC67.7_2 Pin=C67.7-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.8-1
+Removed Pin From Net: NetName=NetC67.8_2 Pin=C67.8-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.9-1
+Removed Pin From Net: NetName=NetC67.9_2 Pin=C67.9-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.10-1
+Removed Pin From Net: NetName=NetC67.10_2 Pin=C67.10-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.11-1
+Removed Pin From Net: NetName=NetC67.11_2 Pin=C67.11-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.12-1
+Removed Pin From Net: NetName=NetC67.12_2 Pin=C67.12-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.13-1
+Removed Pin From Net: NetName=NetC67.13_2 Pin=C67.13-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.14-1
+Removed Pin From Net: NetName=NetC67.14_2 Pin=C67.14-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.15-1
+Removed Pin From Net: NetName=NetC67.15_2 Pin=C67.15-2
+Removed Pin From Net: NetName=+2V5 Pin=C67.16-1
+Removed Pin From Net: NetName=NetC67.16_2 Pin=C67.16-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.1-1
+Removed Pin From Net: NetName=GND Pin=C70.1-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.2-1
+Removed Pin From Net: NetName=GND Pin=C70.2-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.3-1
+Removed Pin From Net: NetName=GND Pin=C70.3-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.4-1
+Removed Pin From Net: NetName=GND Pin=C70.4-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.5-1
+Removed Pin From Net: NetName=GND Pin=C70.5-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.6-1
+Removed Pin From Net: NetName=GND Pin=C70.6-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.7-1
+Removed Pin From Net: NetName=GND Pin=C70.7-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.8-1
+Removed Pin From Net: NetName=GND Pin=C70.8-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.9-1
+Removed Pin From Net: NetName=GND Pin=C70.9-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.10-1
+Removed Pin From Net: NetName=GND Pin=C70.10-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.11-1
+Removed Pin From Net: NetName=GND Pin=C70.11-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.12-1
+Removed Pin From Net: NetName=GND Pin=C70.12-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.13-1
+Removed Pin From Net: NetName=GND Pin=C70.13-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.14-1
+Removed Pin From Net: NetName=GND Pin=C70.14-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.15-1
+Removed Pin From Net: NetName=GND Pin=C70.15-2
+Removed Pin From Net: NetName=+2V5 Pin=C70.16-1
+Removed Pin From Net: NetName=GND Pin=C70.16-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.1-1
+Removed Pin From Net: NetName=GND Pin=C71.1-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.2-1
+Removed Pin From Net: NetName=GND Pin=C71.2-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.3-1
+Removed Pin From Net: NetName=GND Pin=C71.3-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.4-1
+Removed Pin From Net: NetName=GND Pin=C71.4-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.5-1
+Removed Pin From Net: NetName=GND Pin=C71.5-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.6-1
+Removed Pin From Net: NetName=GND Pin=C71.6-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.7-1
+Removed Pin From Net: NetName=GND Pin=C71.7-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.8-1
+Removed Pin From Net: NetName=GND Pin=C71.8-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.9-1
+Removed Pin From Net: NetName=GND Pin=C71.9-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.10-1
+Removed Pin From Net: NetName=GND Pin=C71.10-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.11-1
+Removed Pin From Net: NetName=GND Pin=C71.11-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.12-1
+Removed Pin From Net: NetName=GND Pin=C71.12-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.13-1
+Removed Pin From Net: NetName=GND Pin=C71.13-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.14-1
+Removed Pin From Net: NetName=GND Pin=C71.14-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.15-1
+Removed Pin From Net: NetName=GND Pin=C71.15-2
+Removed Pin From Net: NetName=+2V5 Pin=C71.16-1
+Removed Pin From Net: NetName=GND Pin=C71.16-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.1-1
+Removed Pin From Net: NetName=GND Pin=C72.1-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.2-1
+Removed Pin From Net: NetName=GND Pin=C72.2-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.3-1
+Removed Pin From Net: NetName=GND Pin=C72.3-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.4-1
+Removed Pin From Net: NetName=GND Pin=C72.4-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.5-1
+Removed Pin From Net: NetName=GND Pin=C72.5-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.6-1
+Removed Pin From Net: NetName=GND Pin=C72.6-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.7-1
+Removed Pin From Net: NetName=GND Pin=C72.7-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.8-1
+Removed Pin From Net: NetName=GND Pin=C72.8-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.9-1
+Removed Pin From Net: NetName=GND Pin=C72.9-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.10-1
+Removed Pin From Net: NetName=GND Pin=C72.10-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.11-1
+Removed Pin From Net: NetName=GND Pin=C72.11-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.12-1
+Removed Pin From Net: NetName=GND Pin=C72.12-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.13-1
+Removed Pin From Net: NetName=GND Pin=C72.13-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.14-1
+Removed Pin From Net: NetName=GND Pin=C72.14-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.15-1
+Removed Pin From Net: NetName=GND Pin=C72.15-2
+Removed Pin From Net: NetName=+2V5 Pin=C72.16-1
+Removed Pin From Net: NetName=GND Pin=C72.16-2
+Removed Pin From Net: NetName=NetC73.1_1 Pin=C73.1-1
+Removed Pin From Net: NetName=-V1.1 Pin=C73.1-2
+Removed Pin From Net: NetName=NetC73.2_1 Pin=C73.2-1
+Removed Pin From Net: NetName=-V1.2 Pin=C73.2-2
+Removed Pin From Net: NetName=NetC73.3_1 Pin=C73.3-1
+Removed Pin From Net: NetName=-V1.3 Pin=C73.3-2
+Removed Pin From Net: NetName=NetC73.4_1 Pin=C73.4-1
+Removed Pin From Net: NetName=-V1.4 Pin=C73.4-2
+Removed Pin From Net: NetName=NetC73.5_1 Pin=C73.5-1
+Removed Pin From Net: NetName=-V1.5 Pin=C73.5-2
+Removed Pin From Net: NetName=NetC73.6_1 Pin=C73.6-1
+Removed Pin From Net: NetName=-V1.6 Pin=C73.6-2
+Removed Pin From Net: NetName=NetC73.7_1 Pin=C73.7-1
+Removed Pin From Net: NetName=-V1.7 Pin=C73.7-2
+Removed Pin From Net: NetName=NetC73.8_1 Pin=C73.8-1
+Removed Pin From Net: NetName=-V1.8 Pin=C73.8-2
+Removed Pin From Net: NetName=NetC73.9_1 Pin=C73.9-1
+Removed Pin From Net: NetName=-V1.9 Pin=C73.9-2
+Removed Pin From Net: NetName=NetC73.10_1 Pin=C73.10-1
+Removed Pin From Net: NetName=-V1.10 Pin=C73.10-2
+Removed Pin From Net: NetName=NetC73.11_1 Pin=C73.11-1
+Removed Pin From Net: NetName=-V1.11 Pin=C73.11-2
+Removed Pin From Net: NetName=NetC73.12_1 Pin=C73.12-1
+Removed Pin From Net: NetName=-V1.12 Pin=C73.12-2
+Removed Pin From Net: NetName=NetC73.13_1 Pin=C73.13-1
+Removed Pin From Net: NetName=-V1.13 Pin=C73.13-2
+Removed Pin From Net: NetName=NetC73.14_1 Pin=C73.14-1
+Removed Pin From Net: NetName=-V1.14 Pin=C73.14-2
+Removed Pin From Net: NetName=NetC73.15_1 Pin=C73.15-1
+Removed Pin From Net: NetName=-V1.15 Pin=C73.15-2
+Removed Pin From Net: NetName=NetC73.16_1 Pin=C73.16-1
+Removed Pin From Net: NetName=-V1.16 Pin=C73.16-2
+Removed Pin From Net: NetName=NetC74.1_1 Pin=C74.1-1
+Removed Pin From Net: NetName=V1.1 Pin=C74.1-2
+Removed Pin From Net: NetName=NetC74.2_1 Pin=C74.2-1
+Removed Pin From Net: NetName=V1.2 Pin=C74.2-2
+Removed Pin From Net: NetName=NetC74.3_1 Pin=C74.3-1
+Removed Pin From Net: NetName=V1.3 Pin=C74.3-2
+Removed Pin From Net: NetName=NetC74.4_1 Pin=C74.4-1
+Removed Pin From Net: NetName=V1.4 Pin=C74.4-2
+Removed Pin From Net: NetName=NetC74.5_1 Pin=C74.5-1
+Removed Pin From Net: NetName=V1.5 Pin=C74.5-2
+Removed Pin From Net: NetName=NetC74.6_1 Pin=C74.6-1
+Removed Pin From Net: NetName=V1.6 Pin=C74.6-2
+Removed Pin From Net: NetName=NetC74.7_1 Pin=C74.7-1
+Removed Pin From Net: NetName=V1.7 Pin=C74.7-2
+Removed Pin From Net: NetName=NetC74.8_1 Pin=C74.8-1
+Removed Pin From Net: NetName=V1.8 Pin=C74.8-2
+Removed Pin From Net: NetName=NetC74.9_1 Pin=C74.9-1
+Removed Pin From Net: NetName=V1.9 Pin=C74.9-2
+Removed Pin From Net: NetName=NetC74.10_1 Pin=C74.10-1
+Removed Pin From Net: NetName=V1.10 Pin=C74.10-2
+Removed Pin From Net: NetName=NetC74.11_1 Pin=C74.11-1
+Removed Pin From Net: NetName=V1.11 Pin=C74.11-2
+Removed Pin From Net: NetName=NetC74.12_1 Pin=C74.12-1
+Removed Pin From Net: NetName=V1.12 Pin=C74.12-2
+Removed Pin From Net: NetName=NetC74.13_1 Pin=C74.13-1
+Removed Pin From Net: NetName=V1.13 Pin=C74.13-2
+Removed Pin From Net: NetName=NetC74.14_1 Pin=C74.14-1
+Removed Pin From Net: NetName=V1.14 Pin=C74.14-2
+Removed Pin From Net: NetName=NetC74.15_1 Pin=C74.15-1
+Removed Pin From Net: NetName=V1.15 Pin=C74.15-2
+Removed Pin From Net: NetName=NetC74.16_1 Pin=C74.16-1
+Removed Pin From Net: NetName=V1.16 Pin=C74.16-2
+Change Component Footprint: Designator=C65.1 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.2 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.3 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.4 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.5 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.6 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.7 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.8 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.9 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.10 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.11 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.12 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.13 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.14 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.15 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C65.16 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=C58.1 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.2 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.3 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.4 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.5 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.6 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.7 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.8 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.9 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.10 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.11 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.12 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.13 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.14 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.15 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C58.16 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.1 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.2 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.3 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.4 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.5 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.6 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.7 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.8 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.9 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.10 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.11 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.12 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.13 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.14 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.15 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Footprint: Designator=C66.16 Old Footprint=CAP_1210 New Footprint=0402
+Change Component Designator: OldDesignator=C59.1 NewDesignator=C62.1
+Change Component Designator: OldDesignator=C59.2 NewDesignator=C62.2
+Change Component Designator: OldDesignator=C59.3 NewDesignator=C62.3
+Change Component Designator: OldDesignator=C59.4 NewDesignator=C62.4
+Change Component Designator: OldDesignator=C59.5 NewDesignator=C62.5
+Change Component Designator: OldDesignator=C59.6 NewDesignator=C62.6
+Change Component Designator: OldDesignator=C59.7 NewDesignator=C62.7
+Change Component Designator: OldDesignator=C59.8 NewDesignator=C62.8
+Change Component Designator: OldDesignator=C59.9 NewDesignator=C62.9
+Change Component Designator: OldDesignator=C59.10 NewDesignator=C62.10
+Change Component Designator: OldDesignator=C59.11 NewDesignator=C62.11
+Change Component Designator: OldDesignator=C59.12 NewDesignator=C62.12
+Change Component Designator: OldDesignator=C59.13 NewDesignator=C62.13
+Change Component Designator: OldDesignator=C59.14 NewDesignator=C62.14
+Change Component Designator: OldDesignator=C59.15 NewDesignator=C62.15
+Change Component Designator: OldDesignator=C59.16 NewDesignator=C62.16
+Change Component Designator: OldDesignator=C60.1 NewDesignator=C63.1
+Change Component Designator: OldDesignator=C60.2 NewDesignator=C63.2
+Change Component Designator: OldDesignator=C60.3 NewDesignator=C63.3
+Change Component Designator: OldDesignator=C60.4 NewDesignator=C63.4
+Change Component Designator: OldDesignator=C60.5 NewDesignator=C63.5
+Change Component Designator: OldDesignator=C60.6 NewDesignator=C63.6
+Change Component Designator: OldDesignator=C60.7 NewDesignator=C63.7
+Change Component Designator: OldDesignator=C60.8 NewDesignator=C63.8
+Change Component Designator: OldDesignator=C60.9 NewDesignator=C63.9
+Change Component Designator: OldDesignator=C60.10 NewDesignator=C63.10
+Change Component Designator: OldDesignator=C60.11 NewDesignator=C63.11
+Change Component Designator: OldDesignator=C60.12 NewDesignator=C63.12
+Change Component Designator: OldDesignator=C60.13 NewDesignator=C63.13
+Change Component Designator: OldDesignator=C60.14 NewDesignator=C63.14
+Change Component Designator: OldDesignator=C60.15 NewDesignator=C63.15
+Change Component Designator: OldDesignator=C60.16 NewDesignator=C63.16
+Change Component Designator: OldDesignator=C61.1 NewDesignator=C64.1
+Change Component Designator: OldDesignator=C61.2 NewDesignator=C64.2
+Change Component Designator: OldDesignator=C61.3 NewDesignator=C64.3
+Change Component Designator: OldDesignator=C61.4 NewDesignator=C64.4
+Change Component Designator: OldDesignator=C61.5 NewDesignator=C64.5
+Change Component Designator: OldDesignator=C61.6 NewDesignator=C64.6
+Change Component Designator: OldDesignator=C61.7 NewDesignator=C64.7
+Change Component Designator: OldDesignator=C61.8 NewDesignator=C64.8
+Change Component Designator: OldDesignator=C61.9 NewDesignator=C64.9
+Change Component Designator: OldDesignator=C61.10 NewDesignator=C64.10
+Change Component Designator: OldDesignator=C61.11 NewDesignator=C64.11
+Change Component Designator: OldDesignator=C61.12 NewDesignator=C64.12
+Change Component Designator: OldDesignator=C61.13 NewDesignator=C64.13
+Change Component Designator: OldDesignator=C61.14 NewDesignator=C64.14
+Change Component Designator: OldDesignator=C61.15 NewDesignator=C64.15
+Change Component Designator: OldDesignator=C61.16 NewDesignator=C64.16
+Change Component Designator: OldDesignator=C68.1 NewDesignator=C71.1
+Change Component Designator: OldDesignator=C68.2 NewDesignator=C71.2
+Change Component Designator: OldDesignator=C68.3 NewDesignator=C71.3
+Change Component Designator: OldDesignator=C68.4 NewDesignator=C71.4
+Change Component Designator: OldDesignator=C68.5 NewDesignator=C71.5
+Change Component Designator: OldDesignator=C68.6 NewDesignator=C71.6
+Change Component Designator: OldDesignator=C68.7 NewDesignator=C71.7
+Change Component Designator: OldDesignator=C68.8 NewDesignator=C71.8
+Change Component Designator: OldDesignator=C68.9 NewDesignator=C71.9
+Change Component Designator: OldDesignator=C68.10 NewDesignator=C71.10
+Change Component Designator: OldDesignator=C68.11 NewDesignator=C71.11
+Change Component Designator: OldDesignator=C68.12 NewDesignator=C71.12
+Change Component Designator: OldDesignator=C68.13 NewDesignator=C71.13
+Change Component Designator: OldDesignator=C68.14 NewDesignator=C71.14
+Change Component Designator: OldDesignator=C68.15 NewDesignator=C71.15
+Change Component Designator: OldDesignator=C68.16 NewDesignator=C71.16
+Change Component Designator: OldDesignator=C69.1 NewDesignator=C72.1
+Change Component Designator: OldDesignator=C69.2 NewDesignator=C72.2
+Change Component Designator: OldDesignator=C69.3 NewDesignator=C72.3
+Change Component Designator: OldDesignator=C69.4 NewDesignator=C72.4
+Change Component Designator: OldDesignator=C69.5 NewDesignator=C72.5
+Change Component Designator: OldDesignator=C69.6 NewDesignator=C72.6
+Change Component Designator: OldDesignator=C69.7 NewDesignator=C72.7
+Change Component Designator: OldDesignator=C69.8 NewDesignator=C72.8
+Change Component Designator: OldDesignator=C69.9 NewDesignator=C72.9
+Change Component Designator: OldDesignator=C69.10 NewDesignator=C72.10
+Change Component Designator: OldDesignator=C69.11 NewDesignator=C72.11
+Change Component Designator: OldDesignator=C69.12 NewDesignator=C72.12
+Change Component Designator: OldDesignator=C69.13 NewDesignator=C72.13
+Change Component Designator: OldDesignator=C69.14 NewDesignator=C72.14
+Change Component Designator: OldDesignator=C69.15 NewDesignator=C72.15
+Change Component Designator: OldDesignator=C69.16 NewDesignator=C72.16
+Change Component Designator: OldDesignator=C76.1 NewDesignator=C79.1
+Change Component Designator: OldDesignator=C76.2 NewDesignator=C79.2
+Change Component Designator: OldDesignator=C76.3 NewDesignator=C79.3
+Change Component Designator: OldDesignator=C76.4 NewDesignator=C79.4
+Change Component Designator: OldDesignator=C76.5 NewDesignator=C79.5
+Change Component Designator: OldDesignator=C76.6 NewDesignator=C79.6
+Change Component Designator: OldDesignator=C76.7 NewDesignator=C79.7
+Change Component Designator: OldDesignator=C76.8 NewDesignator=C79.8
+Change Component Designator: OldDesignator=C76.9 NewDesignator=C79.9
+Change Component Designator: OldDesignator=C76.10 NewDesignator=C79.10
+Change Component Designator: OldDesignator=C76.11 NewDesignator=C79.11
+Change Component Designator: OldDesignator=C76.12 NewDesignator=C79.12
+Change Component Designator: OldDesignator=C76.13 NewDesignator=C79.13
+Change Component Designator: OldDesignator=C76.14 NewDesignator=C79.14
+Change Component Designator: OldDesignator=C76.15 NewDesignator=C79.15
+Change Component Designator: OldDesignator=C76.16 NewDesignator=C79.16
+Change Component Designator: OldDesignator=C77.1 NewDesignator=C80.1
+Change Component Designator: OldDesignator=C77.2 NewDesignator=C80.2
+Change Component Designator: OldDesignator=C77.3 NewDesignator=C80.3
+Change Component Designator: OldDesignator=C77.4 NewDesignator=C80.4
+Change Component Designator: OldDesignator=C77.5 NewDesignator=C80.5
+Change Component Designator: OldDesignator=C77.6 NewDesignator=C80.6
+Change Component Designator: OldDesignator=C77.7 NewDesignator=C80.7
+Change Component Designator: OldDesignator=C77.8 NewDesignator=C80.8
+Change Component Designator: OldDesignator=C77.9 NewDesignator=C80.9
+Change Component Designator: OldDesignator=C77.10 NewDesignator=C80.10
+Change Component Designator: OldDesignator=C77.11 NewDesignator=C80.11
+Change Component Designator: OldDesignator=C77.12 NewDesignator=C80.12
+Change Component Designator: OldDesignator=C77.13 NewDesignator=C80.13
+Change Component Designator: OldDesignator=C77.14 NewDesignator=C80.14
+Change Component Designator: OldDesignator=C77.15 NewDesignator=C80.15
+Change Component Designator: OldDesignator=C77.16 NewDesignator=C80.16
+Change Component Designator: OldDesignator=C78.1 NewDesignator=C81.1
+Change Component Designator: OldDesignator=C78.2 NewDesignator=C81.2
+Change Component Designator: OldDesignator=C78.3 NewDesignator=C81.3
+Change Component Designator: OldDesignator=C78.4 NewDesignator=C81.4
+Change Component Designator: OldDesignator=C78.5 NewDesignator=C81.5
+Change Component Designator: OldDesignator=C78.6 NewDesignator=C81.6
+Change Component Designator: OldDesignator=C78.7 NewDesignator=C81.7
+Change Component Designator: OldDesignator=C78.8 NewDesignator=C81.8
+Change Component Designator: OldDesignator=C78.9 NewDesignator=C81.9
+Change Component Designator: OldDesignator=C78.10 NewDesignator=C81.10
+Change Component Designator: OldDesignator=C78.11 NewDesignator=C81.11
+Change Component Designator: OldDesignator=C78.12 NewDesignator=C81.12
+Change Component Designator: OldDesignator=C78.13 NewDesignator=C81.13
+Change Component Designator: OldDesignator=C78.14 NewDesignator=C81.14
+Change Component Designator: OldDesignator=C78.15 NewDesignator=C81.15
+Change Component Designator: OldDesignator=C78.16 NewDesignator=C81.16
+Change Component Designator: OldDesignator=C79 NewDesignator=C82
+Change Component Designator: OldDesignator=C80 NewDesignator=C83
+Change Component Designator: OldDesignator=C81 NewDesignator=C84
+Change Component Designator: OldDesignator=C82 NewDesignator=C85
+Change Component Designator: OldDesignator=C83 NewDesignator=C86
+Change Component Designator: OldDesignator=C84 NewDesignator=C87
+Change Component Designator: OldDesignator=C85 NewDesignator=C88
+Change Component Designator: OldDesignator=C86 NewDesignator=C89
+Change Component Designator: OldDesignator=C87 NewDesignator=C90
+Change Component Designator: OldDesignator=C88 NewDesignator=C91
+Change Component Designator: OldDesignator=C89 NewDesignator=C92
+Change Component Designator: OldDesignator=C90 NewDesignator=C93
+Change Component Designator: OldDesignator=C91 NewDesignator=C94
+Change Component Designator: OldDesignator=C92 NewDesignator=C95
+Change Component Designator: OldDesignator=C93 NewDesignator=C96
+Change Component Designator: OldDesignator=C94 NewDesignator=C97
+Change Component Designator: OldDesignator=C95 NewDesignator=C98
+Change Component Designator: OldDesignator=C96 NewDesignator=C99
+Change Component Designator: OldDesignator=C97 NewDesignator=C100
+Change Component Designator: OldDesignator=C98 NewDesignator=C101
+Change Component Designator: OldDesignator=C99 NewDesignator=C102
+Change Component Designator: OldDesignator=C100 NewDesignator=C103
+Change Component Designator: OldDesignator=C101 NewDesignator=C104
+Change Component Designator: OldDesignator=C102 NewDesignator=C105
+Change Component Designator: OldDesignator=C103 NewDesignator=C106
+Change Component Designator: OldDesignator=C104 NewDesignator=C107
+Change Component Designator: OldDesignator=C105 NewDesignator=C108
+Change Component Designator: OldDesignator=C106 NewDesignator=C109
+Change Component Designator: OldDesignator=C107 NewDesignator=C110
+Change Component Designator: OldDesignator=C108 NewDesignator=C111
+Change Component Designator: OldDesignator=C109 NewDesignator=C112
+Change Component Designator: OldDesignator=C110 NewDesignator=C113
+Change Component Designator: OldDesignator=C111 NewDesignator=C114
+Change Component Designator: OldDesignator=C112 NewDesignator=C115
+Change Component Designator: OldDesignator=C113 NewDesignator=C116
+Change Component Designator: OldDesignator=C114 NewDesignator=C117
+Change Component Designator: OldDesignator=C115.1 NewDesignator=C118.1
+Change Component Designator: OldDesignator=C115.2 NewDesignator=C118.2
+Change Component Designator: OldDesignator=C116.1 NewDesignator=C119.1
+Change Component Designator: OldDesignator=C116.2 NewDesignator=C119.2
+Change Component Designator: OldDesignator=C117.1 NewDesignator=C120.1
+Change Component Designator: OldDesignator=C117.2 NewDesignator=C120.2
+Change Component Designator: OldDesignator=C118.1 NewDesignator=C121.1
+Change Component Designator: OldDesignator=C118.2 NewDesignator=C121.2
+Change Component Designator: OldDesignator=C119.1 NewDesignator=C122.1
+Change Component Designator: OldDesignator=C119.2 NewDesignator=C122.2
+Change Component Designator: OldDesignator=C120.1 NewDesignator=C123.1
+Change Component Designator: OldDesignator=C120.2 NewDesignator=C123.2
+Change Component Designator: OldDesignator=C121.1 NewDesignator=C124.1
+Change Component Designator: OldDesignator=C121.2 NewDesignator=C124.2
+Change Component Designator: OldDesignator=C122.1 NewDesignator=C125.1
+Change Component Designator: OldDesignator=C122.2 NewDesignator=C125.2
+Change Component Designator: OldDesignator=C123.1 NewDesignator=C126.1
+Change Component Designator: OldDesignator=C123.2 NewDesignator=C126.2
+Change Component Designator: OldDesignator=C124.1 NewDesignator=C127.1
+Change Component Designator: OldDesignator=C124.2 NewDesignator=C127.2
+Change Component Designator: OldDesignator=C125.1 NewDesignator=C128.1
+Change Component Designator: OldDesignator=C125.2 NewDesignator=C128.2
+Change Component Designator: OldDesignator=C126.1 NewDesignator=C129.1
+Change Component Designator: OldDesignator=C126.2 NewDesignator=C129.2
+Change Component Designator: OldDesignator=C126.3 NewDesignator=C129.3
+Change Component Designator: OldDesignator=C126.4 NewDesignator=C129.4
+Change Component Designator: OldDesignator=C126.5 NewDesignator=C129.5
+Change Component Designator: OldDesignator=C126.6 NewDesignator=C129.6
+Change Component Designator: OldDesignator=C126.7 NewDesignator=C129.7
+Change Component Designator: OldDesignator=C126.8 NewDesignator=C129.8
+Change Component Designator: OldDesignator=C127.1 NewDesignator=C130.1
+Change Component Designator: OldDesignator=C127.2 NewDesignator=C130.2
+Change Component Designator: OldDesignator=C127.3 NewDesignator=C130.3
+Change Component Designator: OldDesignator=C127.4 NewDesignator=C130.4
+Change Component Designator: OldDesignator=C127.5 NewDesignator=C130.5
+Change Component Designator: OldDesignator=C127.6 NewDesignator=C130.6
+Change Component Designator: OldDesignator=C127.7 NewDesignator=C130.7
+Change Component Designator: OldDesignator=C127.8 NewDesignator=C130.8
+Change Component Designator: OldDesignator=C128.1 NewDesignator=C131.1
+Change Component Designator: OldDesignator=C128.2 NewDesignator=C131.2
+Change Component Designator: OldDesignator=C128.3 NewDesignator=C131.3
+Change Component Designator: OldDesignator=C128.4 NewDesignator=C131.4
+Change Component Designator: OldDesignator=C128.5 NewDesignator=C131.5
+Change Component Designator: OldDesignator=C128.6 NewDesignator=C131.6
+Change Component Designator: OldDesignator=C128.7 NewDesignator=C131.7
+Change Component Designator: OldDesignator=C128.8 NewDesignator=C131.8
+Change Component Designator: OldDesignator=C129.1 NewDesignator=C132.1
+Change Component Designator: OldDesignator=C129.2 NewDesignator=C132.2
+Change Component Designator: OldDesignator=C129.3 NewDesignator=C132.3
+Change Component Designator: OldDesignator=C129.4 NewDesignator=C132.4
+Change Component Designator: OldDesignator=C129.5 NewDesignator=C132.5
+Change Component Designator: OldDesignator=C129.6 NewDesignator=C132.6
+Change Component Designator: OldDesignator=C129.7 NewDesignator=C132.7
+Change Component Designator: OldDesignator=C129.8 NewDesignator=C132.8
+Change Component Designator: OldDesignator=C130.1 NewDesignator=C133.1
+Change Component Designator: OldDesignator=C130.2 NewDesignator=C133.2
+Change Component Designator: OldDesignator=C130.3 NewDesignator=C133.3
+Change Component Designator: OldDesignator=C130.4 NewDesignator=C133.4
+Change Component Designator: OldDesignator=C130.5 NewDesignator=C133.5
+Change Component Designator: OldDesignator=C130.6 NewDesignator=C133.6
+Change Component Designator: OldDesignator=C130.7 NewDesignator=C133.7
+Change Component Designator: OldDesignator=C130.8 NewDesignator=C133.8
+Change Component Designator: OldDesignator=C131.1 NewDesignator=C134.1
+Change Component Designator: OldDesignator=C131.2 NewDesignator=C134.2
+Change Component Designator: OldDesignator=C131.3 NewDesignator=C134.3
+Change Component Designator: OldDesignator=C131.4 NewDesignator=C134.4
+Change Component Designator: OldDesignator=C131.5 NewDesignator=C134.5
+Change Component Designator: OldDesignator=C131.6 NewDesignator=C134.6
+Change Component Designator: OldDesignator=C131.7 NewDesignator=C134.7
+Change Component Designator: OldDesignator=C131.8 NewDesignator=C134.8
+Change Component Designator: OldDesignator=C132.1 NewDesignator=C135.1
+Change Component Designator: OldDesignator=C132.2 NewDesignator=C135.2
+Change Component Designator: OldDesignator=C132.3 NewDesignator=C135.3
+Change Component Designator: OldDesignator=C132.4 NewDesignator=C135.4
+Change Component Designator: OldDesignator=C132.5 NewDesignator=C135.5
+Change Component Designator: OldDesignator=C132.6 NewDesignator=C135.6
+Change Component Designator: OldDesignator=C132.7 NewDesignator=C135.7
+Change Component Designator: OldDesignator=C132.8 NewDesignator=C135.8
+Change Component Designator: OldDesignator=C133.1 NewDesignator=C136.1
+Change Component Designator: OldDesignator=C133.2 NewDesignator=C136.2
+Change Component Designator: OldDesignator=C133.3 NewDesignator=C136.3
+Change Component Designator: OldDesignator=C133.4 NewDesignator=C136.4
+Change Component Designator: OldDesignator=C133.5 NewDesignator=C136.5
+Change Component Designator: OldDesignator=C133.6 NewDesignator=C136.6
+Change Component Designator: OldDesignator=C133.7 NewDesignator=C136.7
+Change Component Designator: OldDesignator=C133.8 NewDesignator=C136.8
+Change Component Designator: OldDesignator=C134.1 NewDesignator=C137.1
+Change Component Designator: OldDesignator=C134.2 NewDesignator=C137.2
+Change Component Designator: OldDesignator=C134.3 NewDesignator=C137.3
+Change Component Designator: OldDesignator=C134.4 NewDesignator=C137.4
+Change Component Designator: OldDesignator=C134.5 NewDesignator=C137.5
+Change Component Designator: OldDesignator=C134.6 NewDesignator=C137.6
+Change Component Designator: OldDesignator=C134.7 NewDesignator=C137.7
+Change Component Designator: OldDesignator=C134.8 NewDesignator=C137.8
+Change Component Designator: OldDesignator=C135.1 NewDesignator=C138.1
+Change Component Designator: OldDesignator=C135.2 NewDesignator=C138.2
+Change Component Designator: OldDesignator=C135.3 NewDesignator=C138.3
+Change Component Designator: OldDesignator=C135.4 NewDesignator=C138.4
+Change Component Designator: OldDesignator=C135.5 NewDesignator=C138.5
+Change Component Designator: OldDesignator=C135.6 NewDesignator=C138.6
+Change Component Designator: OldDesignator=C135.7 NewDesignator=C138.7
+Change Component Designator: OldDesignator=C135.8 NewDesignator=C138.8
+Change Component Designator: OldDesignator=C136.1 NewDesignator=C139.1
+Change Component Designator: OldDesignator=C136.2 NewDesignator=C139.2
+Change Component Designator: OldDesignator=C136.3 NewDesignator=C139.3
+Change Component Designator: OldDesignator=C136.4 NewDesignator=C139.4
+Change Component Designator: OldDesignator=C136.5 NewDesignator=C139.5
+Change Component Designator: OldDesignator=C136.6 NewDesignator=C139.6
+Change Component Designator: OldDesignator=C136.7 NewDesignator=C139.7
+Change Component Designator: OldDesignator=C136.8 NewDesignator=C139.8
+Change Component Designator: OldDesignator=C137.1 NewDesignator=C140.1
+Change Component Designator: OldDesignator=C137.2 NewDesignator=C140.2
+Change Component Designator: OldDesignator=C137.3 NewDesignator=C140.3
+Change Component Designator: OldDesignator=C137.4 NewDesignator=C140.4
+Change Component Designator: OldDesignator=C137.5 NewDesignator=C140.5
+Change Component Designator: OldDesignator=C137.6 NewDesignator=C140.6
+Change Component Designator: OldDesignator=C137.7 NewDesignator=C140.7
+Change Component Designator: OldDesignator=C137.8 NewDesignator=C140.8
+Change Component Designator: OldDesignator=C138.1 NewDesignator=C141.1
+Change Component Designator: OldDesignator=C138.2 NewDesignator=C141.2
+Change Component Designator: OldDesignator=C138.3 NewDesignator=C141.3
+Change Component Designator: OldDesignator=C138.4 NewDesignator=C141.4
+Change Component Designator: OldDesignator=C138.5 NewDesignator=C141.5
+Change Component Designator: OldDesignator=C138.6 NewDesignator=C141.6
+Change Component Designator: OldDesignator=C138.7 NewDesignator=C141.7
+Change Component Designator: OldDesignator=C138.8 NewDesignator=C141.8
+Change Component Designator: OldDesignator=C139.1 NewDesignator=C142.1
+Change Component Designator: OldDesignator=C139.2 NewDesignator=C142.2
+Change Component Designator: OldDesignator=C139.3 NewDesignator=C142.3
+Change Component Designator: OldDesignator=C139.4 NewDesignator=C142.4
+Change Component Designator: OldDesignator=C139.5 NewDesignator=C142.5
+Change Component Designator: OldDesignator=C139.6 NewDesignator=C142.6
+Change Component Designator: OldDesignator=C139.7 NewDesignator=C142.7
+Change Component Designator: OldDesignator=C139.8 NewDesignator=C142.8
+Change Component Designator: OldDesignator=C140.1 NewDesignator=C143.1
+Change Component Designator: OldDesignator=C140.2 NewDesignator=C143.2
+Change Component Designator: OldDesignator=C140.3 NewDesignator=C143.3
+Change Component Designator: OldDesignator=C140.4 NewDesignator=C143.4
+Change Component Designator: OldDesignator=C140.5 NewDesignator=C143.5
+Change Component Designator: OldDesignator=C140.6 NewDesignator=C143.6
+Change Component Designator: OldDesignator=C140.7 NewDesignator=C143.7
+Change Component Designator: OldDesignator=C140.8 NewDesignator=C143.8
+Change Component Designator: OldDesignator=C141.1 NewDesignator=C144.1
+Change Component Designator: OldDesignator=C141.2 NewDesignator=C144.2
+Change Component Designator: OldDesignator=C141.3 NewDesignator=C144.3
+Change Component Designator: OldDesignator=C141.4 NewDesignator=C144.4
+Change Component Designator: OldDesignator=C141.5 NewDesignator=C144.5
+Change Component Designator: OldDesignator=C141.6 NewDesignator=C144.6
+Change Component Designator: OldDesignator=C141.7 NewDesignator=C144.7
+Change Component Designator: OldDesignator=C141.8 NewDesignator=C144.8
+Change Component Designator: OldDesignator=C142.1 NewDesignator=C145.1
+Change Component Designator: OldDesignator=C142.2 NewDesignator=C145.2
+Change Component Designator: OldDesignator=C142.3 NewDesignator=C145.3
+Change Component Designator: OldDesignator=C142.4 NewDesignator=C145.4
+Change Component Designator: OldDesignator=C142.5 NewDesignator=C145.5
+Change Component Designator: OldDesignator=C142.6 NewDesignator=C145.6
+Change Component Designator: OldDesignator=C142.7 NewDesignator=C145.7
+Change Component Designator: OldDesignator=C142.8 NewDesignator=C145.8
+Change Component Designator: OldDesignator=C143 NewDesignator=C146
+Change Component Designator: OldDesignator=C144 NewDesignator=C147
+Change Component Designator: OldDesignator=C145 NewDesignator=C148
+Change Component Designator: OldDesignator=C146 NewDesignator=C149
+Change Component Designator: OldDesignator=C147 NewDesignator=C150
+Change Component Designator: OldDesignator=C148 NewDesignator=C151
+Change Component Designator: OldDesignator=C149 NewDesignator=C152
+Change Component Designator: OldDesignator=C150 NewDesignator=C153
+Change Component Designator: OldDesignator=C151 NewDesignator=C154
+Change Component Designator: OldDesignator=C152 NewDesignator=C155
+Change Component Designator: OldDesignator=C153 NewDesignator=C156
+Change Component Designator: OldDesignator=C154 NewDesignator=C157
+Change Component Designator: OldDesignator=C155 NewDesignator=C158
+Change Component Designator: OldDesignator=C156 NewDesignator=C159
+Change Component Designator: OldDesignator=C157 NewDesignator=C160
+Change Component Designator: OldDesignator=C158 NewDesignator=C161
+Change Component Designator: OldDesignator=C159 NewDesignator=C162
+Change Component Designator: OldDesignator=C160 NewDesignator=C163
+Change Component Designator: OldDesignator=C161 NewDesignator=C164
+Change Component Designator: OldDesignator=C162 NewDesignator=C165
+Change Component Designator: OldDesignator=C163 NewDesignator=C166
+Change Component Designator: OldDesignator=C164 NewDesignator=C167
+Change Component Designator: OldDesignator=C165 NewDesignator=C168
+Change Component Designator: OldDesignator=C166 NewDesignator=C169
+Change Component Designator: OldDesignator=C167 NewDesignator=C170
+Change Component Designator: OldDesignator=C168 NewDesignator=C171
+Change Component Designator: OldDesignator=C169 NewDesignator=C172
+Change Component Designator: OldDesignator=C170 NewDesignator=C173
+Change Component Designator: OldDesignator=C171 NewDesignator=C174
+Change Component Designator: OldDesignator=C172 NewDesignator=C175
+Change Component Designator: OldDesignator=C173 NewDesignator=C176
+Change Component Designator: OldDesignator=C174 NewDesignator=C177
+Change Component Designator: OldDesignator=C175 NewDesignator=C178
+Change Component Designator: OldDesignator=C176 NewDesignator=C179
+Change Component Designator: OldDesignator=C177 NewDesignator=C180
+Change Component Designator: OldDesignator=C178 NewDesignator=C181
+Change Component Designator: OldDesignator=C179 NewDesignator=C182
+Added Component: Designator=C59.1(0402)
+Added Component: Designator=C59.2(0402)
+Added Component: Designator=C59.3(0402)
+Added Component: Designator=C59.4(0402)
+Added Component: Designator=C59.5(0402)
+Added Component: Designator=C59.6(0402)
+Added Component: Designator=C59.7(0402)
+Added Component: Designator=C59.8(0402)
+Added Component: Designator=C59.9(0402)
+Added Component: Designator=C59.10(0402)
+Added Component: Designator=C59.11(0402)
+Added Component: Designator=C59.12(0402)
+Added Component: Designator=C59.13(0402)
+Added Component: Designator=C59.14(0402)
+Added Component: Designator=C59.15(0402)
+Added Component: Designator=C59.16(0402)
+Added Component: Designator=C60.1(0402)
+Added Component: Designator=C60.2(0402)
+Added Component: Designator=C60.3(0402)
+Added Component: Designator=C60.4(0402)
+Added Component: Designator=C60.5(0402)
+Added Component: Designator=C60.6(0402)
+Added Component: Designator=C60.7(0402)
+Added Component: Designator=C60.8(0402)
+Added Component: Designator=C60.9(0402)
+Added Component: Designator=C60.10(0402)
+Added Component: Designator=C60.11(0402)
+Added Component: Designator=C60.12(0402)
+Added Component: Designator=C60.13(0402)
+Added Component: Designator=C60.14(0402)
+Added Component: Designator=C60.15(0402)
+Added Component: Designator=C60.16(0402)
+Added Component: Designator=C61.1(CAP_1210)
+Added Component: Designator=C61.2(CAP_1210)
+Added Component: Designator=C61.3(CAP_1210)
+Added Component: Designator=C61.4(CAP_1210)
+Added Component: Designator=C61.5(CAP_1210)
+Added Component: Designator=C61.6(CAP_1210)
+Added Component: Designator=C61.7(CAP_1210)
+Added Component: Designator=C61.8(CAP_1210)
+Added Component: Designator=C61.9(CAP_1210)
+Added Component: Designator=C61.10(CAP_1210)
+Added Component: Designator=C61.11(CAP_1210)
+Added Component: Designator=C61.12(CAP_1210)
+Added Component: Designator=C61.13(CAP_1210)
+Added Component: Designator=C61.14(CAP_1210)
+Added Component: Designator=C61.15(CAP_1210)
+Added Component: Designator=C61.16(CAP_1210)
+Added Component: Designator=C68.1(0603)
+Added Component: Designator=C68.2(0603)
+Added Component: Designator=C68.3(0603)
+Added Component: Designator=C68.4(0603)
+Added Component: Designator=C68.5(0603)
+Added Component: Designator=C68.6(0603)
+Added Component: Designator=C68.7(0603)
+Added Component: Designator=C68.8(0603)
+Added Component: Designator=C68.9(0603)
+Added Component: Designator=C68.10(0603)
+Added Component: Designator=C68.11(0603)
+Added Component: Designator=C68.12(0603)
+Added Component: Designator=C68.13(0603)
+Added Component: Designator=C68.14(0603)
+Added Component: Designator=C68.15(0603)
+Added Component: Designator=C68.16(0603)
+Added Component: Designator=C69.1(CAP_1210)
+Added Component: Designator=C69.2(CAP_1210)
+Added Component: Designator=C69.3(CAP_1210)
+Added Component: Designator=C69.4(CAP_1210)
+Added Component: Designator=C69.5(CAP_1210)
+Added Component: Designator=C69.6(CAP_1210)
+Added Component: Designator=C69.7(CAP_1210)
+Added Component: Designator=C69.8(CAP_1210)
+Added Component: Designator=C69.9(CAP_1210)
+Added Component: Designator=C69.10(CAP_1210)
+Added Component: Designator=C69.11(CAP_1210)
+Added Component: Designator=C69.12(CAP_1210)
+Added Component: Designator=C69.13(CAP_1210)
+Added Component: Designator=C69.14(CAP_1210)
+Added Component: Designator=C69.15(CAP_1210)
+Added Component: Designator=C69.16(CAP_1210)
+Added Component: Designator=C70.1(0402)
+Added Component: Designator=C70.2(0402)
+Added Component: Designator=C70.3(0402)
+Added Component: Designator=C70.4(0402)
+Added Component: Designator=C70.5(0402)
+Added Component: Designator=C70.6(0402)
+Added Component: Designator=C70.7(0402)
+Added Component: Designator=C70.8(0402)
+Added Component: Designator=C70.9(0402)
+Added Component: Designator=C70.10(0402)
+Added Component: Designator=C70.11(0402)
+Added Component: Designator=C70.12(0402)
+Added Component: Designator=C70.13(0402)
+Added Component: Designator=C70.14(0402)
+Added Component: Designator=C70.15(0402)
+Added Component: Designator=C70.16(0402)
+Added Component: Designator=C76.1(0402)
+Added Component: Designator=C76.2(0402)
+Added Component: Designator=C76.3(0402)
+Added Component: Designator=C76.4(0402)
+Added Component: Designator=C76.5(0402)
+Added Component: Designator=C76.6(0402)
+Added Component: Designator=C76.7(0402)
+Added Component: Designator=C76.8(0402)
+Added Component: Designator=C76.9(0402)
+Added Component: Designator=C76.10(0402)
+Added Component: Designator=C76.11(0402)
+Added Component: Designator=C76.12(0402)
+Added Component: Designator=C76.13(0402)
+Added Component: Designator=C76.14(0402)
+Added Component: Designator=C76.15(0402)
+Added Component: Designator=C76.16(0402)
+Added Component: Designator=C77.1(0402)
+Added Component: Designator=C77.2(0402)
+Added Component: Designator=C77.3(0402)
+Added Component: Designator=C77.4(0402)
+Added Component: Designator=C77.5(0402)
+Added Component: Designator=C77.6(0402)
+Added Component: Designator=C77.7(0402)
+Added Component: Designator=C77.8(0402)
+Added Component: Designator=C77.9(0402)
+Added Component: Designator=C77.10(0402)
+Added Component: Designator=C77.11(0402)
+Added Component: Designator=C77.12(0402)
+Added Component: Designator=C77.13(0402)
+Added Component: Designator=C77.14(0402)
+Added Component: Designator=C77.15(0402)
+Added Component: Designator=C77.16(0402)
+Added Component: Designator=C78.1(0402)
+Added Component: Designator=C78.2(0402)
+Added Component: Designator=C78.3(0402)
+Added Component: Designator=C78.4(0402)
+Added Component: Designator=C78.5(0402)
+Added Component: Designator=C78.6(0402)
+Added Component: Designator=C78.7(0402)
+Added Component: Designator=C78.8(0402)
+Added Component: Designator=C78.9(0402)
+Added Component: Designator=C78.10(0402)
+Added Component: Designator=C78.11(0402)
+Added Component: Designator=C78.12(0402)
+Added Component: Designator=C78.13(0402)
+Added Component: Designator=C78.14(0402)
+Added Component: Designator=C78.15(0402)
+Added Component: Designator=C78.16(0402)
+Added Component: Designator=D10.1(SOT23_132)
+Added Pin To Net: NetName=+5VA Pin=C56.1-1
+Added Pin To Net: NetName=GND Pin=C56.1-2
+Added Pin To Net: NetName=+5VA Pin=C56.2-1
+Added Pin To Net: NetName=GND Pin=C56.2-2
+Added Pin To Net: NetName=+5VA Pin=C56.3-1
+Added Pin To Net: NetName=GND Pin=C56.3-2
+Added Pin To Net: NetName=+5VA Pin=C56.4-1
+Added Pin To Net: NetName=GND Pin=C56.4-2
+Added Pin To Net: NetName=+5VA Pin=C56.5-1
+Added Pin To Net: NetName=GND Pin=C56.5-2
+Added Pin To Net: NetName=+5VA Pin=C56.6-1
+Added Pin To Net: NetName=GND Pin=C56.6-2
+Added Pin To Net: NetName=+5VA Pin=C56.7-1
+Added Pin To Net: NetName=GND Pin=C56.7-2
+Added Pin To Net: NetName=+5VA Pin=C56.8-1
+Added Pin To Net: NetName=GND Pin=C56.8-2
+Added Pin To Net: NetName=+5VA Pin=C56.9-1
+Added Pin To Net: NetName=GND Pin=C56.9-2
+Added Pin To Net: NetName=+5VA Pin=C56.10-1
+Added Pin To Net: NetName=GND Pin=C56.10-2
+Added Pin To Net: NetName=+5VA Pin=C56.11-1
+Added Pin To Net: NetName=GND Pin=C56.11-2
+Added Pin To Net: NetName=+5VA Pin=C56.12-1
+Added Pin To Net: NetName=GND Pin=C56.12-2
+Added Pin To Net: NetName=+5VA Pin=C56.13-1
+Added Pin To Net: NetName=GND Pin=C56.13-2
+Added Pin To Net: NetName=+5VA Pin=C56.14-1
+Added Pin To Net: NetName=GND Pin=C56.14-2
+Added Pin To Net: NetName=+5VA Pin=C56.15-1
+Added Pin To Net: NetName=GND Pin=C56.15-2
+Added Pin To Net: NetName=+5VA Pin=C56.16-1
+Added Pin To Net: NetName=GND Pin=C56.16-2
+Added Pin To Net: NetName=+5VA Pin=C57.1-1
+Added Pin To Net: NetName=GND Pin=C57.1-2
+Added Pin To Net: NetName=+5VA Pin=C57.2-1
+Added Pin To Net: NetName=GND Pin=C57.2-2
+Added Pin To Net: NetName=+5VA Pin=C57.3-1
+Added Pin To Net: NetName=GND Pin=C57.3-2
+Added Pin To Net: NetName=+5VA Pin=C57.4-1
+Added Pin To Net: NetName=GND Pin=C57.4-2
+Added Pin To Net: NetName=+5VA Pin=C57.5-1
+Added Pin To Net: NetName=GND Pin=C57.5-2
+Added Pin To Net: NetName=+5VA Pin=C57.6-1
+Added Pin To Net: NetName=GND Pin=C57.6-2
+Added Pin To Net: NetName=+5VA Pin=C57.7-1
+Added Pin To Net: NetName=GND Pin=C57.7-2
+Added Pin To Net: NetName=+5VA Pin=C57.8-1
+Added Pin To Net: NetName=GND Pin=C57.8-2
+Added Pin To Net: NetName=+5VA Pin=C57.9-1
+Added Pin To Net: NetName=GND Pin=C57.9-2
+Added Pin To Net: NetName=+5VA Pin=C57.10-1
+Added Pin To Net: NetName=GND Pin=C57.10-2
+Added Pin To Net: NetName=+5VA Pin=C57.11-1
+Added Pin To Net: NetName=GND Pin=C57.11-2
+Added Pin To Net: NetName=+5VA Pin=C57.12-1
+Added Pin To Net: NetName=GND Pin=C57.12-2
+Added Pin To Net: NetName=+5VA Pin=C57.13-1
+Added Pin To Net: NetName=GND Pin=C57.13-2
+Added Pin To Net: NetName=+5VA Pin=C57.14-1
+Added Pin To Net: NetName=GND Pin=C57.14-2
+Added Pin To Net: NetName=+5VA Pin=C57.15-1
+Added Pin To Net: NetName=GND Pin=C57.15-2
+Added Pin To Net: NetName=+5VA Pin=C57.16-1
+Added Pin To Net: NetName=GND Pin=C57.16-2
+Added Pin To Net: NetName=+5VA Pin=C58.1-1
+Added Pin To Net: NetName=GND Pin=C58.1-2
+Added Pin To Net: NetName=+5VA Pin=C58.2-1
+Added Pin To Net: NetName=GND Pin=C58.2-2
+Added Pin To Net: NetName=+5VA Pin=C58.3-1
+Added Pin To Net: NetName=GND Pin=C58.3-2
+Added Pin To Net: NetName=+5VA Pin=C58.4-1
+Added Pin To Net: NetName=GND Pin=C58.4-2
+Added Pin To Net: NetName=+5VA Pin=C58.5-1
+Added Pin To Net: NetName=GND Pin=C58.5-2
+Added Pin To Net: NetName=+5VA Pin=C58.6-1
+Added Pin To Net: NetName=GND Pin=C58.6-2
+Added Pin To Net: NetName=+5VA Pin=C58.7-1
+Added Pin To Net: NetName=GND Pin=C58.7-2
+Added Pin To Net: NetName=+5VA Pin=C58.8-1
+Added Pin To Net: NetName=GND Pin=C58.8-2
+Added Pin To Net: NetName=+5VA Pin=C58.9-1
+Added Pin To Net: NetName=GND Pin=C58.9-2
+Added Pin To Net: NetName=+5VA Pin=C58.10-1
+Added Pin To Net: NetName=GND Pin=C58.10-2
+Added Pin To Net: NetName=+5VA Pin=C58.11-1
+Added Pin To Net: NetName=GND Pin=C58.11-2
+Added Pin To Net: NetName=+5VA Pin=C58.12-1
+Added Pin To Net: NetName=GND Pin=C58.12-2
+Added Pin To Net: NetName=+5VA Pin=C58.13-1
+Added Pin To Net: NetName=GND Pin=C58.13-2
+Added Pin To Net: NetName=+5VA Pin=C58.14-1
+Added Pin To Net: NetName=GND Pin=C58.14-2
+Added Pin To Net: NetName=+5VA Pin=C58.15-1
+Added Pin To Net: NetName=GND Pin=C58.15-2
+Added Pin To Net: NetName=+5VA Pin=C58.16-1
+Added Pin To Net: NetName=GND Pin=C58.16-2
+Added Pin To Net: NetName=NetC56.1_1 Pin=C56.1-1
+Added Pin To Net: NetName=NetC56.2_1 Pin=C56.2-1
+Added Pin To Net: NetName=NetC56.3_1 Pin=C56.3-1
+Added Pin To Net: NetName=NetC56.4_1 Pin=C56.4-1
+Added Pin To Net: NetName=NetC56.5_1 Pin=C56.5-1
+Added Pin To Net: NetName=NetC56.6_1 Pin=C56.6-1
+Added Pin To Net: NetName=NetC56.7_1 Pin=C56.7-1
+Added Pin To Net: NetName=NetC56.8_1 Pin=C56.8-1
+Added Pin To Net: NetName=NetC56.9_1 Pin=C56.9-1
+Added Pin To Net: NetName=NetC56.10_1 Pin=C56.10-1
+Added Pin To Net: NetName=NetC56.11_1 Pin=C56.11-1
+Added Pin To Net: NetName=NetC56.12_1 Pin=C56.12-1
+Added Pin To Net: NetName=NetC56.13_1 Pin=C56.13-1
+Added Pin To Net: NetName=NetC56.14_1 Pin=C56.14-1
+Added Pin To Net: NetName=NetC56.15_1 Pin=C56.15-1
+Added Pin To Net: NetName=NetC56.16_1 Pin=C56.16-1
+Added Pin To Net: NetName=NetC56.1_1 Pin=C57.1-1
+Added Pin To Net: NetName=+2V5 Pin=C57.1-2
+Added Pin To Net: NetName=NetC56.2_1 Pin=C57.2-1
+Added Pin To Net: NetName=+2V5 Pin=C57.2-2
+Added Pin To Net: NetName=NetC56.3_1 Pin=C57.3-1
+Added Pin To Net: NetName=+2V5 Pin=C57.3-2
+Added Pin To Net: NetName=NetC56.4_1 Pin=C57.4-1
+Added Pin To Net: NetName=+2V5 Pin=C57.4-2
+Added Pin To Net: NetName=NetC56.5_1 Pin=C57.5-1
+Added Pin To Net: NetName=+2V5 Pin=C57.5-2
+Added Pin To Net: NetName=NetC56.6_1 Pin=C57.6-1
+Added Pin To Net: NetName=+2V5 Pin=C57.6-2
+Added Pin To Net: NetName=NetC56.7_1 Pin=C57.7-1
+Added Pin To Net: NetName=+2V5 Pin=C57.7-2
+Added Pin To Net: NetName=NetC56.8_1 Pin=C57.8-1
+Added Pin To Net: NetName=+2V5 Pin=C57.8-2
+Added Pin To Net: NetName=NetC56.9_1 Pin=C57.9-1
+Added Pin To Net: NetName=+2V5 Pin=C57.9-2
+Added Pin To Net: NetName=NetC56.10_1 Pin=C57.10-1
+Added Pin To Net: NetName=+2V5 Pin=C57.10-2
+Added Pin To Net: NetName=NetC56.11_1 Pin=C57.11-1
+Added Pin To Net: NetName=+2V5 Pin=C57.11-2
+Added Pin To Net: NetName=NetC56.12_1 Pin=C57.12-1
+Added Pin To Net: NetName=+2V5 Pin=C57.12-2
+Added Pin To Net: NetName=NetC56.13_1 Pin=C57.13-1
+Added Pin To Net: NetName=+2V5 Pin=C57.13-2
+Added Pin To Net: NetName=NetC56.14_1 Pin=C57.14-1
+Added Pin To Net: NetName=+2V5 Pin=C57.14-2
+Added Pin To Net: NetName=NetC56.15_1 Pin=C57.15-1
+Added Pin To Net: NetName=+2V5 Pin=C57.15-2
+Added Pin To Net: NetName=NetC56.16_1 Pin=C57.16-1
+Added Pin To Net: NetName=+2V5 Pin=C57.16-2
+Added Pin To Net: NetName=NetC58.1_2 Pin=C58.1-2
+Added Pin To Net: NetName=NetC58.2_2 Pin=C58.2-2
+Added Pin To Net: NetName=NetC58.3_2 Pin=C58.3-2
+Added Pin To Net: NetName=NetC58.4_2 Pin=C58.4-2
+Added Pin To Net: NetName=NetC58.5_2 Pin=C58.5-2
+Added Pin To Net: NetName=NetC58.6_2 Pin=C58.6-2
+Added Pin To Net: NetName=NetC58.7_2 Pin=C58.7-2
+Added Pin To Net: NetName=NetC58.8_2 Pin=C58.8-2
+Added Pin To Net: NetName=NetC58.9_2 Pin=C58.9-2
+Added Pin To Net: NetName=NetC58.10_2 Pin=C58.10-2
+Added Pin To Net: NetName=NetC58.11_2 Pin=C58.11-2
+Added Pin To Net: NetName=NetC58.12_2 Pin=C58.12-2
+Added Pin To Net: NetName=NetC58.13_2 Pin=C58.13-2
+Added Pin To Net: NetName=NetC58.14_2 Pin=C58.14-2
+Added Pin To Net: NetName=NetC58.15_2 Pin=C58.15-2
+Added Pin To Net: NetName=NetC58.16_2 Pin=C58.16-2
+Added Pin To Net: NetName=+5VA Pin=C65.1-1
+Added Pin To Net: NetName=GND Pin=C65.1-2
+Added Pin To Net: NetName=+5VA Pin=C65.2-1
+Added Pin To Net: NetName=GND Pin=C65.2-2
+Added Pin To Net: NetName=+5VA Pin=C65.3-1
+Added Pin To Net: NetName=GND Pin=C65.3-2
+Added Pin To Net: NetName=+5VA Pin=C65.4-1
+Added Pin To Net: NetName=GND Pin=C65.4-2
+Added Pin To Net: NetName=+5VA Pin=C65.5-1
+Added Pin To Net: NetName=GND Pin=C65.5-2
+Added Pin To Net: NetName=+5VA Pin=C65.6-1
+Added Pin To Net: NetName=GND Pin=C65.6-2
+Added Pin To Net: NetName=+5VA Pin=C65.7-1
+Added Pin To Net: NetName=GND Pin=C65.7-2
+Added Pin To Net: NetName=+5VA Pin=C65.8-1
+Added Pin To Net: NetName=GND Pin=C65.8-2
+Added Pin To Net: NetName=+5VA Pin=C65.9-1
+Added Pin To Net: NetName=GND Pin=C65.9-2
+Added Pin To Net: NetName=+5VA Pin=C65.10-1
+Added Pin To Net: NetName=GND Pin=C65.10-2
+Added Pin To Net: NetName=+5VA Pin=C65.11-1
+Added Pin To Net: NetName=GND Pin=C65.11-2
+Added Pin To Net: NetName=+5VA Pin=C65.12-1
+Added Pin To Net: NetName=GND Pin=C65.12-2
+Added Pin To Net: NetName=+5VA Pin=C65.13-1
+Added Pin To Net: NetName=GND Pin=C65.13-2
+Added Pin To Net: NetName=+5VA Pin=C65.14-1
+Added Pin To Net: NetName=GND Pin=C65.14-2
+Added Pin To Net: NetName=+5VA Pin=C65.15-1
+Added Pin To Net: NetName=GND Pin=C65.15-2
+Added Pin To Net: NetName=+5VA Pin=C65.16-1
+Added Pin To Net: NetName=GND Pin=C65.16-2
+Added Pin To Net: NetName=+5VA Pin=C66.1-1
+Added Pin To Net: NetName=GND Pin=C66.1-2
+Added Pin To Net: NetName=+5VA Pin=C66.2-1
+Added Pin To Net: NetName=GND Pin=C66.2-2
+Added Pin To Net: NetName=+5VA Pin=C66.3-1
+Added Pin To Net: NetName=GND Pin=C66.3-2
+Added Pin To Net: NetName=+5VA Pin=C66.4-1
+Added Pin To Net: NetName=GND Pin=C66.4-2
+Added Pin To Net: NetName=+5VA Pin=C66.5-1
+Added Pin To Net: NetName=GND Pin=C66.5-2
+Added Pin To Net: NetName=+5VA Pin=C66.6-1
+Added Pin To Net: NetName=GND Pin=C66.6-2
+Added Pin To Net: NetName=+5VA Pin=C66.7-1
+Added Pin To Net: NetName=GND Pin=C66.7-2
+Added Pin To Net: NetName=+5VA Pin=C66.8-1
+Added Pin To Net: NetName=GND Pin=C66.8-2
+Added Pin To Net: NetName=+5VA Pin=C66.9-1
+Added Pin To Net: NetName=GND Pin=C66.9-2
+Added Pin To Net: NetName=+5VA Pin=C66.10-1
+Added Pin To Net: NetName=GND Pin=C66.10-2
+Added Pin To Net: NetName=+5VA Pin=C66.11-1
+Added Pin To Net: NetName=GND Pin=C66.11-2
+Added Pin To Net: NetName=+5VA Pin=C66.12-1
+Added Pin To Net: NetName=GND Pin=C66.12-2
+Added Pin To Net: NetName=+5VA Pin=C66.13-1
+Added Pin To Net: NetName=GND Pin=C66.13-2
+Added Pin To Net: NetName=+5VA Pin=C66.14-1
+Added Pin To Net: NetName=GND Pin=C66.14-2
+Added Pin To Net: NetName=+5VA Pin=C66.15-1
+Added Pin To Net: NetName=GND Pin=C66.15-2
+Added Pin To Net: NetName=+5VA Pin=C66.16-1
+Added Pin To Net: NetName=GND Pin=C66.16-2
+Added Pin To Net: NetName=+5VA Pin=C67.1-1
+Added Pin To Net: NetName=GND Pin=C67.1-2
+Added Pin To Net: NetName=+5VA Pin=C67.2-1
+Added Pin To Net: NetName=GND Pin=C67.2-2
+Added Pin To Net: NetName=+5VA Pin=C67.3-1
+Added Pin To Net: NetName=GND Pin=C67.3-2
+Added Pin To Net: NetName=+5VA Pin=C67.4-1
+Added Pin To Net: NetName=GND Pin=C67.4-2
+Added Pin To Net: NetName=+5VA Pin=C67.5-1
+Added Pin To Net: NetName=GND Pin=C67.5-2
+Added Pin To Net: NetName=+5VA Pin=C67.6-1
+Added Pin To Net: NetName=GND Pin=C67.6-2
+Added Pin To Net: NetName=+5VA Pin=C67.7-1
+Added Pin To Net: NetName=GND Pin=C67.7-2
+Added Pin To Net: NetName=+5VA Pin=C67.8-1
+Added Pin To Net: NetName=GND Pin=C67.8-2
+Added Pin To Net: NetName=+5VA Pin=C67.9-1
+Added Pin To Net: NetName=GND Pin=C67.9-2
+Added Pin To Net: NetName=+5VA Pin=C67.10-1
+Added Pin To Net: NetName=GND Pin=C67.10-2
+Added Pin To Net: NetName=+5VA Pin=C67.11-1
+Added Pin To Net: NetName=GND Pin=C67.11-2
+Added Pin To Net: NetName=+5VA Pin=C67.12-1
+Added Pin To Net: NetName=GND Pin=C67.12-2
+Added Pin To Net: NetName=+5VA Pin=C67.13-1
+Added Pin To Net: NetName=GND Pin=C67.13-2
+Added Pin To Net: NetName=+5VA Pin=C67.14-1
+Added Pin To Net: NetName=GND Pin=C67.14-2
+Added Pin To Net: NetName=+5VA Pin=C67.15-1
+Added Pin To Net: NetName=GND Pin=C67.15-2
+Added Pin To Net: NetName=+5VA Pin=C67.16-1
+Added Pin To Net: NetName=GND Pin=C67.16-2
+Added Pin To Net: NetName=IN16_P Pin=C65.1-1
+Added Pin To Net: NetName=IN16_N Pin=C65.1-2
+Added Pin To Net: NetName=IN15_P Pin=C65.2-1
+Added Pin To Net: NetName=IN15_N Pin=C65.2-2
+Added Pin To Net: NetName=IN14_P Pin=C65.3-1
+Added Pin To Net: NetName=IN14_N Pin=C65.3-2
+Added Pin To Net: NetName=IN13_P Pin=C65.4-1
+Added Pin To Net: NetName=IN13_N Pin=C65.4-2
+Added Pin To Net: NetName=IN12_P Pin=C65.5-1
+Added Pin To Net: NetName=IN12_N Pin=C65.5-2
+Added Pin To Net: NetName=IN11_P Pin=C65.6-1
+Added Pin To Net: NetName=IN11_N Pin=C65.6-2
+Added Pin To Net: NetName=IN10_P Pin=C65.7-1
+Added Pin To Net: NetName=IN10_N Pin=C65.7-2
+Added Pin To Net: NetName=IN9_P Pin=C65.8-1
+Added Pin To Net: NetName=IN9_N Pin=C65.8-2
+Added Pin To Net: NetName=IN8_P Pin=C65.9-1
+Added Pin To Net: NetName=IN8_N Pin=C65.9-2
+Added Pin To Net: NetName=IN7_P Pin=C65.10-1
+Added Pin To Net: NetName=IN7_N Pin=C65.10-2
+Added Pin To Net: NetName=IN6_P Pin=C65.11-1
+Added Pin To Net: NetName=IN6_N Pin=C65.11-2
+Added Pin To Net: NetName=IN5_P Pin=C65.12-1
+Added Pin To Net: NetName=IN5_N Pin=C65.12-2
+Added Pin To Net: NetName=IN4_P Pin=C65.13-1
+Added Pin To Net: NetName=IN4_N Pin=C65.13-2
+Added Pin To Net: NetName=IN3_P Pin=C65.14-1
+Added Pin To Net: NetName=IN3_N Pin=C65.14-2
+Added Pin To Net: NetName=IN2_P Pin=C65.15-1
+Added Pin To Net: NetName=IN2_N Pin=C65.15-2
+Added Pin To Net: NetName=IN1_P Pin=C65.16-1
+Added Pin To Net: NetName=IN1_N Pin=C65.16-2
+Added Pin To Net: NetName=NetC61.1_2 Pin=C66.1-2
+Added Pin To Net: NetName=NetC61.2_2 Pin=C66.2-2
+Added Pin To Net: NetName=NetC61.3_2 Pin=C66.3-2
+Added Pin To Net: NetName=NetC61.4_2 Pin=C66.4-2
+Added Pin To Net: NetName=NetC61.5_2 Pin=C66.5-2
+Added Pin To Net: NetName=NetC61.6_2 Pin=C66.6-2
+Added Pin To Net: NetName=NetC61.7_2 Pin=C66.7-2
+Added Pin To Net: NetName=NetC61.8_2 Pin=C66.8-2
+Added Pin To Net: NetName=NetC61.9_2 Pin=C66.9-2
+Added Pin To Net: NetName=NetC61.10_2 Pin=C66.10-2
+Added Pin To Net: NetName=NetC61.11_2 Pin=C66.11-2
+Added Pin To Net: NetName=NetC61.12_2 Pin=C66.12-2
+Added Pin To Net: NetName=NetC61.13_2 Pin=C66.13-2
+Added Pin To Net: NetName=NetC61.14_2 Pin=C66.14-2
+Added Pin To Net: NetName=NetC61.15_2 Pin=C66.15-2
+Added Pin To Net: NetName=NetC61.16_2 Pin=C66.16-2
+Added Pin To Net: NetName=+2V5 Pin=C67.1-1
+Added Pin To Net: NetName=NetC67.1_2 Pin=C67.1-2
+Added Pin To Net: NetName=+2V5 Pin=C67.2-1
+Added Pin To Net: NetName=NetC67.2_2 Pin=C67.2-2
+Added Pin To Net: NetName=+2V5 Pin=C67.3-1
+Added Pin To Net: NetName=NetC67.3_2 Pin=C67.3-2
+Added Pin To Net: NetName=+2V5 Pin=C67.4-1
+Added Pin To Net: NetName=NetC67.4_2 Pin=C67.4-2
+Added Pin To Net: NetName=+2V5 Pin=C67.5-1
+Added Pin To Net: NetName=NetC67.5_2 Pin=C67.5-2
+Added Pin To Net: NetName=+2V5 Pin=C67.6-1
+Added Pin To Net: NetName=NetC67.6_2 Pin=C67.6-2
+Added Pin To Net: NetName=+2V5 Pin=C67.7-1
+Added Pin To Net: NetName=NetC67.7_2 Pin=C67.7-2
+Added Pin To Net: NetName=+2V5 Pin=C67.8-1
+Added Pin To Net: NetName=NetC67.8_2 Pin=C67.8-2
+Added Pin To Net: NetName=+2V5 Pin=C67.9-1
+Added Pin To Net: NetName=NetC67.9_2 Pin=C67.9-2
+Added Pin To Net: NetName=+2V5 Pin=C67.10-1
+Added Pin To Net: NetName=NetC67.10_2 Pin=C67.10-2
+Added Pin To Net: NetName=+2V5 Pin=C67.11-1
+Added Pin To Net: NetName=NetC67.11_2 Pin=C67.11-2
+Added Pin To Net: NetName=+2V5 Pin=C67.12-1
+Added Pin To Net: NetName=NetC67.12_2 Pin=C67.12-2
+Added Pin To Net: NetName=+2V5 Pin=C67.13-1
+Added Pin To Net: NetName=NetC67.13_2 Pin=C67.13-2
+Added Pin To Net: NetName=+2V5 Pin=C67.14-1
+Added Pin To Net: NetName=NetC67.14_2 Pin=C67.14-2
+Added Pin To Net: NetName=+2V5 Pin=C67.15-1
+Added Pin To Net: NetName=NetC67.15_2 Pin=C67.15-2
+Added Pin To Net: NetName=+2V5 Pin=C67.16-1
+Added Pin To Net: NetName=NetC67.16_2 Pin=C67.16-2
+Added Pin To Net: NetName=+2V5 Pin=C73.1-1
+Added Pin To Net: NetName=GND Pin=C73.1-2
+Added Pin To Net: NetName=+2V5 Pin=C73.2-1
+Added Pin To Net: NetName=GND Pin=C73.2-2
+Added Pin To Net: NetName=+2V5 Pin=C73.3-1
+Added Pin To Net: NetName=GND Pin=C73.3-2
+Added Pin To Net: NetName=+2V5 Pin=C73.4-1
+Added Pin To Net: NetName=GND Pin=C73.4-2
+Added Pin To Net: NetName=+2V5 Pin=C73.5-1
+Added Pin To Net: NetName=GND Pin=C73.5-2
+Added Pin To Net: NetName=+2V5 Pin=C73.6-1
+Added Pin To Net: NetName=GND Pin=C73.6-2
+Added Pin To Net: NetName=+2V5 Pin=C73.7-1
+Added Pin To Net: NetName=GND Pin=C73.7-2
+Added Pin To Net: NetName=+2V5 Pin=C73.8-1
+Added Pin To Net: NetName=GND Pin=C73.8-2
+Added Pin To Net: NetName=+2V5 Pin=C73.9-1
+Added Pin To Net: NetName=GND Pin=C73.9-2
+Added Pin To Net: NetName=+2V5 Pin=C73.10-1
+Added Pin To Net: NetName=GND Pin=C73.10-2
+Added Pin To Net: NetName=+2V5 Pin=C73.11-1
+Added Pin To Net: NetName=GND Pin=C73.11-2
+Added Pin To Net: NetName=+2V5 Pin=C73.12-1
+Added Pin To Net: NetName=GND Pin=C73.12-2
+Added Pin To Net: NetName=+2V5 Pin=C73.13-1
+Added Pin To Net: NetName=GND Pin=C73.13-2
+Added Pin To Net: NetName=+2V5 Pin=C73.14-1
+Added Pin To Net: NetName=GND Pin=C73.14-2
+Added Pin To Net: NetName=+2V5 Pin=C73.15-1
+Added Pin To Net: NetName=GND Pin=C73.15-2
+Added Pin To Net: NetName=+2V5 Pin=C73.16-1
+Added Pin To Net: NetName=GND Pin=C73.16-2
+Added Pin To Net: NetName=+2V5 Pin=C74.1-1
+Added Pin To Net: NetName=GND Pin=C74.1-2
+Added Pin To Net: NetName=+2V5 Pin=C74.2-1
+Added Pin To Net: NetName=GND Pin=C74.2-2
+Added Pin To Net: NetName=+2V5 Pin=C74.3-1
+Added Pin To Net: NetName=GND Pin=C74.3-2
+Added Pin To Net: NetName=+2V5 Pin=C74.4-1
+Added Pin To Net: NetName=GND Pin=C74.4-2
+Added Pin To Net: NetName=+2V5 Pin=C74.5-1
+Added Pin To Net: NetName=GND Pin=C74.5-2
+Added Pin To Net: NetName=+2V5 Pin=C74.6-1
+Added Pin To Net: NetName=GND Pin=C74.6-2
+Added Pin To Net: NetName=+2V5 Pin=C74.7-1
+Added Pin To Net: NetName=GND Pin=C74.7-2
+Added Pin To Net: NetName=+2V5 Pin=C74.8-1
+Added Pin To Net: NetName=GND Pin=C74.8-2
+Added Pin To Net: NetName=+2V5 Pin=C74.9-1
+Added Pin To Net: NetName=GND Pin=C74.9-2
+Added Pin To Net: NetName=+2V5 Pin=C74.10-1
+Added Pin To Net: NetName=GND Pin=C74.10-2
+Added Pin To Net: NetName=+2V5 Pin=C74.11-1
+Added Pin To Net: NetName=GND Pin=C74.11-2
+Added Pin To Net: NetName=+2V5 Pin=C74.12-1
+Added Pin To Net: NetName=GND Pin=C74.12-2
+Added Pin To Net: NetName=+2V5 Pin=C74.13-1
+Added Pin To Net: NetName=GND Pin=C74.13-2
+Added Pin To Net: NetName=+2V5 Pin=C74.14-1
+Added Pin To Net: NetName=GND Pin=C74.14-2
+Added Pin To Net: NetName=+2V5 Pin=C74.15-1
+Added Pin To Net: NetName=GND Pin=C74.15-2
+Added Pin To Net: NetName=+2V5 Pin=C74.16-1
+Added Pin To Net: NetName=GND Pin=C74.16-2
+Added Pin To Net: NetName=GND Pin=C75.1-2
+Added Pin To Net: NetName=GND Pin=C75.2-2
+Added Pin To Net: NetName=GND Pin=C75.3-2
+Added Pin To Net: NetName=GND Pin=C75.4-2
+Added Pin To Net: NetName=GND Pin=C75.5-2
+Added Pin To Net: NetName=GND Pin=C75.6-2
+Added Pin To Net: NetName=GND Pin=C75.7-2
+Added Pin To Net: NetName=GND Pin=C75.8-2
+Added Pin To Net: NetName=GND Pin=C75.9-2
+Added Pin To Net: NetName=GND Pin=C75.10-2
+Added Pin To Net: NetName=GND Pin=C75.11-2
+Added Pin To Net: NetName=GND Pin=C75.12-2
+Added Pin To Net: NetName=GND Pin=C75.13-2
+Added Pin To Net: NetName=GND Pin=C75.14-2
+Added Pin To Net: NetName=GND Pin=C75.15-2
+Added Pin To Net: NetName=GND Pin=C75.16-2
+Added Pin To Net: NetName=NetC73.1_1 Pin=C73.1-1
+Added Pin To Net: NetName=-V1.1 Pin=C73.1-2
+Added Pin To Net: NetName=NetC73.2_1 Pin=C73.2-1
+Added Pin To Net: NetName=-V1.2 Pin=C73.2-2
+Added Pin To Net: NetName=NetC73.3_1 Pin=C73.3-1
+Added Pin To Net: NetName=-V1.3 Pin=C73.3-2
+Added Pin To Net: NetName=NetC73.4_1 Pin=C73.4-1
+Added Pin To Net: NetName=-V1.4 Pin=C73.4-2
+Added Pin To Net: NetName=NetC73.5_1 Pin=C73.5-1
+Added Pin To Net: NetName=-V1.5 Pin=C73.5-2
+Added Pin To Net: NetName=NetC73.6_1 Pin=C73.6-1
+Added Pin To Net: NetName=-V1.6 Pin=C73.6-2
+Added Pin To Net: NetName=NetC73.7_1 Pin=C73.7-1
+Added Pin To Net: NetName=-V1.7 Pin=C73.7-2
+Added Pin To Net: NetName=NetC73.8_1 Pin=C73.8-1
+Added Pin To Net: NetName=-V1.8 Pin=C73.8-2
+Added Pin To Net: NetName=NetC73.9_1 Pin=C73.9-1
+Added Pin To Net: NetName=-V1.9 Pin=C73.9-2
+Added Pin To Net: NetName=NetC73.10_1 Pin=C73.10-1
+Added Pin To Net: NetName=-V1.10 Pin=C73.10-2
+Added Pin To Net: NetName=NetC73.11_1 Pin=C73.11-1
+Added Pin To Net: NetName=-V1.11 Pin=C73.11-2
+Added Pin To Net: NetName=NetC73.12_1 Pin=C73.12-1
+Added Pin To Net: NetName=-V1.12 Pin=C73.12-2
+Added Pin To Net: NetName=NetC73.13_1 Pin=C73.13-1
+Added Pin To Net: NetName=-V1.13 Pin=C73.13-2
+Added Pin To Net: NetName=NetC73.14_1 Pin=C73.14-1
+Added Pin To Net: NetName=-V1.14 Pin=C73.14-2
+Added Pin To Net: NetName=NetC73.15_1 Pin=C73.15-1
+Added Pin To Net: NetName=-V1.15 Pin=C73.15-2
+Added Pin To Net: NetName=NetC73.16_1 Pin=C73.16-1
+Added Pin To Net: NetName=-V1.16 Pin=C73.16-2
+Added Pin To Net: NetName=NetC74.1_1 Pin=C74.1-1
+Added Pin To Net: NetName=V1.1 Pin=C74.1-2
+Added Pin To Net: NetName=NetC74.2_1 Pin=C74.2-1
+Added Pin To Net: NetName=V1.2 Pin=C74.2-2
+Added Pin To Net: NetName=NetC74.3_1 Pin=C74.3-1
+Added Pin To Net: NetName=V1.3 Pin=C74.3-2
+Added Pin To Net: NetName=NetC74.4_1 Pin=C74.4-1
+Added Pin To Net: NetName=V1.4 Pin=C74.4-2
+Added Pin To Net: NetName=NetC74.5_1 Pin=C74.5-1
+Added Pin To Net: NetName=V1.5 Pin=C74.5-2
+Added Pin To Net: NetName=NetC74.6_1 Pin=C74.6-1
+Added Pin To Net: NetName=V1.6 Pin=C74.6-2
+Added Pin To Net: NetName=NetC74.7_1 Pin=C74.7-1
+Added Pin To Net: NetName=V1.7 Pin=C74.7-2
+Added Pin To Net: NetName=NetC74.8_1 Pin=C74.8-1
+Added Pin To Net: NetName=V1.8 Pin=C74.8-2
+Added Pin To Net: NetName=NetC74.9_1 Pin=C74.9-1
+Added Pin To Net: NetName=V1.9 Pin=C74.9-2
+Added Pin To Net: NetName=NetC74.10_1 Pin=C74.10-1
+Added Pin To Net: NetName=V1.10 Pin=C74.10-2
+Added Pin To Net: NetName=NetC74.11_1 Pin=C74.11-1
+Added Pin To Net: NetName=V1.11 Pin=C74.11-2
+Added Pin To Net: NetName=NetC74.12_1 Pin=C74.12-1
+Added Pin To Net: NetName=V1.12 Pin=C74.12-2
+Added Pin To Net: NetName=NetC74.13_1 Pin=C74.13-1
+Added Pin To Net: NetName=V1.13 Pin=C74.13-2
+Added Pin To Net: NetName=NetC74.14_1 Pin=C74.14-1
+Added Pin To Net: NetName=V1.14 Pin=C74.14-2
+Added Pin To Net: NetName=NetC74.15_1 Pin=C74.15-1
+Added Pin To Net: NetName=V1.15 Pin=C74.15-2
+Added Pin To Net: NetName=NetC74.16_1 Pin=C74.16-1
+Added Pin To Net: NetName=V1.16 Pin=C74.16-2
+Added Pin To Net: NetName=+2V5 Pin=C75.1-1
+Added Pin To Net: NetName=+2V5 Pin=C75.2-1
+Added Pin To Net: NetName=+2V5 Pin=C75.3-1
+Added Pin To Net: NetName=+2V5 Pin=C75.4-1
+Added Pin To Net: NetName=+2V5 Pin=C75.5-1
+Added Pin To Net: NetName=+2V5 Pin=C75.6-1
+Added Pin To Net: NetName=+2V5 Pin=C75.7-1
+Added Pin To Net: NetName=+2V5 Pin=C75.8-1
+Added Pin To Net: NetName=+2V5 Pin=C75.9-1
+Added Pin To Net: NetName=+2V5 Pin=C75.10-1
+Added Pin To Net: NetName=+2V5 Pin=C75.11-1
+Added Pin To Net: NetName=+2V5 Pin=C75.12-1
+Added Pin To Net: NetName=+2V5 Pin=C75.13-1
+Added Pin To Net: NetName=+2V5 Pin=C75.14-1
+Added Pin To Net: NetName=+2V5 Pin=C75.15-1
+Added Pin To Net: NetName=+2V5 Pin=C75.16-1
+Added Pin To Net: NetName=GND Pin=D10.1-1
+Added Pin To Net: NetName=+5VA Pin=D10.1-2
+Added Pin To Net: NetName=NetC58.1_2 Pin=D10.1-3
+Change Net Name : Old Net Name=NetC56.1_1 New Net Name=NetC59.1_1
+Change Net Name : Old Net Name=NetC56.2_1 New Net Name=NetC59.2_1
+Change Net Name : Old Net Name=NetC56.3_1 New Net Name=NetC59.3_1
+Change Net Name : Old Net Name=NetC56.4_1 New Net Name=NetC59.4_1
+Change Net Name : Old Net Name=NetC56.5_1 New Net Name=NetC59.5_1
+Change Net Name : Old Net Name=NetC56.6_1 New Net Name=NetC59.6_1
+Change Net Name : Old Net Name=NetC56.7_1 New Net Name=NetC59.7_1
+Change Net Name : Old Net Name=NetC56.8_1 New Net Name=NetC59.8_1
+Change Net Name : Old Net Name=NetC56.9_1 New Net Name=NetC59.9_1
+Change Net Name : Old Net Name=NetC56.10_1 New Net Name=NetC59.10_1
+Change Net Name : Old Net Name=NetC56.11_1 New Net Name=NetC59.11_1
+Change Net Name : Old Net Name=NetC56.12_1 New Net Name=NetC59.12_1
+Change Net Name : Old Net Name=NetC56.13_1 New Net Name=NetC59.13_1
+Change Net Name : Old Net Name=NetC56.14_1 New Net Name=NetC59.14_1
+Change Net Name : Old Net Name=NetC56.15_1 New Net Name=NetC59.15_1
+Change Net Name : Old Net Name=NetC56.16_1 New Net Name=NetC59.16_1
+Change Net Name : Old Net Name=NetC58.1_2 New Net Name=NetC61.1_2
+Change Net Name : Old Net Name=NetC58.2_2 New Net Name=NetC61.2_2
+Change Net Name : Old Net Name=NetC58.3_2 New Net Name=NetC61.3_2
+Change Net Name : Old Net Name=NetC58.4_2 New Net Name=NetC61.4_2
+Change Net Name : Old Net Name=NetC58.5_2 New Net Name=NetC61.5_2
+Change Net Name : Old Net Name=NetC58.6_2 New Net Name=NetC61.6_2
+Change Net Name : Old Net Name=NetC58.7_2 New Net Name=NetC61.7_2
+Change Net Name : Old Net Name=NetC58.8_2 New Net Name=NetC61.8_2
+Change Net Name : Old Net Name=NetC58.9_2 New Net Name=NetC61.9_2
+Change Net Name : Old Net Name=NetC58.10_2 New Net Name=NetC61.10_2
+Change Net Name : Old Net Name=NetC58.11_2 New Net Name=NetC61.11_2
+Change Net Name : Old Net Name=NetC58.12_2 New Net Name=NetC61.12_2
+Change Net Name : Old Net Name=NetC58.13_2 New Net Name=NetC61.13_2
+Change Net Name : Old Net Name=NetC58.14_2 New Net Name=NetC61.14_2
+Change Net Name : Old Net Name=NetC58.15_2 New Net Name=NetC61.15_2
+Change Net Name : Old Net Name=NetC58.16_2 New Net Name=NetC61.16_2
+Change Net Name : Old Net Name=NetC60.1_1 New Net Name=NetC63.1_1
+Change Net Name : Old Net Name=NetC60.1_2 New Net Name=NetC63.1_2
+Change Net Name : Old Net Name=NetC60.2_1 New Net Name=NetC63.2_1
+Change Net Name : Old Net Name=NetC60.2_2 New Net Name=NetC63.2_2
+Change Net Name : Old Net Name=NetC60.3_1 New Net Name=NetC63.3_1
+Change Net Name : Old Net Name=NetC60.3_2 New Net Name=NetC63.3_2
+Change Net Name : Old Net Name=NetC60.4_1 New Net Name=NetC63.4_1
+Change Net Name : Old Net Name=NetC60.4_2 New Net Name=NetC63.4_2
+Change Net Name : Old Net Name=NetC60.5_1 New Net Name=NetC63.5_1
+Change Net Name : Old Net Name=NetC60.5_2 New Net Name=NetC63.5_2
+Change Net Name : Old Net Name=NetC60.6_1 New Net Name=NetC63.6_1
+Change Net Name : Old Net Name=NetC60.6_2 New Net Name=NetC63.6_2
+Change Net Name : Old Net Name=NetC60.7_1 New Net Name=NetC63.7_1
+Change Net Name : Old Net Name=NetC60.7_2 New Net Name=NetC63.7_2
+Change Net Name : Old Net Name=NetC60.8_1 New Net Name=NetC63.8_1
+Change Net Name : Old Net Name=NetC60.8_2 New Net Name=NetC63.8_2
+Change Net Name : Old Net Name=NetC60.9_1 New Net Name=NetC63.9_1
+Change Net Name : Old Net Name=NetC60.9_2 New Net Name=NetC63.9_2
+Change Net Name : Old Net Name=NetC60.10_1 New Net Name=NetC63.10_1
+Change Net Name : Old Net Name=NetC60.10_2 New Net Name=NetC63.10_2
+Change Net Name : Old Net Name=NetC60.11_1 New Net Name=NetC63.11_1
+Change Net Name : Old Net Name=NetC60.11_2 New Net Name=NetC63.11_2
+Change Net Name : Old Net Name=NetC60.12_1 New Net Name=NetC63.12_1
+Change Net Name : Old Net Name=NetC60.12_2 New Net Name=NetC63.12_2
+Change Net Name : Old Net Name=NetC60.13_1 New Net Name=NetC63.13_1
+Change Net Name : Old Net Name=NetC60.13_2 New Net Name=NetC63.13_2
+Change Net Name : Old Net Name=NetC60.14_1 New Net Name=NetC63.14_1
+Change Net Name : Old Net Name=NetC60.14_2 New Net Name=NetC63.14_2
+Change Net Name : Old Net Name=NetC60.15_1 New Net Name=NetC63.15_1
+Change Net Name : Old Net Name=NetC60.15_2 New Net Name=NetC63.15_2
+Change Net Name : Old Net Name=NetC60.16_1 New Net Name=NetC63.16_1
+Change Net Name : Old Net Name=NetC60.16_2 New Net Name=NetC63.16_2
+Change Net Name : Old Net Name=NetC61.1_2 New Net Name=NetC64.1_2
+Change Net Name : Old Net Name=NetC61.2_2 New Net Name=NetC64.2_2
+Change Net Name : Old Net Name=NetC61.3_2 New Net Name=NetC64.3_2
+Change Net Name : Old Net Name=NetC61.4_2 New Net Name=NetC64.4_2
+Change Net Name : Old Net Name=NetC61.5_2 New Net Name=NetC64.5_2
+Change Net Name : Old Net Name=NetC61.6_2 New Net Name=NetC64.6_2
+Change Net Name : Old Net Name=NetC61.7_2 New Net Name=NetC64.7_2
+Change Net Name : Old Net Name=NetC61.8_2 New Net Name=NetC64.8_2
+Change Net Name : Old Net Name=NetC61.9_2 New Net Name=NetC64.9_2
+Change Net Name : Old Net Name=NetC61.10_2 New Net Name=NetC64.10_2
+Change Net Name : Old Net Name=NetC61.11_2 New Net Name=NetC64.11_2
+Change Net Name : Old Net Name=NetC61.12_2 New Net Name=NetC64.12_2
+Change Net Name : Old Net Name=NetC61.13_2 New Net Name=NetC64.13_2
+Change Net Name : Old Net Name=NetC61.14_2 New Net Name=NetC64.14_2
+Change Net Name : Old Net Name=NetC61.15_2 New Net Name=NetC64.15_2
+Change Net Name : Old Net Name=NetC61.16_2 New Net Name=NetC64.16_2
+Change Net Name : Old Net Name=NetC67.1_2 New Net Name=NetC70.1_2
+Change Net Name : Old Net Name=NetC67.2_2 New Net Name=NetC70.2_2
+Change Net Name : Old Net Name=NetC67.3_2 New Net Name=NetC70.3_2
+Change Net Name : Old Net Name=NetC67.4_2 New Net Name=NetC70.4_2
+Change Net Name : Old Net Name=NetC67.5_2 New Net Name=NetC70.5_2
+Change Net Name : Old Net Name=NetC67.6_2 New Net Name=NetC70.6_2
+Change Net Name : Old Net Name=NetC67.7_2 New Net Name=NetC70.7_2
+Change Net Name : Old Net Name=NetC67.8_2 New Net Name=NetC70.8_2
+Change Net Name : Old Net Name=NetC67.9_2 New Net Name=NetC70.9_2
+Change Net Name : Old Net Name=NetC67.10_2 New Net Name=NetC70.10_2
+Change Net Name : Old Net Name=NetC67.11_2 New Net Name=NetC70.11_2
+Change Net Name : Old Net Name=NetC67.12_2 New Net Name=NetC70.12_2
+Change Net Name : Old Net Name=NetC67.13_2 New Net Name=NetC70.13_2
+Change Net Name : Old Net Name=NetC67.14_2 New Net Name=NetC70.14_2
+Change Net Name : Old Net Name=NetC67.15_2 New Net Name=NetC70.15_2
+Change Net Name : Old Net Name=NetC67.16_2 New Net Name=NetC70.16_2
+Change Net Name : Old Net Name=NetC69.1_1 New Net Name=NetC72.1_1
+Change Net Name : Old Net Name=NetC69.1_2 New Net Name=NetC72.1_2
+Change Net Name : Old Net Name=NetC69.2_1 New Net Name=NetC72.2_1
+Change Net Name : Old Net Name=NetC69.2_2 New Net Name=NetC72.2_2
+Change Net Name : Old Net Name=NetC69.3_1 New Net Name=NetC72.3_1
+Change Net Name : Old Net Name=NetC69.3_2 New Net Name=NetC72.3_2
+Change Net Name : Old Net Name=NetC69.4_1 New Net Name=NetC72.4_1
+Change Net Name : Old Net Name=NetC69.4_2 New Net Name=NetC72.4_2
+Change Net Name : Old Net Name=NetC69.5_1 New Net Name=NetC72.5_1
+Change Net Name : Old Net Name=NetC69.5_2 New Net Name=NetC72.5_2
+Change Net Name : Old Net Name=NetC69.6_1 New Net Name=NetC72.6_1
+Change Net Name : Old Net Name=NetC69.6_2 New Net Name=NetC72.6_2
+Change Net Name : Old Net Name=NetC69.7_1 New Net Name=NetC72.7_1
+Change Net Name : Old Net Name=NetC69.7_2 New Net Name=NetC72.7_2
+Change Net Name : Old Net Name=NetC69.8_1 New Net Name=NetC72.8_1
+Change Net Name : Old Net Name=NetC69.8_2 New Net Name=NetC72.8_2
+Change Net Name : Old Net Name=NetC69.9_1 New Net Name=NetC72.9_1
+Change Net Name : Old Net Name=NetC69.9_2 New Net Name=NetC72.9_2
+Change Net Name : Old Net Name=NetC69.10_1 New Net Name=NetC72.10_1
+Change Net Name : Old Net Name=NetC69.10_2 New Net Name=NetC72.10_2
+Change Net Name : Old Net Name=NetC69.11_1 New Net Name=NetC72.11_1
+Change Net Name : Old Net Name=NetC69.11_2 New Net Name=NetC72.11_2
+Change Net Name : Old Net Name=NetC69.12_1 New Net Name=NetC72.12_1
+Change Net Name : Old Net Name=NetC69.12_2 New Net Name=NetC72.12_2
+Change Net Name : Old Net Name=NetC69.13_1 New Net Name=NetC72.13_1
+Change Net Name : Old Net Name=NetC69.13_2 New Net Name=NetC72.13_2
+Change Net Name : Old Net Name=NetC69.14_1 New Net Name=NetC72.14_1
+Change Net Name : Old Net Name=NetC69.14_2 New Net Name=NetC72.14_2
+Change Net Name : Old Net Name=NetC69.15_1 New Net Name=NetC72.15_1
+Change Net Name : Old Net Name=NetC69.15_2 New Net Name=NetC72.15_2
+Change Net Name : Old Net Name=NetC69.16_1 New Net Name=NetC72.16_1
+Change Net Name : Old Net Name=NetC69.16_2 New Net Name=NetC72.16_2
+Change Net Name : Old Net Name=NetC73.1_1 New Net Name=NetC76.1_1
+Change Net Name : Old Net Name=NetC73.2_1 New Net Name=NetC76.2_1
+Change Net Name : Old Net Name=NetC73.3_1 New Net Name=NetC76.3_1
+Change Net Name : Old Net Name=NetC73.4_1 New Net Name=NetC76.4_1
+Change Net Name : Old Net Name=NetC73.5_1 New Net Name=NetC76.5_1
+Change Net Name : Old Net Name=NetC73.6_1 New Net Name=NetC76.6_1
+Change Net Name : Old Net Name=NetC73.7_1 New Net Name=NetC76.7_1
+Change Net Name : Old Net Name=NetC73.8_1 New Net Name=NetC76.8_1
+Change Net Name : Old Net Name=NetC73.9_1 New Net Name=NetC76.9_1
+Change Net Name : Old Net Name=NetC73.10_1 New Net Name=NetC76.10_1
+Change Net Name : Old Net Name=NetC73.11_1 New Net Name=NetC76.11_1
+Change Net Name : Old Net Name=NetC73.12_1 New Net Name=NetC76.12_1
+Change Net Name : Old Net Name=NetC73.13_1 New Net Name=NetC76.13_1
+Change Net Name : Old Net Name=NetC73.14_1 New Net Name=NetC76.14_1
+Change Net Name : Old Net Name=NetC73.15_1 New Net Name=NetC76.15_1
+Change Net Name : Old Net Name=NetC73.16_1 New Net Name=NetC76.16_1
+Change Net Name : Old Net Name=NetC74.1_1 New Net Name=NetC77.1_1
+Change Net Name : Old Net Name=NetC74.2_1 New Net Name=NetC77.2_1
+Change Net Name : Old Net Name=NetC74.3_1 New Net Name=NetC77.3_1
+Change Net Name : Old Net Name=NetC74.4_1 New Net Name=NetC77.4_1
+Change Net Name : Old Net Name=NetC74.5_1 New Net Name=NetC77.5_1
+Change Net Name : Old Net Name=NetC74.6_1 New Net Name=NetC77.6_1
+Change Net Name : Old Net Name=NetC74.7_1 New Net Name=NetC77.7_1
+Change Net Name : Old Net Name=NetC74.8_1 New Net Name=NetC77.8_1
+Change Net Name : Old Net Name=NetC74.9_1 New Net Name=NetC77.9_1
+Change Net Name : Old Net Name=NetC74.10_1 New Net Name=NetC77.10_1
+Change Net Name : Old Net Name=NetC74.11_1 New Net Name=NetC77.11_1
+Change Net Name : Old Net Name=NetC74.12_1 New Net Name=NetC77.12_1
+Change Net Name : Old Net Name=NetC74.13_1 New Net Name=NetC77.13_1
+Change Net Name : Old Net Name=NetC74.14_1 New Net Name=NetC77.14_1
+Change Net Name : Old Net Name=NetC74.15_1 New Net Name=NetC77.15_1
+Change Net Name : Old Net Name=NetC74.16_1 New Net Name=NetC77.16_1
+Change Net Name : Old Net Name=NetC76.1_1 New Net Name=NetC79.1_1
+Change Net Name : Old Net Name=NetC76.1_2 New Net Name=NetC79.1_2
+Change Net Name : Old Net Name=NetC76.2_1 New Net Name=NetC79.2_1
+Change Net Name : Old Net Name=NetC76.2_2 New Net Name=NetC79.2_2
+Change Net Name : Old Net Name=NetC76.3_1 New Net Name=NetC79.3_1
+Change Net Name : Old Net Name=NetC76.3_2 New Net Name=NetC79.3_2
+Change Net Name : Old Net Name=NetC76.4_1 New Net Name=NetC79.4_1
+Change Net Name : Old Net Name=NetC76.4_2 New Net Name=NetC79.4_2
+Change Net Name : Old Net Name=NetC76.5_1 New Net Name=NetC79.5_1
+Change Net Name : Old Net Name=NetC76.5_2 New Net Name=NetC79.5_2
+Change Net Name : Old Net Name=NetC76.6_1 New Net Name=NetC79.6_1
+Change Net Name : Old Net Name=NetC76.6_2 New Net Name=NetC79.6_2
+Change Net Name : Old Net Name=NetC76.7_1 New Net Name=NetC79.7_1
+Change Net Name : Old Net Name=NetC76.7_2 New Net Name=NetC79.7_2
+Change Net Name : Old Net Name=NetC76.8_1 New Net Name=NetC79.8_1
+Change Net Name : Old Net Name=NetC76.8_2 New Net Name=NetC79.8_2
+Change Net Name : Old Net Name=NetC76.9_1 New Net Name=NetC79.9_1
+Change Net Name : Old Net Name=NetC76.9_2 New Net Name=NetC79.9_2
+Change Net Name : Old Net Name=NetC76.10_1 New Net Name=NetC79.10_1
+Change Net Name : Old Net Name=NetC76.10_2 New Net Name=NetC79.10_2
+Change Net Name : Old Net Name=NetC76.11_1 New Net Name=NetC79.11_1
+Change Net Name : Old Net Name=NetC76.11_2 New Net Name=NetC79.11_2
+Change Net Name : Old Net Name=NetC76.12_1 New Net Name=NetC79.12_1
+Change Net Name : Old Net Name=NetC76.12_2 New Net Name=NetC79.12_2
+Change Net Name : Old Net Name=NetC76.13_1 New Net Name=NetC79.13_1
+Change Net Name : Old Net Name=NetC76.13_2 New Net Name=NetC79.13_2
+Change Net Name : Old Net Name=NetC76.14_1 New Net Name=NetC79.14_1
+Change Net Name : Old Net Name=NetC76.14_2 New Net Name=NetC79.14_2
+Change Net Name : Old Net Name=NetC76.15_1 New Net Name=NetC79.15_1
+Change Net Name : Old Net Name=NetC76.15_2 New Net Name=NetC79.15_2
+Change Net Name : Old Net Name=NetC76.16_1 New Net Name=NetC79.16_1
+Change Net Name : Old Net Name=NetC76.16_2 New Net Name=NetC79.16_2
+Change Net Name : Old Net Name=NetC77.1_1 New Net Name=NetC80.1_1
+Change Net Name : Old Net Name=NetC77.2_1 New Net Name=NetC80.2_1
+Change Net Name : Old Net Name=NetC77.3_1 New Net Name=NetC80.3_1
+Change Net Name : Old Net Name=NetC77.4_1 New Net Name=NetC80.4_1
+Change Net Name : Old Net Name=NetC77.5_1 New Net Name=NetC80.5_1
+Change Net Name : Old Net Name=NetC77.6_1 New Net Name=NetC80.6_1
+Change Net Name : Old Net Name=NetC77.7_1 New Net Name=NetC80.7_1
+Change Net Name : Old Net Name=NetC77.8_1 New Net Name=NetC80.8_1
+Change Net Name : Old Net Name=NetC77.9_1 New Net Name=NetC80.9_1
+Change Net Name : Old Net Name=NetC77.10_1 New Net Name=NetC80.10_1
+Change Net Name : Old Net Name=NetC77.11_1 New Net Name=NetC80.11_1
+Change Net Name : Old Net Name=NetC77.12_1 New Net Name=NetC80.12_1
+Change Net Name : Old Net Name=NetC77.13_1 New Net Name=NetC80.13_1
+Change Net Name : Old Net Name=NetC77.14_1 New Net Name=NetC80.14_1
+Change Net Name : Old Net Name=NetC77.15_1 New Net Name=NetC80.15_1
+Change Net Name : Old Net Name=NetC77.16_1 New Net Name=NetC80.16_1
+Change Net Name : Old Net Name=NetC79_2 New Net Name=NetC82_2
+Change Net Name : Old Net Name=NetC80_1 New Net Name=NetC83_1
+Change Net Name : Old Net Name=NetC80_2 New Net Name=NetC83_2
+Change Net Name : Old Net Name=NetC82_1 New Net Name=NetC85_1
+Change Net Name : Old Net Name=NetC86_1 New Net Name=NetC89_1
+Change Net Name : Old Net Name=NetC86_2 New Net Name=NetC89_2
+Change Net Name : Old Net Name=NetC90_1 New Net Name=NetC93_1
+Change Net Name : Old Net Name=NetC91_1 New Net Name=NetC94_1
+Change Net Name : Old Net Name=NetC118.1_1 New Net Name=NetC121.1_1
+Change Net Name : Old Net Name=NetC118.2_1 New Net Name=NetC121.2_1
+Change Net Name : Old Net Name=NetC120.1_+ New Net Name=NetC123.1_+
+Change Net Name : Old Net Name=NetC120.2_+ New Net Name=NetC123.2_+
+Change Net Name : Old Net Name=NetC122.1_1 New Net Name=NetC125.1_1
+Change Net Name : Old Net Name=NetC122.2_1 New Net Name=NetC125.2_1
+Change Net Name : Old Net Name=NetC126.1_1 New Net Name=NetC129.1_1
+Change Net Name : Old Net Name=NetC126.1_2 New Net Name=NetC129.1_2
+Change Net Name : Old Net Name=NetC126.2_1 New Net Name=NetC129.2_1
+Change Net Name : Old Net Name=NetC126.2_2 New Net Name=NetC129.2_2
+Change Net Name : Old Net Name=NetC126.3_1 New Net Name=NetC129.3_1
+Change Net Name : Old Net Name=NetC126.3_2 New Net Name=NetC129.3_2
+Change Net Name : Old Net Name=NetC126.4_1 New Net Name=NetC129.4_1
+Change Net Name : Old Net Name=NetC126.4_2 New Net Name=NetC129.4_2
+Change Net Name : Old Net Name=NetC126.5_1 New Net Name=NetC129.5_1
+Change Net Name : Old Net Name=NetC126.5_2 New Net Name=NetC129.5_2
+Change Net Name : Old Net Name=NetC126.6_1 New Net Name=NetC129.6_1
+Change Net Name : Old Net Name=NetC126.6_2 New Net Name=NetC129.6_2
+Change Net Name : Old Net Name=NetC126.7_1 New Net Name=NetC129.7_1
+Change Net Name : Old Net Name=NetC126.7_2 New Net Name=NetC129.7_2
+Change Net Name : Old Net Name=NetC126.8_1 New Net Name=NetC129.8_1
+Change Net Name : Old Net Name=NetC126.8_2 New Net Name=NetC129.8_2
+Change Net Name : Old Net Name=NetC127.1_2 New Net Name=NetC130.1_2
+Change Net Name : Old Net Name=NetC127.2_2 New Net Name=NetC130.2_2
+Change Net Name : Old Net Name=NetC127.3_2 New Net Name=NetC130.3_2
+Change Net Name : Old Net Name=NetC127.4_2 New Net Name=NetC130.4_2
+Change Net Name : Old Net Name=NetC127.5_2 New Net Name=NetC130.5_2
+Change Net Name : Old Net Name=NetC127.6_2 New Net Name=NetC130.6_2
+Change Net Name : Old Net Name=NetC127.7_2 New Net Name=NetC130.7_2
+Change Net Name : Old Net Name=NetC127.8_2 New Net Name=NetC130.8_2
+Change Net Name : Old Net Name=NetC131.1_2 New Net Name=NetC134.1_2
+Change Net Name : Old Net Name=NetC131.2_2 New Net Name=NetC134.2_2
+Change Net Name : Old Net Name=NetC131.3_2 New Net Name=NetC134.3_2
+Change Net Name : Old Net Name=NetC131.4_2 New Net Name=NetC134.4_2
+Change Net Name : Old Net Name=NetC131.5_2 New Net Name=NetC134.5_2
+Change Net Name : Old Net Name=NetC131.6_2 New Net Name=NetC134.6_2
+Change Net Name : Old Net Name=NetC131.7_2 New Net Name=NetC134.7_2
+Change Net Name : Old Net Name=NetC131.8_2 New Net Name=NetC134.8_2
+Change Net Name : Old Net Name=NetC132.1_2 New Net Name=NetC135.1_2
+Change Net Name : Old Net Name=NetC132.2_2 New Net Name=NetC135.2_2
+Change Net Name : Old Net Name=NetC132.3_2 New Net Name=NetC135.3_2
+Change Net Name : Old Net Name=NetC132.4_2 New Net Name=NetC135.4_2
+Change Net Name : Old Net Name=NetC132.5_2 New Net Name=NetC135.5_2
+Change Net Name : Old Net Name=NetC132.6_2 New Net Name=NetC135.6_2
+Change Net Name : Old Net Name=NetC132.7_2 New Net Name=NetC135.7_2
+Change Net Name : Old Net Name=NetC132.8_2 New Net Name=NetC135.8_2
+Change Net Name : Old Net Name=NetC133.1_1 New Net Name=NetC136.1_1
+Change Net Name : Old Net Name=NetC133.1_2 New Net Name=NetC136.1_2
+Change Net Name : Old Net Name=NetC133.2_1 New Net Name=NetC136.2_1
+Change Net Name : Old Net Name=NetC133.2_2 New Net Name=NetC136.2_2
+Change Net Name : Old Net Name=NetC133.3_1 New Net Name=NetC136.3_1
+Change Net Name : Old Net Name=NetC133.3_2 New Net Name=NetC136.3_2
+Change Net Name : Old Net Name=NetC133.4_1 New Net Name=NetC136.4_1
+Change Net Name : Old Net Name=NetC133.4_2 New Net Name=NetC136.4_2
+Change Net Name : Old Net Name=NetC133.5_1 New Net Name=NetC136.5_1
+Change Net Name : Old Net Name=NetC133.5_2 New Net Name=NetC136.5_2
+Change Net Name : Old Net Name=NetC133.6_1 New Net Name=NetC136.6_1
+Change Net Name : Old Net Name=NetC133.6_2 New Net Name=NetC136.6_2
+Change Net Name : Old Net Name=NetC133.7_1 New Net Name=NetC136.7_1
+Change Net Name : Old Net Name=NetC133.7_2 New Net Name=NetC136.7_2
+Change Net Name : Old Net Name=NetC133.8_1 New Net Name=NetC136.8_1
+Change Net Name : Old Net Name=NetC133.8_2 New Net Name=NetC136.8_2
+Change Net Name : Old Net Name=NetC134.1_1 New Net Name=NetC137.1_1
+Change Net Name : Old Net Name=NetC134.2_1 New Net Name=NetC137.2_1
+Change Net Name : Old Net Name=NetC134.3_1 New Net Name=NetC137.3_1
+Change Net Name : Old Net Name=NetC134.4_1 New Net Name=NetC137.4_1
+Change Net Name : Old Net Name=NetC134.5_1 New Net Name=NetC137.5_1
+Change Net Name : Old Net Name=NetC134.6_1 New Net Name=NetC137.6_1
+Change Net Name : Old Net Name=NetC134.7_1 New Net Name=NetC137.7_1
+Change Net Name : Old Net Name=NetC134.8_1 New Net Name=NetC137.8_1
+Change Net Name : Old Net Name=NetC135.1_2 New Net Name=NetC138.1_2
+Change Net Name : Old Net Name=NetC135.2_2 New Net Name=NetC138.2_2
+Change Net Name : Old Net Name=NetC135.3_2 New Net Name=NetC138.3_2
+Change Net Name : Old Net Name=NetC135.4_2 New Net Name=NetC138.4_2
+Change Net Name : Old Net Name=NetC135.5_2 New Net Name=NetC138.5_2
+Change Net Name : Old Net Name=NetC135.6_2 New Net Name=NetC138.6_2
+Change Net Name : Old Net Name=NetC135.7_2 New Net Name=NetC138.7_2
+Change Net Name : Old Net Name=NetC135.8_2 New Net Name=NetC138.8_2
+Change Net Name : Old Net Name=NetC136.1_1 New Net Name=NetC139.1_1
+Change Net Name : Old Net Name=NetC136.1_2 New Net Name=NetC139.1_2
+Change Net Name : Old Net Name=NetC136.2_1 New Net Name=NetC139.2_1
+Change Net Name : Old Net Name=NetC136.2_2 New Net Name=NetC139.2_2
+Change Net Name : Old Net Name=NetC136.3_1 New Net Name=NetC139.3_1
+Change Net Name : Old Net Name=NetC136.3_2 New Net Name=NetC139.3_2
+Change Net Name : Old Net Name=NetC136.4_1 New Net Name=NetC139.4_1
+Change Net Name : Old Net Name=NetC136.4_2 New Net Name=NetC139.4_2
+Change Net Name : Old Net Name=NetC136.5_1 New Net Name=NetC139.5_1
+Change Net Name : Old Net Name=NetC136.5_2 New Net Name=NetC139.5_2
+Change Net Name : Old Net Name=NetC136.6_1 New Net Name=NetC139.6_1
+Change Net Name : Old Net Name=NetC136.6_2 New Net Name=NetC139.6_2
+Change Net Name : Old Net Name=NetC136.7_1 New Net Name=NetC139.7_1
+Change Net Name : Old Net Name=NetC136.7_2 New Net Name=NetC139.7_2
+Change Net Name : Old Net Name=NetC136.8_1 New Net Name=NetC139.8_1
+Change Net Name : Old Net Name=NetC136.8_2 New Net Name=NetC139.8_2
+Change Net Name : Old Net Name=NetC137.1_2 New Net Name=NetC140.1_2
+Change Net Name : Old Net Name=NetC137.2_2 New Net Name=NetC140.2_2
+Change Net Name : Old Net Name=NetC137.3_2 New Net Name=NetC140.3_2
+Change Net Name : Old Net Name=NetC137.4_2 New Net Name=NetC140.4_2
+Change Net Name : Old Net Name=NetC137.5_2 New Net Name=NetC140.5_2
+Change Net Name : Old Net Name=NetC137.6_2 New Net Name=NetC140.6_2
+Change Net Name : Old Net Name=NetC137.7_2 New Net Name=NetC140.7_2
+Change Net Name : Old Net Name=NetC137.8_2 New Net Name=NetC140.8_2
+Change Net Name : Old Net Name=NetC138.1_2 New Net Name=NetC141.1_2
+Change Net Name : Old Net Name=NetC138.2_2 New Net Name=NetC141.2_2
+Change Net Name : Old Net Name=NetC138.3_2 New Net Name=NetC141.3_2
+Change Net Name : Old Net Name=NetC138.4_2 New Net Name=NetC141.4_2
+Change Net Name : Old Net Name=NetC138.5_2 New Net Name=NetC141.5_2
+Change Net Name : Old Net Name=NetC138.6_2 New Net Name=NetC141.6_2
+Change Net Name : Old Net Name=NetC138.7_2 New Net Name=NetC141.7_2
+Change Net Name : Old Net Name=NetC138.8_2 New Net Name=NetC141.8_2
+Change Net Name : Old Net Name=NetC139.1_2 New Net Name=NetC142.1_2
+Change Net Name : Old Net Name=NetC139.2_2 New Net Name=NetC142.2_2
+Change Net Name : Old Net Name=NetC139.3_2 New Net Name=NetC142.3_2
+Change Net Name : Old Net Name=NetC139.4_2 New Net Name=NetC142.4_2
+Change Net Name : Old Net Name=NetC139.5_2 New Net Name=NetC142.5_2
+Change Net Name : Old Net Name=NetC139.6_2 New Net Name=NetC142.6_2
+Change Net Name : Old Net Name=NetC139.7_2 New Net Name=NetC142.7_2
+Change Net Name : Old Net Name=NetC139.8_2 New Net Name=NetC142.8_2
+Change Net Name : Old Net Name=NetC140.1_1 New Net Name=NetC143.1_1
+Change Net Name : Old Net Name=NetC140.1_2 New Net Name=NetC143.1_2
+Change Net Name : Old Net Name=NetC140.2_1 New Net Name=NetC143.2_1
+Change Net Name : Old Net Name=NetC140.2_2 New Net Name=NetC143.2_2
+Change Net Name : Old Net Name=NetC140.3_1 New Net Name=NetC143.3_1
+Change Net Name : Old Net Name=NetC140.3_2 New Net Name=NetC143.3_2
+Change Net Name : Old Net Name=NetC140.4_1 New Net Name=NetC143.4_1
+Change Net Name : Old Net Name=NetC140.4_2 New Net Name=NetC143.4_2
+Change Net Name : Old Net Name=NetC140.5_1 New Net Name=NetC143.5_1
+Change Net Name : Old Net Name=NetC140.5_2 New Net Name=NetC143.5_2
+Change Net Name : Old Net Name=NetC140.6_1 New Net Name=NetC143.6_1
+Change Net Name : Old Net Name=NetC140.6_2 New Net Name=NetC143.6_2
+Change Net Name : Old Net Name=NetC140.7_1 New Net Name=NetC143.7_1
+Change Net Name : Old Net Name=NetC140.7_2 New Net Name=NetC143.7_2
+Change Net Name : Old Net Name=NetC140.8_1 New Net Name=NetC143.8_1
+Change Net Name : Old Net Name=NetC140.8_2 New Net Name=NetC143.8_2
+Change Net Name : Old Net Name=NetC141.1_1 New Net Name=NetC144.1_1
+Change Net Name : Old Net Name=NetC141.2_1 New Net Name=NetC144.2_1
+Change Net Name : Old Net Name=NetC141.3_1 New Net Name=NetC144.3_1
+Change Net Name : Old Net Name=NetC141.4_1 New Net Name=NetC144.4_1
+Change Net Name : Old Net Name=NetC141.5_1 New Net Name=NetC144.5_1
+Change Net Name : Old Net Name=NetC141.6_1 New Net Name=NetC144.6_1
+Change Net Name : Old Net Name=NetC141.7_1 New Net Name=NetC144.7_1
+Change Net Name : Old Net Name=NetC141.8_1 New Net Name=NetC144.8_1
+Change Net Name : Old Net Name=NetC142.1_2 New Net Name=NetC145.1_2
+Change Net Name : Old Net Name=NetC142.2_2 New Net Name=NetC145.2_2
+Change Net Name : Old Net Name=NetC142.3_2 New Net Name=NetC145.3_2
+Change Net Name : Old Net Name=NetC142.4_2 New Net Name=NetC145.4_2
+Change Net Name : Old Net Name=NetC142.5_2 New Net Name=NetC145.5_2
+Change Net Name : Old Net Name=NetC142.6_2 New Net Name=NetC145.6_2
+Change Net Name : Old Net Name=NetC142.7_2 New Net Name=NetC145.7_2
+Change Net Name : Old Net Name=NetC142.8_2 New Net Name=NetC145.8_2
+Change Net Name : Old Net Name=NetC143_1 New Net Name=NetC146_1
+Change Net Name : Old Net Name=NetC144_1 New Net Name=NetC147_1
+Change Net Name : Old Net Name=NetC146_1 New Net Name=NetC149_1
+Change Net Name : Old Net Name=NetC147_1 New Net Name=NetC150_1
+Change Net Name : Old Net Name=NetC177_- New Net Name=NetC180_-
+Change Net Name : Old Net Name=NetC179_- New Net Name=NetC182_-
+Added Pin To Net: NetName=NetC59.1_2 Pin=C56.1-2
+Added Pin To Net: NetName=NetC59.1_2 Pin=R40.1-1
+Added Pin To Net: NetName=NetC59.1_2 Pin=U16.1-1
+Added Net: Name=NetC59.1_2
+Added Pin To Net: NetName=NetC59.2_2 Pin=C56.2-2
+Added Pin To Net: NetName=NetC59.2_2 Pin=R40.2-1
+Added Pin To Net: NetName=NetC59.2_2 Pin=U16.2-1
+Added Net: Name=NetC59.2_2
+Added Pin To Net: NetName=NetC59.3_2 Pin=C56.3-2
+Added Pin To Net: NetName=NetC59.3_2 Pin=R40.3-1
+Added Pin To Net: NetName=NetC59.3_2 Pin=U16.3-1
+Added Net: Name=NetC59.3_2
+Added Pin To Net: NetName=NetC59.4_2 Pin=C56.4-2
+Added Pin To Net: NetName=NetC59.4_2 Pin=R40.4-1
+Added Pin To Net: NetName=NetC59.4_2 Pin=U16.4-1
+Added Net: Name=NetC59.4_2
+Added Pin To Net: NetName=NetC59.5_2 Pin=C56.5-2
+Added Pin To Net: NetName=NetC59.5_2 Pin=R40.5-1
+Added Pin To Net: NetName=NetC59.5_2 Pin=U16.5-1
+Added Net: Name=NetC59.5_2
+Added Pin To Net: NetName=NetC59.6_2 Pin=C56.6-2
+Added Pin To Net: NetName=NetC59.6_2 Pin=R40.6-1
+Added Pin To Net: NetName=NetC59.6_2 Pin=U16.6-1
+Added Net: Name=NetC59.6_2
+Added Pin To Net: NetName=NetC59.7_2 Pin=C56.7-2
+Added Pin To Net: NetName=NetC59.7_2 Pin=R40.7-1
+Added Pin To Net: NetName=NetC59.7_2 Pin=U16.7-1
+Added Net: Name=NetC59.7_2
+Added Pin To Net: NetName=NetC59.8_2 Pin=C56.8-2
+Added Pin To Net: NetName=NetC59.8_2 Pin=R40.8-1
+Added Pin To Net: NetName=NetC59.8_2 Pin=U16.8-1
+Added Net: Name=NetC59.8_2
+Added Pin To Net: NetName=NetC59.9_2 Pin=C56.9-2
+Added Pin To Net: NetName=NetC59.9_2 Pin=R40.9-1
+Added Pin To Net: NetName=NetC59.9_2 Pin=U16.9-1
+Added Net: Name=NetC59.9_2
+Added Pin To Net: NetName=NetC59.10_2 Pin=C56.10-2
+Added Pin To Net: NetName=NetC59.10_2 Pin=R40.10-1
+Added Pin To Net: NetName=NetC59.10_2 Pin=U16.10-1
+Added Net: Name=NetC59.10_2
+Added Pin To Net: NetName=NetC59.11_2 Pin=C56.11-2
+Added Pin To Net: NetName=NetC59.11_2 Pin=R40.11-1
+Added Pin To Net: NetName=NetC59.11_2 Pin=U16.11-1
+Added Net: Name=NetC59.11_2
+Added Pin To Net: NetName=NetC59.12_2 Pin=C56.12-2
+Added Pin To Net: NetName=NetC59.12_2 Pin=R40.12-1
+Added Pin To Net: NetName=NetC59.12_2 Pin=U16.12-1
+Added Net: Name=NetC59.12_2
+Added Pin To Net: NetName=NetC59.13_2 Pin=C56.13-2
+Added Pin To Net: NetName=NetC59.13_2 Pin=R40.13-1
+Added Pin To Net: NetName=NetC59.13_2 Pin=U16.13-1
+Added Net: Name=NetC59.13_2
+Added Pin To Net: NetName=NetC59.14_2 Pin=C56.14-2
+Added Pin To Net: NetName=NetC59.14_2 Pin=R40.14-1
+Added Pin To Net: NetName=NetC59.14_2 Pin=U16.14-1
+Added Net: Name=NetC59.14_2
+Added Pin To Net: NetName=NetC59.15_2 Pin=C56.15-2
+Added Pin To Net: NetName=NetC59.15_2 Pin=R40.15-1
+Added Pin To Net: NetName=NetC59.15_2 Pin=U16.15-1
+Added Net: Name=NetC59.15_2
+Added Pin To Net: NetName=NetC59.16_2 Pin=C56.16-2
+Added Pin To Net: NetName=NetC59.16_2 Pin=R40.16-1
+Added Pin To Net: NetName=NetC59.16_2 Pin=U16.16-1
+Added Net: Name=NetC59.16_2
+Added Pin To Net: NetName=NetC61.1_1 Pin=C58.1-1
+Added Pin To Net: NetName=NetC61.1_1 Pin=R37.1-2
+Added Pin To Net: NetName=NetC61.1_1 Pin=R39.1-1
+Added Net: Name=NetC61.1_1
+Added Pin To Net: NetName=NetC61.2_1 Pin=C58.2-1
+Added Pin To Net: NetName=NetC61.2_1 Pin=R37.2-2
+Added Pin To Net: NetName=NetC61.2_1 Pin=R39.2-1
+Added Net: Name=NetC61.2_1
+Added Pin To Net: NetName=NetC61.3_1 Pin=C58.3-1
+Added Pin To Net: NetName=NetC61.3_1 Pin=R37.3-2
+Added Pin To Net: NetName=NetC61.3_1 Pin=R39.3-1
+Added Net: Name=NetC61.3_1
+Added Pin To Net: NetName=NetC61.4_1 Pin=C58.4-1
+Added Pin To Net: NetName=NetC61.4_1 Pin=R37.4-2
+Added Pin To Net: NetName=NetC61.4_1 Pin=R39.4-1
+Added Net: Name=NetC61.4_1
+Added Pin To Net: NetName=NetC61.5_1 Pin=C58.5-1
+Added Pin To Net: NetName=NetC61.5_1 Pin=R37.5-2
+Added Pin To Net: NetName=NetC61.5_1 Pin=R39.5-1
+Added Net: Name=NetC61.5_1
+Added Pin To Net: NetName=NetC61.6_1 Pin=C58.6-1
+Added Pin To Net: NetName=NetC61.6_1 Pin=R37.6-2
+Added Pin To Net: NetName=NetC61.6_1 Pin=R39.6-1
+Added Net: Name=NetC61.6_1
+Added Pin To Net: NetName=NetC61.7_1 Pin=C58.7-1
+Added Pin To Net: NetName=NetC61.7_1 Pin=R37.7-2
+Added Pin To Net: NetName=NetC61.7_1 Pin=R39.7-1
+Added Net: Name=NetC61.7_1
+Added Pin To Net: NetName=NetC61.8_1 Pin=C58.8-1
+Added Pin To Net: NetName=NetC61.8_1 Pin=R37.8-2
+Added Pin To Net: NetName=NetC61.8_1 Pin=R39.8-1
+Added Net: Name=NetC61.8_1
+Added Pin To Net: NetName=NetC61.9_1 Pin=C58.9-1
+Added Pin To Net: NetName=NetC61.9_1 Pin=R37.9-2
+Added Pin To Net: NetName=NetC61.9_1 Pin=R39.9-1
+Added Net: Name=NetC61.9_1
+Added Pin To Net: NetName=NetC61.10_1 Pin=C58.10-1
+Added Pin To Net: NetName=NetC61.10_1 Pin=R37.10-2
+Added Pin To Net: NetName=NetC61.10_1 Pin=R39.10-1
+Added Net: Name=NetC61.10_1
+Added Pin To Net: NetName=NetC61.11_1 Pin=C58.11-1
+Added Pin To Net: NetName=NetC61.11_1 Pin=R37.11-2
+Added Pin To Net: NetName=NetC61.11_1 Pin=R39.11-1
+Added Net: Name=NetC61.11_1
+Added Pin To Net: NetName=NetC61.12_1 Pin=C58.12-1
+Added Pin To Net: NetName=NetC61.12_1 Pin=R37.12-2
+Added Pin To Net: NetName=NetC61.12_1 Pin=R39.12-1
+Added Net: Name=NetC61.12_1
+Added Pin To Net: NetName=NetC61.13_1 Pin=C58.13-1
+Added Pin To Net: NetName=NetC61.13_1 Pin=R37.13-2
+Added Pin To Net: NetName=NetC61.13_1 Pin=R39.13-1
+Added Net: Name=NetC61.13_1
+Added Pin To Net: NetName=NetC61.14_1 Pin=C58.14-1
+Added Pin To Net: NetName=NetC61.14_1 Pin=R37.14-2
+Added Pin To Net: NetName=NetC61.14_1 Pin=R39.14-1
+Added Net: Name=NetC61.14_1
+Added Pin To Net: NetName=NetC61.15_1 Pin=C58.15-1
+Added Pin To Net: NetName=NetC61.15_1 Pin=R37.15-2
+Added Pin To Net: NetName=NetC61.15_1 Pin=R39.15-1
+Added Net: Name=NetC61.15_1
+Added Pin To Net: NetName=NetC61.16_1 Pin=C58.16-1
+Added Pin To Net: NetName=NetC61.16_1 Pin=R37.16-2
+Added Pin To Net: NetName=NetC61.16_1 Pin=R39.16-1
+Added Net: Name=NetC61.16_1
+Added Pin To Net: NetName=NetC69.1_1 Pin=C66.1-1
+Added Pin To Net: NetName=NetC69.1_1 Pin=R45.1-2
+Added Pin To Net: NetName=NetC69.1_1 Pin=R46.1-2
+Added Net: Name=NetC69.1_1
+Added Pin To Net: NetName=NetC69.2_1 Pin=C66.2-1
+Added Pin To Net: NetName=NetC69.2_1 Pin=R45.2-2
+Added Pin To Net: NetName=NetC69.2_1 Pin=R46.2-2
+Added Net: Name=NetC69.2_1
+Added Pin To Net: NetName=NetC69.3_1 Pin=C66.3-1
+Added Pin To Net: NetName=NetC69.3_1 Pin=R45.3-2
+Added Pin To Net: NetName=NetC69.3_1 Pin=R46.3-2
+Added Net: Name=NetC69.3_1
+Added Pin To Net: NetName=NetC69.4_1 Pin=C66.4-1
+Added Pin To Net: NetName=NetC69.4_1 Pin=R45.4-2
+Added Pin To Net: NetName=NetC69.4_1 Pin=R46.4-2
+Added Net: Name=NetC69.4_1
+Added Pin To Net: NetName=NetC69.5_1 Pin=C66.5-1
+Added Pin To Net: NetName=NetC69.5_1 Pin=R45.5-2
+Added Pin To Net: NetName=NetC69.5_1 Pin=R46.5-2
+Added Net: Name=NetC69.5_1
+Added Pin To Net: NetName=NetC69.6_1 Pin=C66.6-1
+Added Pin To Net: NetName=NetC69.6_1 Pin=R45.6-2
+Added Pin To Net: NetName=NetC69.6_1 Pin=R46.6-2
+Added Net: Name=NetC69.6_1
+Added Pin To Net: NetName=NetC69.7_1 Pin=C66.7-1
+Added Pin To Net: NetName=NetC69.7_1 Pin=R45.7-2
+Added Pin To Net: NetName=NetC69.7_1 Pin=R46.7-2
+Added Net: Name=NetC69.7_1
+Added Pin To Net: NetName=NetC69.8_1 Pin=C66.8-1
+Added Pin To Net: NetName=NetC69.8_1 Pin=R45.8-2
+Added Pin To Net: NetName=NetC69.8_1 Pin=R46.8-2
+Added Net: Name=NetC69.8_1
+Added Pin To Net: NetName=NetC69.9_1 Pin=C66.9-1
+Added Pin To Net: NetName=NetC69.9_1 Pin=R45.9-2
+Added Pin To Net: NetName=NetC69.9_1 Pin=R46.9-2
+Added Net: Name=NetC69.9_1
+Added Pin To Net: NetName=NetC69.10_1 Pin=C66.10-1
+Added Pin To Net: NetName=NetC69.10_1 Pin=R45.10-2
+Added Pin To Net: NetName=NetC69.10_1 Pin=R46.10-2
+Added Net: Name=NetC69.10_1
+Added Pin To Net: NetName=NetC69.11_1 Pin=C66.11-1
+Added Pin To Net: NetName=NetC69.11_1 Pin=R45.11-2
+Added Pin To Net: NetName=NetC69.11_1 Pin=R46.11-2
+Added Net: Name=NetC69.11_1
+Added Pin To Net: NetName=NetC69.12_1 Pin=C66.12-1
+Added Pin To Net: NetName=NetC69.12_1 Pin=R45.12-2
+Added Pin To Net: NetName=NetC69.12_1 Pin=R46.12-2
+Added Net: Name=NetC69.12_1
+Added Pin To Net: NetName=NetC69.13_1 Pin=C66.13-1
+Added Pin To Net: NetName=NetC69.13_1 Pin=R45.13-2
+Added Pin To Net: NetName=NetC69.13_1 Pin=R46.13-2
+Added Net: Name=NetC69.13_1
+Added Pin To Net: NetName=NetC69.14_1 Pin=C66.14-1
+Added Pin To Net: NetName=NetC69.14_1 Pin=R45.14-2
+Added Pin To Net: NetName=NetC69.14_1 Pin=R46.14-2
+Added Net: Name=NetC69.14_1
+Added Pin To Net: NetName=NetC69.15_1 Pin=C66.15-1
+Added Pin To Net: NetName=NetC69.15_1 Pin=R45.15-2
+Added Pin To Net: NetName=NetC69.15_1 Pin=R46.15-2
+Added Net: Name=NetC69.15_1
+Added Pin To Net: NetName=NetC69.16_1 Pin=C66.16-1
+Added Pin To Net: NetName=NetC69.16_1 Pin=R45.16-2
+Added Pin To Net: NetName=NetC69.16_1 Pin=R46.16-2
+Added Net: Name=NetC69.16_1
+Added Pin To Net: NetName=NetC78.1_2 Pin=C75.1-2
+Added Pin To Net: NetName=NetC78.1_2 Pin=R56.1-1
+Added Pin To Net: NetName=NetC78.1_2 Pin=U17.1-12
+Added Net: Name=NetC78.1_2
+Added Pin To Net: NetName=NetC78.2_2 Pin=C75.2-2
+Added Pin To Net: NetName=NetC78.2_2 Pin=R56.2-1
+Added Pin To Net: NetName=NetC78.2_2 Pin=U17.2-12
+Added Net: Name=NetC78.2_2
+Added Pin To Net: NetName=NetC78.3_2 Pin=C75.3-2
+Added Pin To Net: NetName=NetC78.3_2 Pin=R56.3-1
+Added Pin To Net: NetName=NetC78.3_2 Pin=U17.3-12
+Added Net: Name=NetC78.3_2
+Added Pin To Net: NetName=NetC78.4_2 Pin=C75.4-2
+Added Pin To Net: NetName=NetC78.4_2 Pin=R56.4-1
+Added Pin To Net: NetName=NetC78.4_2 Pin=U17.4-12
+Added Net: Name=NetC78.4_2
+Added Pin To Net: NetName=NetC78.5_2 Pin=C75.5-2
+Added Pin To Net: NetName=NetC78.5_2 Pin=R56.5-1
+Added Pin To Net: NetName=NetC78.5_2 Pin=U17.5-12
+Added Net: Name=NetC78.5_2
+Added Pin To Net: NetName=NetC78.6_2 Pin=C75.6-2
+Added Pin To Net: NetName=NetC78.6_2 Pin=R56.6-1
+Added Pin To Net: NetName=NetC78.6_2 Pin=U17.6-12
+Added Net: Name=NetC78.6_2
+Added Pin To Net: NetName=NetC78.7_2 Pin=C75.7-2
+Added Pin To Net: NetName=NetC78.7_2 Pin=R56.7-1
+Added Pin To Net: NetName=NetC78.7_2 Pin=U17.7-12
+Added Net: Name=NetC78.7_2
+Added Pin To Net: NetName=NetC78.8_2 Pin=C75.8-2
+Added Pin To Net: NetName=NetC78.8_2 Pin=R56.8-1
+Added Pin To Net: NetName=NetC78.8_2 Pin=U17.8-12
+Added Net: Name=NetC78.8_2
+Added Pin To Net: NetName=NetC78.9_2 Pin=C75.9-2
+Added Pin To Net: NetName=NetC78.9_2 Pin=R56.9-1
+Added Pin To Net: NetName=NetC78.9_2 Pin=U17.9-12
+Added Net: Name=NetC78.9_2
+Added Pin To Net: NetName=NetC78.10_2 Pin=C75.10-2
+Added Pin To Net: NetName=NetC78.10_2 Pin=R56.10-1
+Added Pin To Net: NetName=NetC78.10_2 Pin=U17.10-12
+Added Net: Name=NetC78.10_2
+Added Pin To Net: NetName=NetC78.11_2 Pin=C75.11-2
+Added Pin To Net: NetName=NetC78.11_2 Pin=R56.11-1
+Added Pin To Net: NetName=NetC78.11_2 Pin=U17.11-12
+Added Net: Name=NetC78.11_2
+Added Pin To Net: NetName=NetC78.12_2 Pin=C75.12-2
+Added Pin To Net: NetName=NetC78.12_2 Pin=R56.12-1
+Added Pin To Net: NetName=NetC78.12_2 Pin=U17.12-12
+Added Net: Name=NetC78.12_2
+Added Pin To Net: NetName=NetC78.13_2 Pin=C75.13-2
+Added Pin To Net: NetName=NetC78.13_2 Pin=R56.13-1
+Added Pin To Net: NetName=NetC78.13_2 Pin=U17.13-12
+Added Net: Name=NetC78.13_2
+Added Pin To Net: NetName=NetC78.14_2 Pin=C75.14-2
+Added Pin To Net: NetName=NetC78.14_2 Pin=R56.14-1
+Added Pin To Net: NetName=NetC78.14_2 Pin=U17.14-12
+Added Net: Name=NetC78.14_2
+Added Pin To Net: NetName=NetC78.15_2 Pin=C75.15-2
+Added Pin To Net: NetName=NetC78.15_2 Pin=R56.15-1
+Added Pin To Net: NetName=NetC78.15_2 Pin=U17.15-12
+Added Net: Name=NetC78.15_2
+Added Pin To Net: NetName=NetC78.16_2 Pin=C75.16-2
+Added Pin To Net: NetName=NetC78.16_2 Pin=R56.16-1
+Added Pin To Net: NetName=NetC78.16_2 Pin=U17.16-12
+Added Net: Name=NetC78.16_2
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C79.1 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C79.2 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C79.3 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C79.4 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C79.5 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C79.6 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C79.7 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C79.8 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C79.9 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C79.10 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C79.11 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C79.12 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C79.13 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C79.14 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C79.15 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C79.16 (C79) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C80.1 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C80.2 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C80.3 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C80.4 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C80.5 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C80.6 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C80.7 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C80.8 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C80.9 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C80.10 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C80.11 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C80.12 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C80.13 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C80.14 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C80.15 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C80.16 (C80) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component C81.1 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier2 Member=Component C81.2 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier3 Member=Component C81.3 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier4 Member=Component C81.4 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier5 Member=Component C81.5 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier6 Member=Component C81.6 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier7 Member=Component C81.7 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier8 Member=Component C81.8 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier9 Member=Component C81.9 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier10 Member=Component C81.10 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier11 Member=Component C81.11 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier12 Member=Component C81.12 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier13 Member=Component C81.13 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier14 Member=Component C81.14 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier15 Member=Component C81.15 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier16 Member=Component C81.16 (C81) Capacitor
+Added Member To Class: ClassName=U_InputAmplifier1 Member=Component D10.1 (D10) Diode_dual
+Added Room: Name=U_InputAmplifier1

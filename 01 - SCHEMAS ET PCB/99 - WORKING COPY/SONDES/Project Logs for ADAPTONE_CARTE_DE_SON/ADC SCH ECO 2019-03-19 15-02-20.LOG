@@ -1,0 +1,56 @@
+Change Value of Parameter Mfg_PN in Part C27 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C27 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C27 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C28 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C28 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C28 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C29 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C29 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C29 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C30 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C30 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C30 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C31 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C31 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C31 Old=100nF New=470pF
+Change Component Parameter Comment in C32 Old= New=Capacitor_Polarized
+Change Value of Parameter Mfg_PN in Part C33 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C33 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C33 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C34 Old=CL21A475KAQNNNG New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C34 Old=1276-6462-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C34 Old=4u7F New=470pF
+Change Value of Parameter Mfg_PN in Part C35 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C35 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C35 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C36 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C36 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C36 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C37 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C37 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C37 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part C38 Old=CL10F104ZO8NNNC New=CL10C471JB8NCNC
+Change Value of Parameter Supplier1_PN in Part C38 Old=1276-1258-1-ND New=1276-2302-1-ND
+Change Value of Parameter Value in Part C38 Old=100nF New=470pF
+Change Value of Parameter Mfg_PN in Part R29 Old=RC0603JR-0710KL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R29 Old=311-10KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R29 Old=10k New=33R
+Replace Symbol from C27 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C28 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C29 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C30 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C31 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C32 Capacitor_Polarized_1 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor_Polarized_1 from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C33 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C34 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C35 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C36 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C37 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from C38 Capacitor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Capacitor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R29 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R30 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R31 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R32 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R33 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from U10 MCP1700 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with MCP1700 from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from U11 CS5368 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\ADC.SchDoc with CS5368 from ADAPTONE_CARTE_DE_SON.IntLib

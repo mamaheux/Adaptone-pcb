@@ -1,0 +1,62 @@
+Change Value of Parameter Mfg in Part D19 Old=Wurth New=Osram
+Change Value of Parameter Mfg_PN in Part D19 Old=150080BS75000 New=LY R976-PS-36
+Change Value of Parameter Supplier1_PN in Part D19 Old=732-4982-1-ND New=475-2560-1-ND
+Change Value of Parameter Type in Part D19 Old=B New=Y
+Change Value of Parameter Mfg in Part D20 Old= New=Osram
+Change Value of Parameter Mfg_PN in Part D20 Old= New=LY R976-PS-36
+Change Value of Parameter NI in Part D20 Old=NI New=
+Change Value of Parameter Supplier1 in Part D20 Old= New=Digikey
+Change Value of Parameter Supplier1_PN in Part D20 Old= New=475-2560-1-ND
+Change Value of Parameter Type in Part D20 Old=R New=Y
+Change Value of Parameter Mfg_PN in Part D21 Old=LG R971-KN-1 New=LY R976-PS-36
+Change Value of Parameter Supplier1_PN in Part D21 Old=475-1410-1-ND New=475-2560-1-ND
+Change Value of Parameter Type in Part D21 Old=G New=Y
+Change Value of Parameter Mfg in Part D22 Old= New=Osram
+Change Value of Parameter Mfg_PN in Part D22 Old= New=LY R976-PS-36
+Change Value of Parameter NI in Part D22 Old=NI New=
+Change Value of Parameter Supplier1 in Part D22 Old= New=Digikey
+Change Value of Parameter Supplier1_PN in Part D22 Old= New=475-2560-1-ND
+Change Value of Parameter Type in Part D22 Old=R New=Y
+Change Value of Parameter Mfg_PN in Part D23 Old=LS R976-NR-1 New=LY R976-PS-36
+Change Value of Parameter Supplier1_PN in Part D23 Old=475-1278-1-ND New=475-2560-1-ND
+Change Value of Parameter Type in Part D23 Old=R New=Y
+Change Value of Parameter Mfg in Part D24 Old= New=Osram
+Change Value of Parameter Mfg_PN in Part D24 Old= New=LY R976-PS-36
+Change Value of Parameter NI in Part D24 Old=NI New=
+Change Value of Parameter Supplier1 in Part D24 Old= New=Digikey
+Change Value of Parameter Supplier1_PN in Part D24 Old= New=475-2560-1-ND
+Change Value of Parameter Type in Part D24 Old=R New=Y
+Change Value of Parameter Mfg_PN in Part R135 Old=RC0603JR-071KL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R135 Old=311-1.0KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R135 Old=1k New=33R
+Change Value of Parameter Mfg_PN in Part R136 Old=RC0603JR-0791RL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R136 Old=311-91GRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R136 Old=91R New=33R
+Change Value of Parameter Mfg_PN in Part R137 Old=RC0603JR-071KL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R137 Old=311-1.0KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R137 Old=1k New=33R
+Change Value of Parameter Mfg_PN in Part R138 Old=RC0603JR-0710KL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R138 Old=311-10KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R138 Old=10k New=33R
+Change Value of Parameter Mfg_PN in Part R139 Old=RC0603JR-0710KL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R139 Old=311-10KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R139 Old=10k New=33R
+Change Value of Parameter Mfg_PN in Part R140 Old=RC0603JR-0710KL New=RC0603JR-0733RL
+Change Value of Parameter Supplier1_PN in Part R140 Old=311-10KGRCT-ND New=311-33GRCT-ND
+Change Value of Parameter Value in Part R140 Old=10k New=33R
+Replace Symbol from D19 Diode_LED in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Diode_LED from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from D20 Diode_LED in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Diode_LED from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from D21 Diode_LED in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Diode_LED from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from D22 Diode_LED in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Diode_LED from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from D23 Diode_LED in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Diode_LED from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from D24 Diode_LED in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Diode_LED from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from P1 CON6_3020-06-0300-00 in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with CON6_3020-06-0300-00 from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from Q2 BJT_N_GDS in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with BJT_N_GDS from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from Q3 BJT_N_GDS in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with BJT_N_GDS from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from Q4 BJT_N_GDS in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with BJT_N_GDS from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R135 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R136 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R137 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R138 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R139 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
+Replace Symbol from R140 Resistor in C:\ADAPTONE_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\CARTE_DE_SON\U_LEDs_I2C_PORT.SchDoc with Resistor from ADAPTONE_CARTE_DE_SON.IntLib
